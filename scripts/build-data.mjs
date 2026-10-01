@@ -18,7 +18,7 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, "..");
 const OUTPUT_DIR = path.join(ROOT, "output");
-const DATA_DIR = path.join(ROOT, "web", "src", "data");
+const DATA_DIR = path.join(ROOT, "src", "data");
 const CHAPTERS_DIR = path.join(DATA_DIR, "chapters");
 
 // ── helpers ─────────────────────────────────────────────────────────────────
@@ -116,5 +116,5 @@ fs.writeFileSync(
 
 console.log(`\n✅ Done!`);
 console.log(`   Stories: ${processed} processed, ${skipped} skipped`);
-console.log(`   Output:  web/src/data/stories.json`);
-console.log(`            web/src/data/chapters/<slug>.json`);
+console.log(`   Output:  src/data/stories.json`);
+console.log(`            src/data/chapters/<slug>.json`);

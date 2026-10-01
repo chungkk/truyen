@@ -1,12 +1,28 @@
 {
-  "name": "truyen-crawler-root",
+  "name": "truyen",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
-    "mobile": "cd mobile && npm run ios",
-    "mobile:android": "cd mobile && npm run android",
-    "mobile:start": "cd mobile && npm start",
-    "web": "cd web && npm run dev",
-    "export-data": "python3 export_for_mobile.py",
-    "export-content": "python3 export_chapters_content.py"
+    "build-data": "node scripts/build-data.mjs",
+    "prebuild": "node scripts/build-data.mjs",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "16.2.4",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.2.4",
+    "tailwindcss": "^4",
+    "typescript": "^5"
   }
 }
