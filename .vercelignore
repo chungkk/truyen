@@ -1,0 +1,5 @@
+# Raw crawler output: served via GitHub raw CDN, not needed at build time
+output
+# React Native apps, built separately
+mobile
+mobile_src

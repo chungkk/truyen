@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import "./site.css";
 
 export const metadata: Metadata = {
   title: "Truyện Online - Kho Truyện Hay Miễn Phí",
@@ -13,11 +14,6 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="vi">
-      <head>
-        <meta charSet="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="stylesheet" href="/site.css" />
-      </head>
       <body>
         {/* LOGO / HEADER */}
         <div className="site-logo-wrap">

@@ -12,6 +12,10 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // React Native projects with their own tooling
+    "mobile/**",
+    "mobile_src/**",
+    "output/**",
   ]),
 ]);
 
