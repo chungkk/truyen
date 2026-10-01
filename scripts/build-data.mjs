@@ -45,11 +45,14 @@ for (const dir of storyDirs) {
     continue;
   }
 
-  // num_chapters drives the chapter list in the app, so derive it from the
-  // files actually present rather than trusting the crawler's metadata.
+  // num_chapters drives the chapter list in the app. Use the highest chapter
+  // file present rather than the crawler's metadata, which can overcount.
+  // Some stories have gaps in the middle, so use max, not count.
   const numChapters = fs
     .readdirSync(path.join(OUTPUT_DIR, slug))
-    .filter((f) => /^chapter_\d+\.txt$/.test(f)).length;
+    .map((f) => f.match(/^chapter_(\d+)\.txt$/))
+    .filter(Boolean)
+    .reduce((max, m) => Math.max(max, parseInt(m[1], 10)), 0);
 
   stories.push({ ...meta, num_chapters: numChapters, slug });
 }
