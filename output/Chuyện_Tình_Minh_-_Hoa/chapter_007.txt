@@ -1,0 +1,652 @@
+Chapter 7
+========================================
+
+Sáng hôm ấy, Hoa dậy sớm, lòng cô đầy tính toán. Sau những gì xảy ra với Dũng hôm trước, cô quyết định tiếp tục duy trì mối quan hệ này một cách khéo léo, vừa để giữ lửa với cậu, vừa thăm dò thêm thông tin về gia đình ông Trí. Cô mặc chiếc đầm ngắn quen thuộc, lộ ra đôi chân trắng mịn với lông đùi lưa thưa gợi cảm, và bước chân đến biệt thự nhà Dũng. Khi vào phòng học, Dũng đã ngồi chờ sẵn, mắt cậu sáng rỡ khi thấy cô, miệng cười tươi rói: “Ôi Chị Hoa! Chị đến rồi hả chị? Hôm nay chị mặc đầm đẹp quá trời luôn, em nhìn chị mà tim đập thình thịch kinh khủng nè! Chị đẹp mê hồn luôn, em mê chị mất rồi chị ơi. Chị ngồi gần em đi chị, em muốn ngửi mùi hương của chị hoài. Chị thơm quá, ngồi sát em nha chị.”
+
+Hoa mỉm cười trìu mến, ngồi xuống bên cạnh cậu, giọng ngọt ngào: “Ừ Dũng ơi, chị đến rồi đây. Hôm nay chị thấy em vui ghê ha, chị cũng nhớ em lắm nè, nhưng mình học trước nha em. Vì hôm qua em ngoan và tiếp thu tốt, nên chị thưởng cho em: Hôm nay 35 phút học thôi, còn 25 phút sau chị chiều em hết mình luôn. Em vui không Dũng? Chị thương em nên mới thưởng vậy đó nha, em hứa học ngoan nha, chị muốn em giỏi hơn nữa đó Dũng!”
+
+Dũng gật đầu lia lịa, mắt nhìn cô đầy háo hức: “Dạ chị, em vui kinh khủng luôn, chị thưởng em vậy em hứa em học sẽ ngoan, em sẽ tập trung vì chị. Nhưng chị ơi, hôm nay chị dạy gì vậy chị? Em thích chị dạy thơ tình như hôm qua, giọng chị ngọt ngào làm em muốn nghe mãi, chị ngồi sát em hơn nữa đi chị, em thèm chị quá.”
+
+Hoa cười khúc khích, dịch ghế sát hơn, giọng ấm áp: “Ừ em, hôm nay chị dạy tiếp về thơ tình, nhưng chị sẽ làm nóng bỏng hơn chút, liên hệ với tình yêu mình nhiều hơn để em dễ nhớ. Em lấy sách ra đi Dũng, chị bắt đầu giảng nha. Đoạn thơ này nói về nỗi nhớ da diết: ‘Nhớ em anh nhớ đến nao lòng, Nhớ da nhớ thịt nhớ hương nồng’. Em nghĩ sao? Nó gợi cảm xúc gì cho em? Em phân tích đi, chị nghe xem em hiểu đến đâu, em liên hệ với nỗi nhớ chị đi em, chị thích em kể chi tiết lắm, em nói em nhớ chị thế nào nha Dũng.”
+
+Dũng suy nghĩ, giọng háo hức: “Dạ chị, nó gợi nỗi nhớ quay quắt, như em nhớ chị mỗi đêm ấy, nhớ da thịt chị mịn màng, nhớ hương chị thơm tho, nhớ cái lồn chị ướt át, hì hì! Em nằm nghĩ về chị hoài, về nụ cười chị, về tiếng rên sướng của chị, em muốn ôm chị mãi thôi. Chị thấy em phân tích hay không chị? Em liên hệ với tình yêu mình vậy chị khen em đi chị, em thích chị khen em giỏi đó, hì hì!”
+
+Hoa nhìn cậu trìu mến, giọng ngọt ngào: “Em giỏi ghê đó Dũng! Chị nghe bậy bạ mà rung động luôn, hì hì. Em liên hệ hay quá, chị tự hào về em lắm. Bây giờ em đọc to đoạn này đi, chị sẽ giải thích thêm về hình ảnh ẩn dụ nha, em đọc chậm chậm cho chị nghe, đọc như đang bày tỏ tình yêu với chị vậy, chị thích giọng em đọc thơ tình lắm, em đọc hay ghê Dũng!”
+
+Dũng đọc to, giọng trầm ấm: “Nhớ em anh nhớ đến nao lòng, Nhớ da nhớ thịt nhớ hương nồng… Dạ chị, em đọc vậy đúng không? Chị thấy em đọc hay không chị? Em sẽ đọc lại nếu chị muốn nha! Chị chỉ em cách đọc cho gợi cảm hơn đi chị, em muốn đọc để thấy chị rung động, hì hì!”
+
+Hoa gật đầu, cười tươi: “Hay lắm em, giọng em đọc thơ nghe mê hoặc ghê! Chị nghe mà tim đập mạnh luôn nè, hì hì. Chị thích em đọc vậy lắm. Bây giờ chị hỏi em, ý nghĩa của ‘nhớ da nhớ thịt’ ở đây là gì? Em suy nghĩ kỹ đi, chị chờ em trả lời, em giải thích chi tiết cho chị nghe nha, chị muốn biết em hiểu sâu đến đâu, em liên hệ với nỗi nhớ da thịt chị đi Dũng, chị thích nghe em kể.”
+
+Dũng trả lời: “Dạ chị, nghĩa là nhớ cơ thể người yêu, nhớ da thịt mịn màng, như em nhớ da chị trắng mịn, nhớ thịt chị mềm mại, nhớ vú chị căng tròn, nhớ mông chị cong cong, em muốn chạm vào chị hoài, hì hì. Chị thấy đúng không chị? Em hỏi chị, chị có nhớ da thịt em không chị? Chị kể em nghe chị nhớ em thế nào đi chị, em thích nghe chị nói ngọt ngào đó!”
+
+Hoa vuốt má cậu nhẹ: “Đúng rồi Dũng, em phân tích sâu sắc ghê! Chị nhớ em kinh khủng, nhớ da thịt em ấm áp, nhớ con cặc em cứng ngắc, chị nhớ em ôm chị hoài, hì hì. Bây giờ chị giảng đoạn tiếp nha, em nghe kỹ đi, em hỏi chị nếu không hiểu nha Dũng ơi, chị muốn em hỏi nhiều để bài học thú vị hơn!”
+
+Một lúc sau, Dũng không kiềm được, tay cậu thò xuống dưới bàn, sờ mông cô qua đầm: “Chị Hoa ơi… mông chị cong quá, em sờ chút thôi nha… Em không chịu nổi khi ngồi gần chị thế này đâu! Chị đẹp quá, em thèm chạm vào chị quá chị ơi! Em sờ nhẹ thôi, chị cho em sờ mông chị nha, em hứa không làm gì nhiều đâu chị!”
+
+Hoa nhìn Dũng trìu mến, mắt long lanh, rồi nhẹ nhàng gỡ tay cậu ra, giọng ngọt ngào: “Dũng ơi, em hư quá đi, tập trung học đi em. Học tốt thì lát 25 phút cuối, chị chiều em hết mà! Đừng làm chị buồn nha Dũng, chị đang giảng hay mà em, em hứa với chị đi! Chị thương em lắm, chị muốn em học giỏi vì chị mà cũng vì em. Lát chị sẽ cho em sờ thỏa thích, chị hứa đó Dũng!”
+
+Dũng tiu nghỉu, rút tay về: “Dạ chị, em xin lỗi, em nghe lời chị. Chị giảng tiếp đi, em hứa không đụng chị nữa. Nhưng chị ơi! Em nhớ mông chị quá, chị hứa nha, em sẽ học giỏi để chị thưởng, chị kể chị sẽ thưởng em gì đi chị, em thích chị kể chi tiết đó!”
+
+Hoa cười khúc khích: “Ngoan vậy chị mới thương chứ! Ừ, chị hứa mà, chị sẽ cho em sờ mông chị nè, sờ lồn chị nè, liếm lồn chị nè, gì em muốn chị chiều hết trừ đụ chị thôi nha, hì hì. Bây giờ học tiếp nha em. Chị hỏi em về bài thơ nữa, em trả lời nha Dũng! Em phân tích đoạn tiếp cho chị nghe nha, chị thích nghe em nói chi tiết, em liên hệ với tình yêu mình đi em!”
+
+Dũng gật: “Dạ chị, đoạn tiếp nói về nỗi nhớ khiến người ta không ngủ được! Như em nhớ chị, chị Hoa ơi! Em nằm nghĩ về chị hoài, về những lúc chị bú con cặc em, về tiếng rên của chị! Em hứa sẽ học tốt để được chị chiều em hơn nữa, để được chị yêu em hơn! Chị thấy em phân tích hay không chị? Em muốn chị khen em đó nha, em giỏi mà, hi hì. Chị khen em đi chị, em thích chị khen em giỏi. Chị kể em nghe chị yêu em nhiều thế nào đi chị, có yêu mới nói nha, hì hì!”
+
+Hoa: “Giỏi lắm Dũng, chị yêu em rồi đó! Em phân tích hay ghê. Chị yêu em nhiều lắm, chị nhớ em suốt đó Dũng ơi. Giờ chị giảng đoạn tiếp nha, em nghe thật kỹ. Em hỏi chị nếu không hiểu nha Dũng. Em liên hệ với nỗi nhớ của chị đi em. Chị nhớ em da diết lắm luôn đó Dũng ơi!”
+
+Dũng: “Dạ chị, em vui lắm, em sẵn sàng. Chị hỏi em đi? Em trả lời hay cho chị nghe liền, hi hi. Nhưng mà chị ơi! Chị nhớ em da diết nghĩa là nhớ sao vậy chị? Chị kể chi tiết đi chị, em thích nghe chị kể nhớ em da diết là nhớ thế nào? Có nhớ thiệt không đó? Hì hì!”
+
+Hoa: “Ừ em, chị nhớ em da diết là nhớ da thịt em đó! Nhớ con cặc em, hì hì. Nhớ em làm chị sướng. Em hiểu chưa em Dũng? Em hỏi chị đi nếu thắc mắc, chị thích em hỏi nhiều hơn đó Dũng!”
+
+Dũng: “Dạ em hiểu chị! Chị Hoa, chị yêu em phải không chị? Em vui quá! Em hỏi chị nha, chị yêu em nhiều không chị? Chị kể em nghe chị mơ về em gì đi chị, có thì mới nói nha, hì hì!”
+
+Hoa: “Dũng nha, em nha, bày đặt móc họng chị hoài nha! Chị yêu em nhiều thiệt đó! Chị yêu em kinh khủng luôn, hì hì. Chị mơ em ôm chị, làm tình với chị hoài luôn, hì hì. Em vui thì chị vui hơn đó Dũng! Giờ em kể chị nghe em yêu chị thế nào đi Dũng! Em kể chi tiết nha, chị thích nghe em bày tỏ lòng em với chị!”
+
+Dũng: “Em vui lắm, vì em chị yêu em nhiều vậy. Em yêu chị đến mức nhớ chị hoài luôn đó! Em muốn bên chị mãi chị ơi! Em nhớ vú chị nè, em nhớ lồn chị nè, em mơ được đụ chị mỗi đêm nè, hì hì. Chị kể chị nhớ em gì đi chị, chị kể chi tiết nha chị! Mà có nhớ thì mới kể nha! Ha ha!”
+
+Hoa: “Em nha, Dũng nha, Em có tin là chị cắn đứt con cặc bự của em không hả? Sốc chị hoài hả? Dũng nè, chị nói thiệt, chị nhớ em suốt đó! Nhớ nụ cười em, nhớ em học giỏi vì chị, nhớ con cặc em làm chị sướng nè, tưởng tượng thôi nha, chờ đậu đại học nha cưng, hì hì. Giờ học tiếp nha Dũng! Chị hỏi em về chủ đề bài thơ nha, em trả lời chi tiết cho chị nghe nha Dũng!”
+
+Dũng: “Ôi, em chỉ chọc chị chút thôi mà đòi cắn đứt con cặc em kìa, vậy mà nói yêu em nhớ em, hì hì. Dạ chị, chủ đề là tình yêu nhớ nhung da diết, đúng không chị? Chị khen em cái coi, hì hì. Chị kể em nghe chị nhung nhớ em thế nào nữa đi chị! OK em không chọc chị nữa, hì hì!”
+
+Lúc này Dũng lại thò tay sờ mông cô lần nữa: “Chị Hoa ơi, em sờ mông chị nữa nha… Em thèm quá chị ơi! Mông chị mềm ghê, em sờ nhẹ thôi mà! Chị cho em sờ thoải mái chút nha chị! Em hứa không làm gì nhiều, chị đẹp quá em chịu không nổi thiệt luôn đó!”
+
+Hoa không gỡ tay cậu ra liền, để cậu sờ thoải mái chút, mắt nhìn cậu trìu mến: “Dũng ơi… em… em hư quá mà, lại đòi hỏi nữa… OK chị cho em sờ chút đó, sờ mạnh đi em! Chị sẽ thấy thích khi tay em sờ mông chị mạnh, nắn cũng được, hì hì!”
+
+Dũng hào hứng: “Dạ chị, em sờ nhẹ trước nè! Mông chị cong quá chị Hoa ơi, sờ cái em nứng cặc liền nè, hi hi! Em bóp nhẹ, chị không sướng hả? Em không gỡ tay em, em vui lắm! Chị thương em phải không chị? Em sờ mạnh cho chị sướng nè, em nắn nè, sao em không sờ cái lồn đẹp chị, em khó chịu quá chị Hoa ơi! Em thèm chị quá mà!”
+
+Hoa rên khẽ, giọng ngọt ngào hơn: “Ừ em… chị thương em lắm! Sờ đi nhưng nhẹ thôi nha Dũng! Chị thấy thích thích sao ấy, hì hì! Nhưng em tập trung học đi, lát chị sẽ chiều em nhiều hơn! Chị hứa sẽ cho em sờ thỏa thích hơn nữa, chị muốn em học giỏi vì chị mà!”
+
+Sau đó, cô nhẹ nhàng gỡ tay cậu ra: “Thôi em, học tiếp nha Dũng, chị hứa lát chiều em nhiều hơn mà! Em ngoan đi chị thương!”
+
+Dũng: “Dạ chị, em nghe lời chị. Chị giảng tiếp đi chị, em hứa tập trung! Nhưng chị cho em biết là chị sẽ chiều em nhiều hơn là gì đi!”
+
+Hoa: “OK em! Chị sẽ cho em sờ mông chị, bóp vú chị, liếm lồn chị, và chị sẽ rên sướng cho em nghe, chịu chưa? Bây giờ học tiếp nha! Chị hỏi em về hình ảnh trong đoạn này nha! Em trả lời đi, em phân tích sâu hơn cho chị nghe, chị thích em liên hệ nhiều hơn! Em kể em nhớ chị da diết thế nào đi Dũng!”
+
+Dũng: “Dạ chị, em cảm ơn chị. Hình ảnh ‘hương nồng’ nghĩa là mùi hương của người yêu! Như mùi lồn chị thơm tho, em nhớ hoài nè, hì hì. Chị thấy hay không chị? Ha ha! Em nói thiệt đó, cái lồn chị thơm thiệt đó, em mê nó mà! Em hỏi thiệt chị nha: Chị có nhớ mùi con cặc em không chị? Nói thiệt nha, không cười!”
+
+Hoa: “Hay nha! Vậy mà cũng nghĩ ra được, giỏi Dũng! Dũng nè! Chị nhớ mùi con cặc em kinh khủng luôn đó, nó thúi hoắc à! Ha ha! Nói thiệt chứ, chị nhớ em làm chị sướng lắm đó, hì hì. Mà em giỏi ghê ha! Giờ chị giảng tiếp nha, em nghe và hỏi chị nhiều hơn đi, chị thích đối đáp với em nhiều hơn!”
+
+Dũng: “Dạ chị, chị giảng hay quá, em thích chị giải thích tình yêu trong thơ, chị liên hệ với tình yêu mình đi chị! Em muốn nghe chị nói yêu em nhiều hơn, chị kể chị mơ về em gì nữa đi chị!”
+
+Hoa: “Ừ em, bài thơ gợi tình yêu da diết, như chị yêu em vậy, chị mơ em ôm chị, làm tình với chị hoài Dũng ơi, hì hì! Em hiểu chưa em? Em hỏi chị đi, chị chờ em hỏi nha!”
+
+Dũng: “Dạ hiểu chị! Chị mơ làm tình với em nghĩa là gì chị? Hê hê. Chị kể chi tiết đi, em thích nghe chị kể gợi tình nha, hê hê!”
+
+Hoa: “Chị mơ em liếm lồn chị nè, mơ em đụ chị mạnh mẽ nè, chị rên sướng vì em nè, hì hì. Em kể em nhớ chị gì đi, chị thích nghe em kể nhiều hơn nha!”
+
+Dũng: “Em nhớ lồn chị, nhớ day hột le chị, em muốn bú lồn chị hoài, hê hê. Chị thấy em kể hay không chị? Chị kể thêm chị thèm em gì đi chị, Hê hê!”
+
+Hoa: “Dũng, hay lắm em! Chị thèm con cặc em đâm sâu vào lồn chị, hì hì. Giờ em hỏi chị nữa đi Dũng, hỏi tiếp nha cưng! Chị chờ em hỏi nha!”
+
+Dũng: “Chị ơi, chị Hoa ơi! Chị thèm con cặc em đâm sâu nghĩa là gì vậy chị? Chị kể chi tiết em tưởng tượng nha, hê hê!”
+
+Hoa: “Chị thèm con cặc em đâm mạnh, làm chị rên a… a… vì sướng, ôi, chị mắc cỡ quá, hì hì. Em kể em thèm chị gì đi, chị thích nghe nha, chi tiết nha!”
+
+Dũng: “Chị Hoa ơi, chị dâm của em ơi! Em thèm vén đầm chị, bú lồn chị ở truồng, hê hê. Chị kể thêm chị thèm em gì đi chị! Nói thiệt nha!”
+
+Hoa: “OK Dũng! Chị thèm em lột truồng chị, ngoạm lông lồn chị, hê hê! Giờ em hỏi chị nữa đi Dũng, chị chờ em hỏi nha!”
+
+Dũng: “Hì hì! Chị ơi, chị thèm em ngoạm lông lồn chị nghĩa là gì chị? Chị kể chi tiết hơn đi nha!”
+
+Hoa: “Dũng nè! Chị thèm em ngoạm và nhai lông lồn chị, làm chị sướng lạ lạ đó em, hiểu chưa cưng! Em kể em thèm chị gì nữa đi Dũng!”
+
+Lúc Dũng lại bắt đầu sờ mông cô nữa: “Chị Hoa ơi, em sờ mông chị nữa nha… Em thèm chị quá à! Mông chị mềm ghê, em bóp nhẹ nè chị, chị cho em sờ thoải mái chút đi chị ơi! Chị đẹp quá em chịu không nổi mà chị!”
+
+Hoa lại không gỡ tay liền, thấy cậu dễ thương quá nên chìu cậu chút, mắt trìu mến nhìn cậu: “Dũng ơi… em hư quá đi… nhưng chị cho em sờ chút thôi nha! Em sờ mạnh đi em, chị thấy thích tay em bóp vậy đó, nhưng sau đó em tập trung học học nha em!”
+
+Dũng hào hứng, tay mò xuống sờ lồn cô: “Dạ chị, em muốn sờ cái lồn của chị nè, hì hì! Em chị nha… ôi! Cái lồn chị ướt rồi chị ơi, em bóp nhẹ nè, chị sướng không chị Hoa? Em kéo xì líp chị xuống chút nha, em cởi ra luôn nha chị! Em thích chị ở truồng cho em sờ! Em bỏ xì líp vô túi em luôn rồi, chị cho em nha, hì hì! Em bóp lồn chị mạnh hơn cho chị sướng nè, day hột le chị nữa nè, chị rên đi chị!”
+
+Hoa rên khẽ: “Ôi Dũng! A… a… em ơi! Sờ đi… sờ đi em… chị sướng… em kéo xì líp chị xuống rồi hả? Em cởi ra luôn rồi hả? Ôi Dũng ơi! Chị ở truồng cho em sờ luôn đó, chị phê quá Dũng ơi! Em bóp lồn chị mạnh nữa đi Dũng! Day hột le chị vòng quanh đi em! Sướng quá em ơi… Em giỏi ghê! Chị rên cho em nghe nha: A… a… day mạnh hơn nữa đi em!”
+
+Dũng: “Ôi, chị Hoa ơi! Cái lồn chị múp quá à, Em thích quá… em thích quá à… Em bóp hai múi thịt lồn của chị nè! Day hột le mạnh cho chị nè! Chị ướt át kinh khủng luôn rồi! Chị ở truồng dạy em tiếp nha chị! Chị Hoa ơi, sướng không chị? Em muốn day hột le hoài cho chị sướng hơn nữa nè!”
+
+Hoa: “Ừ em, chị sướng kinh, day nữa đi Dũng, chị ở truồng dạy em đây! Chị cũng thích em day vậy nha, hì hì! Chị rên khẽ cho em nghe nè: A… a… ôi! Em làm chị phê quá Dũng ơi!”
+
+Sau đó, cô nhẹ nhàng gỡ tay cậu ra, giọng ngọt ngào hơn nữa để vỗ về cậu: “Thôi được rồi em, tập trung học đi Dũng ơi! Lát chị sẽ chiều em nhiều hơn nữa nha em! Chị hứa sẽ cho em làm gì chị cũng chiều đó! Chị không lấy lại xì líp đâu, cho em đó! Chị ở truồng dạy em tiếp nè, đừng có sờ mó lung tung nha, em ngoan đi chị thương!”
+
+Dũng: “Dạ chị, em nghe lời chị. Chị giảng tiếp đi chị, em hứa tập trung! Nhưng chị sẽ chiều em nhiều hơn là gì vậy chị?”
+
+Hoa: “OK Dũng! Chị sẽ cho em lột truồng chị và bú lồn chị, làm chị lên đỉnh, được chưa? Bây giờ học tiếp nha em! Chị hỏi em về đoạn cuối bài thơ nha, em phân tích sâu hơn cho chị nghe, chị thích em liên hệ nhiều hơn nữa, em kể em yêu chị bất diệt thế nào đi Dũng!”
+
+Dũng: “Dạ chị… dạ chị! Đoạn cuối nói về tình yêu bất diệt, như em yêu chị vậy, chị thấy đúng không? Em nhớ chị da diết là nhớ lồn chị ở truồng đó! Nhớ em sờ chị hoài đó! Chị khen em đi chị, chị kể chị nhớ em gì nhiều hơn đi chị Hoa!”
+
+Hoa: “Giỏi lắm em! Chị nhớ em kinh khủng luôn, nhớ em sờ lồn chị sướng tê luôn! Giờ chị giảng tiếp nha, em nghe và hỏi chị nhiều hơn đi! Chị thích đối đáp dài với em! Em hỏi chị về tình yêu trong thơ đi Dũng.”
+
+Dũng: “Dạ chị! Tình yêu trong thơ giống tình yêu hai đứa mình không chị? Chị kể chi tiết đi, em thích nghe chị kể gợi tình hơn!”
+
+Hoa: “Ừ, giống lắm em! Tình yêu da diết, nhớ nhung da thịt, như chị nhớ con cặc em đâm vào lồn chị, hê hê, tưởng tượng thôi nha! Em kể em nhớ chị gì đi, chị thích nghe em kể nhiều hơn!”
+
+Dũng: “Em nhớ lồn chị ở truồng! Nhớ day hột le chị, em muốn bú lồn chị hoài luôn! Em kể hay, đúng không chị? Chị kể thêm chị thèm em gì đi chị!”
+
+Hoa: “Hay lắm em! Chị thèm con cặc em đâm sâu vào lồn chị, hề hề, cứ chờ nha em! Giờ em hỏi chị nữa đi Dũng, chị chờ em hỏi nha!”
+
+Dũng: “Chị Hoa nè, chị dâm ghê luôn đó! Chị thèm con cặc em đâm sâu nghĩa là gì chị? Chị kể chi tiết em tưởng tượng nha!”
+
+Hoa: “Hì hì, ừ chị dâm, chị dâm cho em chết luôn, hì hì! Chị thèm con cặc em đâm mạnh, làm chị rên a… a… vì sướng đó em! Em kể em thèm chị gì đi, chị thích nghe!”
+
+Dũng: “Em thèm vén đầm chị nhè nhẹ lên và bú lồn chị ở truồng, hê hê! Chị nói thêm chị thèm em gì nữa đi chị!”
+
+Hoa: “Chị thèm em lột truồng chị mạnh bạo, ngoạm lông lồn chị cái bụp, được chưa! Giờ em hỏi chị nữa đi Dũng, chị chờ em hỏi nữa nha!”
+
+Dũng: “Chị ơi! Chị thèm em ngoạm lông lồn chị nghĩa là gì chị? Chị kể chi tiết hơn đi!”
+
+Hoa: “Chị thèm em ngoạm và nhai lông lồn chị, làm chị sướng lạ lạ đó em! Em kể em thèm chị gì nữa đi!”
+
+Dũng: “Em thèm day hột le chị, liếm lồn chị đến khi chị rên sướng và ra luôn, hê hê. Chị kể thêm đi chị!”
+
+Hoa: “Chị kể chị thèm em day hột le chị đó, làm chị phê phê. Giờ em hỏi chị nữa đi Dũng, chị chờ em hỏi nữa đó!”
+
+Dũng: “Chị ơi, chị thèm em day hột le chị nghĩa là sao chị? Chị kể chi tiết hơn đi!”
+
+Hoa: “Chị thèm em day mạnh hột le chị hơn nữa đó Dũng! Làm chị rên a… a… tê người luôn! Em kể em thèm chị gì nữa đi Dũng!”
+
+Và rồi Dũng lại mò tay sờ lồn cô ở truồng lúc này: “Chị Hoa ơi, chị cho em sờ cái lồn chị nữa nha… cái lồn chị ướt quá nè! Em bóp nè, day hột le chị vòng quanh cho chị nè! Chị rên đi chị, em vén đầm chị lên bú lồn chị chút nha! Em liếm khe lồn chị đây, quét lưỡi dọc khe nè chị!”
+
+Hoa rên khẽ: “A… a… sờ đi em! Bóp lồn chị mạnh nữa Dũng! Day hột le chị đi, ôi! Sướng quá em ơi… em vén đầm chị rồi hả? Bú lồn chị luôn đi em! Liếm mạnh đi em! Ôi, lưỡi em ấm quá! Chị phê kinh luôn Dũng ơi! Liếm sâu vô khe lồn chị đi em! Chị rên cho em nghe nè: A… a… em giỏi ghê Dũng ơi!”
+
+Dũng: “Lồn chị ngon quá chị Hoa ơi! Em liếm hột le chị nè, day mạnh nha, chị run chưa? Em bú lồn chị hoài luôn chị ơi, cái lồn chị đã quá mà, chị sướng không? Chị kể chị sướng thế nào đi chị!”
+
+Hoa: “Run rồi em, sướng kinh khủng luôn, liếm nhanh hơn đi Dũng, chị sướng tê lồn vì lưỡi em đó Dũng, bú nữa đi em!”
+
+Dũng: “Em liếm sâu hơn nha chị, day hột le liên tục cho chị nè! Ôi, chị ướt át kinh, chị rên lớn hơn đi chị, em thích nghe chị rên a… a… a… hoài đó!”
+
+Hoa: “A… a… a… a… a… a… liếm đi em, chị rên nữa nè a… a… a… a… a… a… a… a… ôi! Sướng quá Dũng ơi, em làm chị phê hơn nữa đi em!”
+
+Dũng: “Chị run mạnh chưa chị? Em day hột le chị nhanh hơn nè, chị kể chị thèm em liếm gì nữa đi chị, em bú mạnh hơn nha, chị rên tha thiết hơn đi chị Hoa!”
+
+Hoa: “Run kinh em ơi! Chị thèm em liếm hột le chị hoài, rên nữa nè Dũng ơi: A… a… a… a… a… a… a… a… a… a… phê quá Dũng ơi!”
+
+Sau đó, cô nhẹ nhàng gỡ đầu cậu ra, kéo đầm xuống: “Thôi em! Tập trung học đi Dũng ơi, lát chị sẽ chiều em nhiều hơn nữa! Chị hứa sẽ cho em bú lồn chị thỏa thích! Em ngoan đi chị thương hơn!”
+
+Dũng: “Dạ chị, em nghe lời chị. Chị giảng tiếp đi chị! Em hứa tập trung, nhưng nói chi tiết chị chiều em nhiều hơn đi!”
+
+Hoa: “Ừ em, chị sẽ cho em lột truồng chị! Giật lông lồn chị, bú lồn chị đến khi chị lên đỉnh luôn! Bây giờ học tiếp nha em, chị hỏi em về ý nghĩa toàn bài thơ đi, em phân tích sâu hơn nữa cho chị nghe, chị thích em liên hệ nhiều hơn nữa, em kể em yêu chị bất diệt thế nào đi Dũng!”
+
+Dũng: “Dạ chị, ý nghĩa là tình yêu nhớ nhung bất diệt, như em yêu chị mãi mãi, em nhớ chị hoài, nhớ lồn chị ở truồng! Chị thấy hay không chị? Em hỏi chị, chị yêu em bất diệt nghĩa là gì chị? Chị kể chi tiết đi nha chị!”
+
+Hoa: “Hay lắm Dũng, em thông minh nha! Chị yêu em bất diệt là yêu em mãi! Thèm em làm chị sướng hoài! Em giỏi ghê! Giờ chị giảng thêm nha, em hỏi chị nhiều hơn đi, chị thích đối đáp dài hơn nữa với em!”
+
+Dũng: “Dạ chị, chị thèm em làm chị sướng hoài nghĩa là thèm gì chị? Chị kể em nghe chi tiết nha, em thích chị kể gợi tình đó!”
+
+Hoa: “Chị thèm em liếm lồn chị, bóp vú chị, làm chị rên sướng hoài luôn! Em kể em thèm chị gì đi, chị thích nghe em kể nhiều hơn nữa!”
+
+Dũng: “Em thèm bú lồn chị, giật lông lồn chị cho chị đau nhưng sướng, em muốn làm chị lên đỉnh. Chị khen em đi chị, chị kể thêm đi!”
+
+Hoa: “Giỏi lắm em! Chị khen em hay ghê đó! Chị thèm em day hột le chị, làm chị phê! Giờ em hỏi chị nữa đi Dũng!”
+
+Dũng: “Chị Hoa ơi! Chị thèm em day hột le chị nghĩa là sao chị? Chị kể chi tiết em tưởng tượng nha!”
+
+Hoa: “Chị thèm em day mạnh hột le chị, làm chị rên a… a… a… a… a… tê người đó! Em kể em thèm chị gì nữa đi.”
+
+Rồi Dũng vén đầm cô lên, bú cái lồn cô: “Chị Hoa ơi, em vén đầm chị lên bú lồn chị nữa nha… cái lồn chị ở truồng đẹp quá à! Em liếm khe lồn nè, day hột le chị mạnh nè! Chị rên đi chị, em cởi đầm chị luôn! Lột trần truồng chị nha! Em giật lông lồn chị đây, bứt vài sợi nè! Em ngoạm lông lồn chị nhai nhai nè! Bú lồn chị mạnh hơn nữa nè! Day hột le vòng quanh nè chị!”
+
+Hoa rên lớn hơn: “A… a… a… a… a… a… a… a… em ơi, bú đi… vén đầm chị rồi hả? Cởi đầm lột truồng chị luôn nữa hả? Giật lông lồn chị mạnh đi Dũng! Bứt nữa em, sướng quá… em ngoạm lông lồn chị nhai nhai hả? Bú lồn chị mạnh nữa đi em! Day hột le chị đi em, chị phê kinh khủng luôn Dũng ơi! Rên cho em nghe nè a… a… a… a… a… a… a… a… a… Em giỏi quá Dũng ơi, liếm sâu vô lồn chị, chị run bần bật nè!”
+
+Hết 35 phút học, Hoa nhìn đồng hồ, mỉm cười: “Xong giờ học rồi Dũng ơi, giờ 25 phút chị chiều em nha! Em muốn gì chị chiều hết ngoại trừ đụ nha! Chị sờ con cặc em trước nè, con cặc em cứng ngắc rồi nè! Chị siết nhẹ nha! Em sướng không? Chị hỏi em chút nha Dũng! Ba em thường có thói quen gì vậy Dũng? Chị tò mò về gia đình em quá! Em kể chị nghe đi, chị thích nghe em kể trong lúc mình sờ nhau vậy, gợi tình hơn!”
+
+Dũng rên khẽ, tay sờ lồn cô ở truồng: “Sướng chị, siết mạnh nữa đi chị Hoa, con cặc em thèm tay chị quá!”
+
+“Dạ chị, ba em hay đi công tác nước ngoài lắm! Như giờ ba em đang ở Mỹ đó! Ba em thích chơi golf cuối tuần, nhưng chủ nhật ba em hay đi từ sáng sớm đến tối mới về, em không biết ba đi đâu. Chị sờ hòn dái em đi chị, em bóp cái lồn chị nè! Lồn chị ướt quá, chị hỏi gì nữa không?”
+
+Hoa vuốt hòn dái cậu: “Ừ em! Chị sờ nè, hòn dái em tròn ghê Dũng ơi!”
+
+“Còn mẹ em thì sao em? Mẹ em có thói quen gì, hay đi và về lúc mấy giờ? Chị tò mò lắm để biết còn đến đây cho em bất ngờ đó, hì hì! Chị day đầu khấc em nha! Em rên cho chị nghe đi, chị nhớ em kinh khủng luôn đó! Chị thèm con cặc em quá Dũng ơi!”
+
+Dũng: “A… a… day đi chị, em sướng quá!”
+
+“Mẹ em quản lý hai khách sạn 4 sao trong thành phố! Mẹ hay làm việc muộn lắm! Chủ nhật mẹ em ở nhà nhưng thường có hai người đàn ông đến bàn công chuyện. Mẹ nói là bạn làm ăn. Em chủ nhật hay đi chơi từ sáng đến tối, sáng lúc em đi thì thấy ba người luôn bàn chuyện ở phòng khách! Em bóp lồn chị mạnh hơn nha! Chị rên đi chị! Chị hỏi tiếp gì nữa đi chị, em phê quá! Ôi, chị sẽ đến bất ngờ hả, em thèm hê hê!”
+
+Hoa rên khẽ: “A… a… a… a… bóp nữa đi em, sướng kinh Dũng ơi!”
+
+“Có ai khác hay tới lui nhà em không em? Chị hỏi cho chắc chắn nếu không hai đứa mình có thể bị phát hiện đó em! Chị vuốt con cặc em nhanh hơn nè!”
+
+Dũng: “Không chị, ít ai tới, ba em không dắt ai về nhà hết, em chưa thấy ba dắt ai bao giờ! Còn mẹ em chỉ có hai người đàn ông chủ nhật thôi!”
+
+“Em khoe chị chút nha: Nhà em có hai khách sạn 4 sao mẹ em quản lý đó! Lớn lắm! Ba em là chủ tịch hội đồng quản trị, kiêm tổng giám đốc công ty công nghệ thông tin, vốn điều lên hơn 500 tỷ luôn đó chị. Công ty có hơn 300 nhân viên luôn, lớn lắm! Mấy chị tiếp tân đẹp lắm, nói chuyện dễ thương lắm! Mấy chị kế toán cũng đẹp. Ừ, cũng có mấy chị kỹ sư trẻ và đẹp nữa! Cũng có nhiều sinh viên trẻ đẹp hay đến thực tập công ty ban em lắm, em hay đến công ty chơi lắm, không biết ba em có để ý mấy người đó không nữa, nhưng mẹ em thì mấy tháng nay em không thấy mẹ đến công ty ba nữa. Nhà em còn sở hữu mấy khu đất rộng ở Bình Dương và Vũng Tàu nữa đó chị. Đang xây thêm khách sạn ở đó nữa. Chị thích làm vợ em hả chị? Em là con một đó nha, hê hê! Em day hột le chị nè! Chị rên lớn hơn đi chị! Chị còn hỏi gì nữa không chị?”
+
+Hoa day con cặc cậu mạnh hơn: “Hi hi! Chị thích làm vợ em ghê luôn nha! Chị tự hào về em lắm, gia đình em giàu có kinh khủng luôn ha! Em phải học thật giỏi nha Dũng! Chị hỏi vậy để còn biết nơi trao thân gửi phận chị mà, hì hì! Em muốn cưới chị không Dũng? Chị muốn biết hết về em nha Dũng! Chị sục con cặc em nhanh nè em! Em sắp xuất chưa? Chị yêu em và muốn làm vợ em đó, nhưng em phải chứng minh bản lĩnh của em trước nha, ít nhất phải đậu đại học cuối năm nay nha em, lúc đó chị sẽ cho em đụ chị!”
+
+Dũng: “Dạ chị, em yêu chị mà, em thèm chị mà, em muốn chị làm vợ em. Em sẽ cố gắng đậu đại học, lúc đó chị phải cho em đụ chị như chị hứa đó nha! Em vui khi chị muốn biết về gia đình em lắm! Chị làm em vui lắm! Chị sục mạnh nữa đi chị, em sắp xuất rồi, chị rên cho em nghe đi chị, em bóp lồn chị mạnh nè!”
+
+Hoa rên: “A… a… a… a… a… a… a… a… a… a… a… bóp đi em, chị sướng! Cảm ơn em đã chia sẻ cho chị nha Dũng! Chị chờ ba em về từ Mỹ để… à không lát chị nói! Em xuất đi em, chị húp tinh cho em!”
+
+Sau khi biết nhiều thông tin quý giá, Hoa nghĩ thầm: “Chú không dắt ai về nhà, tốt rồi. Chắc chú chỉ có mình mình là tình nhân thôi, mình đã đồng ý làm tình nhân cho chú rồi mà! Chờ chú về mình sẽ dâng trinh tiết như đã hứa với chú! Chú làm mình lên đỉnh sung sướng chết đi sống lại nhiều lần, mình không sao quên được. Nhưng công ty chú có nhiều người đẹp làm mình lo lo quá! Nhưng cứ chờ chú về trước đã, biết đâu chú có cách sắp xếp cho mình vào nhà chú ở không ta! Cô Dung này! Chắc cô làm tình tay ba với 2 người đàn ông đó cả ngày chủ nhật rồi, vì chú và Dũng không có ở nhà mà, ghê thiệt! Mình đoán chú và cô đang ly thân chắc luôn rồi, chắc mới mây tháng nay thôi, như Dũng nói thì cô Dung chỉ không đến công ty chú mới mấy tháng nay à. Chắc giữa chú và cô có thỏa thuận ngầm, để cô thỏa thích dắt nhân tình về nhà ngày chủ nhật, còn chú đi đâu đó để tránh. Chắc Dũng không biết gì về chuyện của ba mẹ cậu đâu! Mình sẽ chiều chuộng chú mọi thứ để chú phải mê mình mới được, sẽ chỉ có mình là tình nhân duy nhất của chú thôi! Như vậy thì chú mới cho mình nhiều thứ!”
+
+Hoa mỉm cười: “Dũng ơi, hôm nay em ngoan và tiếp thu tốt! Mặc dù em có đụng chạm chị nhiều dó, nhưng không sao! Chị thưởng cho em nhiều hôm nay nha, chị sẽ chiều em thỏa mãn luôn, trừ việc đụ chị ra, em muốn gì chị cũng chiều em hết! Với lại chị có việc về quê một thời gian ngắn, sau đó mới lên lại đây dạy em tiếp, em đừng buồn nha! Chị sẽ nhớ em lắm đó, nhất là nhớ con cặc bự của em nè, hì hì! Đây số điện thoại di động của chị, em giữ nha, nếu ba em hỏi thì đưa cho ba em giùm chị, chắc ba em sẽ gọi cho chị, liên quan đến tiền chị dạy em đó nha!”
+
+Dũng: “Dạ chị, em vui lắm! Chị thưởng em hết hôm nay em thích quá, nhưng chị về quê em buồn lắm! Chị nhớ gọi em nha! Em sẽ đưa số của chị cho ba khi ba về. Em biết chị yêu em mà! Giờ chị chiều em đi chị!”
+
+Hoa mỉm cười ngọt ngào, tay vẫn vuốt ve con cặc cứng ngắc của Dũng, siết nhẹ nhàng để cậu rên lên thích thú. Cô ngồi sát hơn, đầm ngắn vén lên lộ ra cái lồn ở truồng, lông lồn rậm rạp, xoăn tít, đen bóng mọc um tùm quanh hai múi thịt hồng hào, chạy dọc xuống hai bên môi lồn xuống tận lỗ đít, vài sợi dài xoăn cong óng ả dính nước nhờn lấp lánh dưới ánh đèn phòng học. “Ừ Dũng ơi, chị thưởng em đây! Em ngoan lắm hôm nay, kể chị nghe hết về gia đình em, chị tự hào về em kinh khủng luôn. Giờ chị sẽ chiều em thỏa thích nha, em muốn gì chị cũng làm, trừ đụ thôi vì chị muốn giữ cho đến khi em đậu đại học cuối năm nay. Em cố gắng học giỏi để đậu đại học đi em, lúc đó chị sẽ cho em đụ chị thỏa thích luôn, chị hứa đó Dũng! Chị sục con cặc em nhanh hơn nè, em rên cho chị nghe đi, chị thèm nghe em rên sướng vì chị!”
+
+Dũng rên khẽ, mắt nhìn cô đầy thèm thuồng: “Chị Hoa ơi, sục mạnh nữa đi chị! Con cặc em sướng tê luôn rồi! Em hiểu chị, em không đụ chị đâu, nhưng chị hứa đậu đại học thì cho em đụ nha, em sẽ cố gắng học giỏi vì chị! Chị cho em bú lồn chị nha, em thèm lồn chị ở truồng quá! Em bóp vú chị qua đầm nè, vú chị căng tròn ghê chị ơi! Chị cởi đầm ra cho em lột truồng chị đi chị, em muốn thấy chị trần truồng chiều em!”
+
+Hoa cười khúc khích, tay sục nhanh hơn, đầu khấc Dũng bóng nhẫy nước nhờn. Cô cởi nút đầm, để lộ bộ ngực trần trắng mịn, núm vú hồng hào cương cứng, rồi cô tụt hẳn đầm xuống, đứng trần truồng trước mặt cậu. “Ừ em, chị lột truồng cho em ngắm đây! Em bóp vú chị đi Dũng, bóp mạnh chị thích lắm! Chị cho em bú lồn chị nữa, nhưng em đặt chị ngồi lên bàn đi em, chị sẽ dang háng banh lồn ra cho em bú thỏa thích! Em kể chị nghe em thèm chị thế nào đi, chị thích nghe em kể chi tiết trong lúc mình chơi nhau vậy, gợi tình hơn em ơi!”
+
+Dũng hào hứng, bế Hoa đặt lên bàn học, cô ngồi dang rộng hai chân, tay tự banh hai múi thịt lồn ra, lộ rõ hột le hồng hào cương cứng, nước lồn óng ánh chảy ra. Dũng quỳ xuống, mũi hít hà mùi lồn thơm tho quyện với mùi lông lồn thoang thoảng. “Chị Hoa ơi, chị trần truồng đẹp mê hồn luôn! Vú chị mềm ghê, em bóp mãi không chán! Lồn chị ở truồng đẹp quá, em thèm ngoạm lông lồn chị quá! Em thèm chị kinh khủng, thèm bú lồn chị hoài, thèm day hột le chị làm chị rên á… á… á… Em liếm khe lồn chị nè, lưỡi em quét dọc khe đây, cọ qua đám lông lồn! Lồn chị ướt át quá chị ơi, ngon kinh luôn! Em kể thiệt: Em thèm giật lông lồn chị, bứt vài sợi xoăn dài cong cong cho chị đau nhưng sướng, hì hì! Chị rên đi chị, em bú mạnh hơn nè, em ngoạm lông lồn chị nhai nhai đây!”
+
+Hoa rên lớn, tay ấn đầu cậu vào lồn mình, chân dạng rộng hơn nữa, lông lồn cọ vào miệng cậu: “Á… á… á… á… á… á… bú đi em! Liếm sâu vô khe lồn chị nè, ôi sướng quá Dũng ơi! Em day hột le chị đi, day vòng quanh mạnh nữa em! Chị phê kinh, run bần bật vì lưỡi em rồi! Em giỏi ghê Dũng, bú lồn chị hay quá! Giật lông lồn chị đi em, bứt mạnh vài sợi xoăn dài cong cong chị thích lạ lạ vậy! Á… á… á… á… á… đau sướng quá em ơi, lông lồn chị bị em ngoạm nhai phê lạ kinh! Chị kể em nghe chị thèm em gì nha: Chị thèm con cặc em cọ vào lồn chị, thèm em sục cho chị xuất nước luôn! Em bú hột le chị nè, chị rên tha thiết cho em nghe: Á… á… á… á… á… á… á… á… á… á… phê quá Dũng ơi!”
+
+Dũng liếm điên cuồng, lưỡi day hột le Hoa nhanh chóng, tay giật nhẹ lông lồn cô, bứt vài sợi xoăn dài cong cong khiến cô giật nảy người vì sướng, lông lồn còn lại dính nước lồn óng ánh. Cậu ngẩng đầu lên, miệng bóng nhẫy nước lồn: “Chị Hoa ơi, lồn chị ngon quá, em bú hoài không chán! Em giật lông chị nè, bứt nữa đây, chị run mạnh chưa chị? Ngoạm nhai đã miệng kinh! Em day hột le nhanh hơn cho chị lên đỉnh nè! Chị kể chị sướng thế nào đi chị, em thích nghe chị kể chi tiết! Em muốn chị xuất nước vào miệng em luôn! Chị cho em bú vú chị nữa nha, em ngoạm núm vú chị đây!”
+
+Hoa cong người, rên liên hồi, lông lồn cọ xát vào lưỡi cậu: “Á… á… á… á… á… á… á… á… á… á… run kinh em ơi! Giật nữa đi Dũng, chị sướng lạ quá với lông lồn bị em bứt! Lưỡi em day hột le chị phê tê lồn luôn, chị sắp lên đỉnh rồi em ơi! Chị sướng kinh khủng, nước lồn chị tuôn ra vì em đó! Bú vú chị đi em, ngoạm núm vú mạnh nữa, chị thích em cắn nhẹ vậy! Á… á… á… á… á… á… ôi, chị xuất đây em, nước lồn chị phun ra nè! Uống đi em, chị phê chết đi sống lại vì em luôn Dũng ơi!”
+
+Nước lồn Hoa tuôn ra ướt át, Dũng bú húp hết, mặt cậu dính đầy nước nhờn lẫn vài sợi lông lồn xoăn tít. Cậu đứng dậy, con cặc cứng ngắc chĩa ra: “Chị Hoa ơi, chị xuất sướng ghê luôn! Nước lồn chị ngon quá, em húp hết rồi! Giờ chị chiều em nha, chị bú con cặc em đi chị! Em thèm miệng chị bú cặc em hoài! Chị sục mạnh trước nè, em rên cho chị nghe: Chị bú đi chị, em sắp xuất rồi!”
+
+Hoa quỳ xuống, miệng ngậm con cặc Dũng, liếm đầu khấc cậu chậm rãi rồi bú mạnh mẽ. Tay cô vuốt hòn dái cậu, siết nhẹ: “Ừ em, chị bú con cặc em đây! Cặc em bự ghê, chị ngậm sâu nè! Em rên đi Dũng, chị thèm nghe em rên sướng vì miệng chị! Chị liếm dọc thân cặc em nè, day đầu khấc bằng lưỡi đây! Em kể em sướng thế nào đi em, chị thích nghe chi tiết! Chị bú nhanh hơn cho em xuất nè, xuất vào miệng chị đi Dũng!”
+
+Dũng rên lớn, tay ấn đầu cô: “Miệng chị bú hay quá chị Hoa ơi! Em sướng tê cặc luôn, lưỡi chị day đầu khấc phê kinh! Em thèm xuất vào miệng chị hoài! Chị bú sâu hơn đi chị, em xuất đây, tinh em phun ra nè! Xuất rồi chị ơi!”
+
+Tinh trùng Dũng bắn đầy miệng Hoa, cô nuốt hết, mỉm cười nhìn cậu: “Tinh em ngon ghê Dũng ơi, chị húp hết rồi! Em sướng không cưng? Chị chiều em vậy em vui chưa? Hôm nay chị thưởng em nhiều vì em ngoan và kể chị nghe hết đó! Nhưng chị chưa thỏa mãn đâu, em muốn làm thêm gì nữa nha?”
+
+Dũng thở hổn hển, ôm cô, con cặc giờ mềm dần sau khi xuất tinh: “Sướng kinh chị ơi, em yêu chị quá! Chị chiều em hay ghê, em vui lắm! Nhưng em muốn rủ chị vô phòng ngủ em nha chị, mình vừa coi phim sex vừa làm nhau tiếp, em thèm chị kinh khủng! Chị theo em đi chị, em muốn đối thoại với chị dựa trên phim, gợi tình lắm chị ơi!”
+
+Hoa cười khúc khích, gật đầu, tay vuốt con cặc cậu giờ mềm hẳn: “Ừ em, chị theo em vô phòng ngủ! Chị thích coi phim sex với em lắm, mình vừa coi vừa làm theo phim nha, chị thèm em làm chị sướng nữa! Em dẫn chị đi đi Dũng, chị trần truồng theo em đây!”
+
+Dũng dẫn Hoa vào phòng ngủ cậu, căn phòng rộng rãi với giường lớn, cậu mở laptop, chọn một bộ phim sex Nhật Bản, cảnh mở đầu là cô gái trẻ đang dang háng bị chàng trai bú lồn. Dũng ôm Hoa nằm lên giường, Hoa vuốt ve con cặc cậu mềm, siết nhẹ để nó dần cương lên khi thấy cảnh phim. “Chị Hoa ơi, coi cảnh này đi chị, anh kia bú lồn chị gái kia hay ghê, lồn chị ấy cũng có lông đẹp như chị nè! Em thèm bú lồn chị lại quá, chị dang háng cho em bú theo phim đi chị! Chị kể chị thấy cảnh này thế nào đi, chị thèm em bú chị giống vậy không chị?”
+
+Hoa nằm dang háng, tay banh lồn ra, lộ rõ dưới ánh đèn phòng: “Á… á… cảnh phim hay ghê em ơi, chị gái kia rên sướng kinh khi bị bú lồn! Em bú chị đi Dũng, bú mạnh như anh kia nha! Chị thèm em liếm khe lồn chị, day hột le chị theo phim! Chị rên cho em nghe giống chị gái trong phim nè: Á… á… á… á… á… bú đi em, sướng quá!”
+
+Dũng cúi xuống bú lồn cô, lưỡi quét dọc khe, day hột le mạnh, ngoạm nhai lông lồn: “Lồn chị ngon hơn trong phim nhiều, em ngoạm nhai đã miệng! Chị rên lớn hơn đi chị, em bú sâu hơn nè! Coi cảnh tiếp đi chị, giờ anh kia bóp vú chị gái kia, em bóp vú chị nè, vú chị căng tròn ghê! Chị kể chị thèm em bóp thế nào đi chị!”
+
+Hoa rên lớn: “Á… á… á… á… á… á… bóp đi em, chị thèm em bóp vú chị mạnh như phim! Chị sướng tê người luôn Dũng ơi! Cảnh phim chuyển sang chị gái kia bú cặc anh kia rồi, chị bú con cặc em nha, em nằm xuống đi! Chị ngậm sâu như chị gái trong phim đây, em rên cho chị nghe giống anh kia nè!”
+
+Hoa cúi xuống bú con cặc Dũng, miệng ngậm sâu, lưỡi day đầu khấc: “Cặc em bự hơn trong phim, chị bú ngon miệng ghê! Em kể em sướng thế nào đi em, chị thèm nghe em rên!”
+
+Dũng rên: “Miệng chị bú hay hơn phim nhiều! Em sướng tê cặc luôn chị ơi! Coi cảnh tiếp nha chị, giờ anh kia day hột le chị gái kia làm chị ấy xuất nước, em day hột le chị nè, day mạnh cho chị xuất đi chị!”
+
+Hoa cong người, nước lồn tuôn ra: “Á… á… á… á… á… á… day đi em, chị xuất đây, phê kinh như phim! Em giỏi ghê Dũng!”
+
+Họ tiếp tục như vậy, đối thoại dựa trên từng cảnh phim, làm tình điên cuồng đến khi cả hai mệt nhoài, nhưng Dũng vẫn chưa xuất tinh, con cặc cậu vẫn cứng ngắc. Dũng thì thầm vào tai Hoa: “Chị Hoa ơi, mình ra hồ bơi đi chị, nhà em có hồ bơi riêng sau vườn, kín đáo lắm, không ai thấy đâu! Lần trước mình từng trần truồng ở đó rồi mà, chị nhớ không? Em muốn làm tình với chị ngoài trời, dưới nắng chiều, chị trần truồng bơi lội rồi mình chơi nhau bên hồ, gợi tình kinh khủng luôn! Chị theo em đi chị, em thèm bú lồn chị ở hồ bơi quá!”
+
+Hoa cười khúc khích, gật đầu vì cô đã biết hồ bơi nhà cậu kín đáo từ trước, cơ thể vẫn nóng ran sau cuộc làm tình ở phòng ngủ: “Ừ em, chị theo em ra hồ bơi! Chị thích ý tưởng đó lắm, mình trần truồng bơi lội rồi chơi nhau bên hồ nha, chị thèm em làm chị sướng ngoài trời! Nhưng em chưa xuất tinh, con cặc em vẫn cứng ngắc nè, chị nắm cặc em dắt đi ra hồ bơi cho vui, hì hì! Đi theo chị nha cưng!”
+
+Hoa nắm chặt con cặc cứng ngắc của Dũng, dắt cậu đi ra hồ bơi, cả hai trần truồng bước qua hành lang biệt thự rộng lớn, vừa đi vừa chọc nhau cười khúc khích. Hoa siết nhẹ con cặc cậu, cười lớn: “Dũng ơi, chị nắm cặc em dắt đi thế này như dắt chó con ấy, em có xấu hổ không cưng? Con cặc em cứng quá, chị siết mạnh hơn nè, em rên cho chị nghe đi, hì hì! Đi chậm thôi, chị muốn dắt em hoài vậy, gợi tình kinh khủng!”
+
+Dũng cười khúc khích, tay bóp mông cô: “Chị Hoa ơi, chị hư quá, nắm cặc em dắt đi mà chọc em nữa! Em sướng tê cặc luôn, chị siết hay ghê! Em như chó con của chị rồi, chị dắt em đi đâu cũng được, hì hì! Nhưng chị đi chậm thôi, em muốn chị siết cặc em hoài, em thèm chị kinh khủng! Chị kể chị thèm em gì đi, chị cười khúc khích hoài dễ thương quá!”
+
+Hoa cười lớn hơn, siết mạnh con cặc cậu: “Hì hì, em là chó con của chị thiệt rồi! Chị thèm em làm chị sướng ở hồ bơi, thèm em bú lồn chị dưới nắng! Giờ đi nhanh lên, chị dắt em chạy đây, con cặc em giật giật trong tay chị đã ghê, hì hì!”
+
+Dũng cười theo, bước nhanh hơn: “Chị ơi, chị dắt em chạy mà con cặc em giật giật, em phê kinh! Chị hư quá, em yêu chị luôn rồi!”
+
+Dũng dẫn Hoa ra hồ bơi sau vườn biệt thự, hồ nước trong xanh lấp lánh dưới nắng chiều, xung quanh cây cối um tùm che chắn kín đáo. Không khí mát mẻ, gió nhẹ thổi qua làm da thịt họ nổi da gà thích thú. Dũng nhảy ùm xuống nước trước, con cặc cậu vẫn cương cứng, cậu vẫy tay: “Chị Hoa ơi, nhảy xuống đi chị! Nước mát ghê, em muốn ôm chị bơi lội, sờ lồn chị dưới nước nè! Chị trần truồng đẹp mê hồn dưới nắng luôn, ướt nước trông dâm đãng kinh khủng!”
+
+Hoa cười tươi, nhảy xuống hồ, nước bắn tung tóe, cô bơi lại gần Dũng, ôm chặt cậu, chân quấn quanh hông cậu: “Á… á… nước mát sướng quá em ơi! Chị ôm em đây, em sờ lồn chị đi Dũng, sờ mạnh dưới nước nè! Em day hột le chị đi, chị thèm em làm chị rên bên hồ bơi! Chị kể em nghe chị thèm em gì nha: Chị thèm em bú lồn chị bên thành hồ, chị dang háng ngồi trên thành hồ cho em bú!”
+
+Dũng hào hứng, tay mò xuống sờ lồn cô dưới nước, ngón tay day hột le: “Ừ chị, em sờ lồn chị nè, lồn chị ướt át kinh, đã tay ghê! Em day hột le mạnh cho chị rên đi, chị rên lớn hơn nè: Sướng không chị? Giờ em bế chị lên thành hồ, chị dang háng banh lồn ra cho em bú nha! Em thèm ngoạm lông lồn chị ướt nước quá!”
+
+Hoa ngồi lên thành hồ, nước nhỏ giọt từ cơ thể trần truồng, chân dang rộng, tay banh hai múi thịt lồn ra, lông lồn lấp lánh dưới nắng: “Bú đi em, bú lồn chị mạnh nè! Liếm sâu vô khe lồn chị, day hột le chị đi Dũng! Chị phê kinh dưới nắng luôn, gió thổi qua lồn chị mát rượi sướng quá! Á… á… á… á… á… á… em giỏi ghê, ngoạm lông lồn chị nhai nhai đi, giật vài sợi xoăn dài cong cong cho chị đau sướng! Chị rên tha thiết cho em nghe: Á… á… á… á… á… á… á… á… phê quá Dũng ơi, chị sắp xuất nước nữa rồi!”
+
+Dũng bú điên cuồng, lưỡi quét dọc khe lồn, day hột le nhanh, tay giật lông lồn, nước hồ lẫn nước lồn ướt át miệng cậu: “Lồn chị ngon kinh dưới nắng, em ngoạm đã miệng! Em giật nữa nè, chị run mạnh chưa chị? Em day hột le cho chị xuất nước phun ra hồ đi! Chị kể chị sướng thế nào đi chị, em thích nghe chi tiết ngoài hồ bơi vậy!”
+
+Hoa cong người, rên lớn hơn, nước lồn phun ra lẫn vào nước hồ: “Á… á… á… á… á… á… á… á… á… á… run kinh em ơi! Chị sướng tê lồn vì lưỡi em ngoài trời, gió thổi qua lồn chị phê lạ kinh! Chị xuất đây, nước lồn chị phun ra nè! Ôi, sướng chết đi sống lại Dũng ơi!”
+
+Sau khi Hoa lên đỉnh, cô kéo Dũng lên thành hồ, quỳ xuống bú con cặc cậu dưới nắng: “Giờ chị chiều em nha, chị bú con cặc em bên hồ bơi đây! Cặc em cứng ngắc ướt nước, chị ngậm sâu nè, em rên cho chị nghe đi! Chị liếm dọc thân cặc, day đầu khấc mạnh cho em xuất tinh phun ra hồ!”
+
+Dũng rên lớn, tay ấn đầu cô, nhưng cậu cố gắng kiềm chế để chưa xuất tinh, con cặc vẫn cứng ngắc: “Miệng chị bú hay quá ngoài trời! Em sướng tê cặc luôn chị ơi! Nhưng em chưa xuất đâu, em muốn giữ để lát nữa chị chiều em tiếp!”
+
+Họ nằm bên hồ bơi thở hổn hển, nắng chiều ấm áp chiếu lên cơ thể trần truồng. Sau đó, Hoa mặc đầm lại, còn Dũng vẫn trần truồng, con cặc vẫn cứng ngắc vì chưa xuất tinh lần nữa. Hoa nắm chặt con cặc cứng ngắc của cậu, dắt cậu đi ra cổng biệt thự, vừa đi vừa chọc nhau cười khúc khích. Hoa siết nhẹ con cặc cậu, cười lớn: “Dũng ơi, chị mặc đồ rồi mà bắt em trần truồng đi theo, nắm cặc em dắt ra cổng thế này như dắt tù binh ấy, em có ngại không cưng? Con cặc em cứng quá, chị siết mạnh hơn nè, em rên cho chị nghe đi, hì hì! Đi chậm thôi, chị muốn dắt em hoài vậy, gợi tình kinh khủng!”
+
+Dũng cười khúc khích, tay bóp mông cô qua đầm: “Chị Hoa ơi, chị hư quá, mặc đồ rồi mà bắt em trần truồng, nắm cặc em dắt đi chọc em nữa! Em sướng tê cặc luôn, chị siết hay ghê! Em như tù binh tình yêu của chị rồi, chị dắt em đi đâu cũng được, hì hì! Nhưng chị đi chậm thôi, em muốn chị siết cặc em hoài, em thèm chị kinh khủng! Chị kể chị thèm em gì đi, chị cười khúc khích hoài dễ thương quá!”
+
+Hoa cười lớn hơn, siết mạnh con cặc cậu: “Hì hì, em là tù binh của chị thiệt rồi! Chị thèm em làm chị sướng ở cổng, thèm bú cặc em trước khi về! Giờ đi nhanh lên, chị dắt em chạy đây, con cặc em giật giật trong tay chị đã ghê, hì hì!”
+
+Dũng cười theo, bước nhanh hơn: “Chị ơi, chị dắt em chạy mà con cặc em giật giật, em phê kinh! Chị hư quá, em yêu chị luôn rồi!”
+
+Họ dừng lại ở cửa cổng, Hoa mỉm cười, tay vọc con cặc cậu đang cứng ngắc, siết nhẹ để cậu rên lên thích thú. Dũng dựa lưng vào cửa cổng trần truồng, hai người cùng nhìn ra ngoài đường qua khe trống nhỏ phía trên cánh cửa, quan sát xe cộ và người đi bộ qua lại.
+
+Hoa cười khúc khích, tay sục con cặc cậu chậm rãi: “Dũng ơi, em dựa cửa trần truồng thế này mà xe cộ chạy vèo vèo ngoài kia, người đi bộ lướt qua, em không sợ bị thấy hả cưng? Chị vọc cặc em nè, cứng lên nhanh ghê, chị thèm em quá! Em kể chị nghe em sướng không, nhìn người ta ngoài đường mà bị chị vọc vậy, gợi tình kinh khủng luôn!”
+
+Dũng cười khúc khích, mắt nhìn qua khe, tay bóp vú cô qua đầm: “Chị Hoa ơi, em sướng tê cặc luôn, chị vọc hay ghê! Nhìn xe chạy với người đi bộ mà chị làm em vậy, em hồi hộp nhưng phê kinh! Chị thấy không, có bà cụ đi qua kìa, may mà cửa cao, không thấy em trần truồng đâu, hì hì! Chị sục nhanh hơn đi chị, em thèm chị bú em ở đây quá!”
+
+Hoa cười lớn hơn, tay siết mạnh hơn: “Hì hì, em hư quá, đòi chị bú ở cổng luôn hả? Nhìn kìa, xe tải chạy qua ồn ào ghê, người đi bộ đông đúc, chị vọc em mạnh hơn nè, em rên khẽ cho chị nghe đi! Chị thích nhìn ngoài đường trong lúc làm em vậy, hồi hộp lắm em ơi!”
+
+Sau đó, Dũng xoay mặt vô trong nhà, lưng hướng ra đường để kín đáo hơn, con cặc cứng ngắc chĩa ra. Hoa ngồi xuống, miệng ngậm con cặc cậu, bú liếm chậm rãi, lưỡi quét dọc thân cặc. “Ừ em, chị bú em đây, cặc em ngon ghê Dũng ơi! Em rên đi, chị thèm nghe em sướng vì miệng chị!”
+
+Dũng rên khẽ, tay vuốt tóc cô: “Miệng chị bú hay quá chị Hoa ơi! Em sướng kinh, bú sâu hơn đi chị!”
+
+Lâu lâu, Hoa đứng lên, hai người hôn môi nhau say đắm, Dũng vén đầm cô lên, tuột xì líp cô xuống, tay bóp cái lồn cô ướt át, chới với lông lồn. “Chị Hoa ơi, lồn chị ướt rồi nè, em chới với đã tay ghê! Chị kể chị thèm em gì đi, chị rên cho em nghe trong lúc em bóp lồn chị!”
+
+Hoa rên khẽ, hôn cậu sâu hơn: “Á… á… bóp đi em, chị thèm em bóp lồn chị kinh khủng! Bị em chới với phê quá Dũng ơi! Giờ chị ngồi xuống bú em tiếp nha, em sắp xuất chưa cưng?”
+
+Họ tiếp tục như vậy, rồi đột nhiên Hoa hù cậu: “Ối Dũng ơi, có người đi bộ tới gần cổng kìa, nhìn qua khe trống kìa!” Dũng hết hồn, vội bụm con cặc cậu lại, mặt tái mét. Hoa cười như điên, ôm bụng: “Ha ha ha, chị đùa thôi em ơi, không có ai hết! Em hết hồn dễ thương ghê, hì hì!”
+
+Dũng cười gượng, mặt đỏ bừng: “Chị Hoa ơi, chị hù em kinh quá, em hết hồn thiệt luôn! Nhưng em thích chị đùa vậy, gợi tình hơn! Chị bú em tiếp đi chị, em thèm xuất vào miệng chị quá!”
+
+Hoa cười khúc khích, ngồi xuống bú tiếp, miệng ngậm sâu, bú nhanh hơn. “Ừ em, chị bú mạnh cho em xuất nè! Cặc em cứng ngắc, chị day đầu khấc bằng lưỡi đây!”
+
+Dũng rên lớn hơn, tay ấn đầu cô: “Em xuất đây chị, tinh em phun ra nè! Xuất rồi chị ơi!”
+
+Hoa nuốt hết tinh cậu, đứng lên hôn cậu lần nữa: “Tinh em ngon quá Dũng ơi, chị húp hết rồi! Giờ chị phải về thật rồi em, chị về quê một thời gian ngắn, em đừng buồn nha! Chị sẽ nhớ em kinh khủng, nhớ con cặc bự của em, nhớ em làm chị sướng hoài! Em hứa học giỏi để đậu đại học nha, lúc đó chị sẽ cho em đụ chị như hứa!”
+
+Dũng ôm chặt cô, mắt long lanh: “Chị Hoa ơi, em buồn lắm, chị về quê em nhớ chị quay quắt luôn! Em hứa học giỏi, em sẽ đậu đại học để được đụ chị! Chị nhớ gọi em hoài nha, em yêu chị kinh khủng! Chị đưa số điện thoại cho em rồi, em sẽ đưa cho ba khi ba về từ Mỹ!”
+
+Hoa hôn cậu sâu, tay vuốt má cậu: “Ừ em, chị sẽ gọi em mỗi ngày, chị nhớ em da diết lắm Dũng ơi! Chị yêu em, em ngoan nha cưng! Giờ chị về đây, tạm biệt em!”
+
+Trong thâm tâm, cô muốn né Dũng chờ ông Trí về, xem ông sắp xếp gì sau khi cô dâng trinh tiết, vì cô tham vọng vào nhà giàu của ông. Cô yêu Dũng ít thôi, nhưng thèm con cặc bự dài gân guốc của cậu nhiều lắm, nhất là khi ông Trí chưa về, con cặc cậu làm cô sướng tê người khi liếm và sục, cô sẽ tạm ngọt ngào với cậu đến khi ông Trí về. Tham vọng cô lớn hơn khi nghe gia đình giàu có kinh khủng, cô đoán cô Dung làm tình tay ba với 2 đàn ông cả ngày chủ nhật sau khi ông Trí và Dũng rời đi, đoán ba mẹ cậu ly thân với thỏa thuận ngầm để cô Dung thỏa thích dắt nhân tình về nhà, còn ông Trí đi đâu đó để tránh. Cô không nói cho Dũng biết, vì cậu không biết gì, cô sẽ chiều chuộng ông Trí mọi thứ để ông mê cô, chỉ có cô là tình nhân duy nhất, thì ông sẽ cho cô nhiều thứ.
+
+Sau khi Hoa về, Dũng nghĩ thầm: “Chị Hoa dễ thương quá, chiều em đủ hết ngoài đụ thôi, chắc chị giữ trinh cho em sau khi em đậu đại học cuối năm, em sẽ học giỏi để được chị cho đụ. Chị yêu em thật nên mới hỏi về gia đình em, em không nghi gì hết, khi ba về em sẽ nói sớm với ba, đưa số điện thoại chị cho ba, hy vọng ba gọi chị lên sớm để chị dạy em lại, em nhớ chị kinh khủng.”
+
+Trên đường lái xe đến công viên, Minh lấy điện thoại ra nhắn tin cho Hoa một lần nữa, cố gắng mong cô tha thứ: “Hoa ơi, anh nhớ em dữ lắm, nhớ đến mức không ngủ nổi đêm qua, anh hối hận kinh khủng vì đã làm em buồn, anh sai rồi, sống mà thiếu em anh không chịu nổi đâu, cho anh cơ hội sửa chữa đi em, anh yêu em thật lòng.” Nhưng Hoa vẫn im lặng, không trả lời, làm anh có chút buồn bã, tim nặng trĩu. Tuy nhiên, nghĩ đến việc sắp gặp Trúc ở công viên, nụ cười rạng rỡ và cơ thể quyến rũ của cô, anh lại vui lên, mỉm cười một mình và tăng tốc xe một chút.
+
+Anh đến cổng công viên đúng giờ hẹn, và từ xa đã thấy Trúc đang đứng chờ, nụ cười tươi tắn trên gương mặt xinh đẹp khiến tim anh đập nhanh hơn. Cô mặc một chiếc đầm vàng nhạt ngắn, chất vải mỏng manh ôm sát cơ thể, nhìn đẹp hơn hẳn chiếc đầm hồng hôm trước – cổ áo khoét sâu lộ ra khe ngực trắng mịn, váy xòe nhẹ nhưng ngắn đến nỗi chỉ cần gió thoảng là lộ ra phần đùi thon dài, và đường cong mông cong vểnh đầy quyến rũ. Trúc vẫy tay vui vẻ: “Anh Minh ơi! Em đến sớm hơn một chút vì nhớ anh kinh khủng luôn, anh đẹp trai quá, nhìn anh bước tới mà em muốn chạy ra ôm ngay đây nè. Hôn em đi anh, em thèm môi anh ấm áp ấy quá trời luôn!”
+
+Minh mỉm cười, bước nhanh đến ôm chặt lấy cô, hôn nhẹ lên môi cô một cái đầy trìu mến: “Trúc ơi, anh cũng nhớ em da diết, không tập trung làm gì được vì cứ nghĩ đến nụ cười và cơ thể gợi cảm của em. Em mặc đầm vàng nhạt này đẹp mê hồn, nó làm anh muốn ôm em mãi không buông, khoe hết vẻ quyến rũ của em rồi. Vào trong đi em, anh muốn tìm chỗ riêng tư để ôm em thoải mái hơn.”
+
+Trúc cười khúc khích, quàng tay vào tay anh, nép sát vào người anh trong khi họ cùng bước vào công viên: “Hì hì, anh khen em mà em vui quá trời, đầm này em chọn đặc biệt cho anh đó, để anh thấy em khêu gợi hơn. Anh dẫn em đi chỗ kín đáo nha, em muốn được anh hôn hít suốt chiều luôn, em thèm anh kinh khủng Minh ơi.”
+
+Họ đi sâu vào công viên, chọn một góc khuất sau những bụi cây rậm rạp và ghế đá cũ kỹ, nơi ít người lui tới, xung quanh là cây cối um tùm che khuất tầm nhìn, chỉ có tiếng gió vi vu và lá rơi nhẹ nhàng. Minh ngồi xuống ghế đá, kéo Trúc ngồi lên đùi anh, ôm chặt lấy eo cô: “Chỗ này yên tĩnh quá em, không ai quấy rầy mình đâu. Anh hôn em nha, môi em mềm mại làm anh mê mẩn.” Anh hôn nhẹ nhàng lên môi cô, ban đầu chỉ là những nụ hôn chạm khẽ, rồi dần sâu hơn, lưỡi anh quấn lấy lưỡi cô một cách dịu dàng.
+
+Trúc đáp lại nụ hôn, tay cô vuốt ve má anh, thì thầm giữa những nụ hôn: “Ôi anh Minh ơi, hôn em mạnh hơn đi anh, em sướng vì lưỡi anh ấm áp quấn quýt thế này. Anh ôm em chặt nữa nha, em thích cảm giác cơ thể anh sát vào em.” Cô cọ xát người vào anh, làm anh cảm nhận được sự mềm mại của vú cô qua lớp đầm mỏng.
+
+Minh mỉm cười giữa nụ hôn, tay anh bắt đầu vuốt ve đùi cô, trượt dần lên dưới váy: “Trúc ơi, em cọ xát làm anh hứng rồi, đùi em trắng mịn quá, lông đùi lưa thưa kích thích anh kinh khủng. Anh vuốt cao hơn nha, chạm vào xì líp em đây, em ướt chưa?” Tay anh sờ nhẹ lên xì líp cô, day day nhẹ nhàng.
+
+Trúc rên khẽ, dang chân rộng hơn một chút: “A… anh ơi, sờ em đi anh, em ướt từ lúc thấy anh rồi, xì líp em nhớp nháp vì thèm anh. Em sờ anh nha, con cặc anh cứng ngắc qua quần rồi, em vuốt ve nó ngoài quần đây, anh sướng không Minh ơi?”
+
+Minh thở hổn hển, hôn mạnh hơn lên cổ cô: “Sướng em, vuốt mạnh nữa đi Trúc ơi, con cặc anh thèm tay em kinh khủng. Giờ anh bóp vú em nha, qua đầm mà vú em căng tròn quá, anh se đầu vú nhẹ đây, em rên cho anh nghe đi.”
+
+Trúc cong người, rên ngọt ngào: “Ôi… anh Minh ơi, bóp mạnh nữa đi, đầu vú em cứng vì anh rồi, em sướng tê người. Em kéo dây kéo quần anh xuống nha, mò vào bóp con cặc anh qua sịp, nó giật giật làm em thèm quá.”
+
+Họ tiếp tục sờ mó nhau say đắm, Minh vén đầm cô lên, tay day hột le qua xì líp: “Em ướt át quá Trúc ơi, anh day hột le em vòng quanh nè, em run chưa? Kể anh nghe em sướng thế nào đi.”
+
+Trúc xóc cặc anh mạnh hơn, rên: “A… a… day nhanh nữa anh, hột le em sưng húp, em run bần bật vì anh rồi, sướng kinh khủng Minh ơi. Con cặc anh nóng hổi, em xóc nhanh nè, anh sắp bắn chưa?”
+
+Sau khi sờ mó một lúc, Minh thì thầm: “Trúc ơi, anh thèm bú em quá, ngồi lên ghế đá đi em, anh quỳ xuống bú lồn em nha.” Anh giúp cô ngồi vững, quỳ xuống giữa hai chân cô, vén đầm lên và bắt đầu hôn nhẹ lên đùi trong, rồi liếm qua xì líp.
+
+Trúc dang chân rộng, vuốt tóc anh: “Ôi anh ơi, liếm em đi, em thèm lưỡi anh quá. Em bú anh sau nha, giờ anh làm em sướng trước đi Minh ơi.”
+
+Minh kéo xì líp cô sang một bên, liếm dọc khe lồn: “Lồn em đẹp quá, lông lồn lưa thưa làm anh mê, anh liếm sâu nè, quét lưỡi lên hột le, em sướng không?” Anh bú mạnh hơn, day lưỡi liên tục.
+
+Trúc rên to hơn: “Á… á… liếm mạnh nữa anh, em sướng tê lồn, lưỡi anh hay ghê, a… a… em sắp ra… ôi Minh ơi, anh ơi, em không chịu nổi nữa… á… á… á… á… á… á… chết em rồi anh ơi, em lên đỉnh rồi, sướng quá trời!”
+
+Sau khi cô lên đỉnh, Minh ngồi lên ghế đá bên cạnh, ôm cô: “Trúc ơi, em ra nhiều nước quá, anh liếm sạch nè. Giờ em bú anh đi em, con cặc anh thèm miệng em kinh khủng.”
+
+Trúc cười khúc khích, quỳ xuống, tuột quần anh xuống một chút: “Hì hì, anh làm em sướng run người, giờ em bú anh nha, mút đầu khấc sâu đây, liếm dọc thân cặc, anh rên đi.”
+
+Minh rên: “Sướng em, bú mạnh nữa Trúc ơi, miệng em ấm áp làm anh tê người.”
+
+Sau một lúc bú liếm lẫn nhau, Minh thì thầm: “Trúc ơi, anh cởi áo lót và xì líp em nha, anh muốn thấy em ở truồng trên ghế đá này, anh làm em lên đỉnh nữa.” Anh cởi khéo léo áo lót và xì líp cô, để cô ngồi với đầm vén lên, cơ thể nửa kín nửa hở.
+
+Trúc đỏ mặt nhưng cười: “Anh hư quá, cởi em giữa công viên, nhưng em thích, anh sờ em đi, bóp lồn em trực tiếp nè, em ở truồng rồi anh ơi.”
+
+Minh bóp lồn cô, day hột le: “Lồn em ướt nhẹp, anh bóp mạnh nè, em sướng không? Kể anh nghe đi.”
+
+Trúc rên: “Sướng anh, bóp nữa đi, em thèm anh nhào nặn em mãi. Em sờ con cặc anh tiếp nha, xóc nó đây.”
+
+Họ đối thoại ngọt ngào trong khi sờ nắn nhau: Minh: “Trúc ơi, cơ thể em đẹp mê hồn, lồn em lông lưa thưa làm anh muốn liếm mãi. Em thấy anh thế nào, con cặc anh có làm em thèm không?”
+
+Trúc: “Ôi anh ơi, con cặc anh bự quá, em thèm nó đâm vô lồn em, anh giỏi làm em sướng kinh khủng. Em ở truồng thế này kích thích quá, anh bú em tiếp đi.”
+
+Minh cúi xuống bú lồn cô tiếp, liếm mạnh: “Anh bú sâu nè, day hột le nữa, em sắp ra chưa?”
+
+Trúc: “Á… á… sắp rồi anh, liếm nhanh đi, em run bần bật… a… a… nhưng anh liếm chậm lại chút đi, em muốn kéo dài sướng này, ôi Minh ơi, lưỡi anh làm em tê hết người, anh hay quá, liếm vòng quanh hột le nữa đi anh, em thèm mãi không thôi. Anh kể em nghe anh thích lồn em thế nào đi, em muốn nghe giọng anh ngọt ngào.”
+
+Minh nhả ra một chút, thì thầm: “Trúc ơi, lồn em đẹp kinh khủng, ướt át và lông lưa thưa làm anh mê mẩn, anh liếm mãi không chán, em rên nữa đi, tiếng rên em làm anh hứng hơn.”
+
+Trúc rên: “A… a… anh liếm tiếp đi, em rên cho anh nghe nè, ôi anh ơi, sướng quá, day mạnh hơn chút nữa anh, em thèm anh liếm sâu vô khe lồn em đi, em thèm lưỡi anh chạm tận cùng.”
+
+Minh liếm sâu hơn: “Ừ em, anh bú sâu nè, lồn em ngon quá Trúc ơi, anh day hột le nhanh hơn đây, em run mạnh chưa?”
+
+Trúc: “Á… á… á… run rồi anh, nhưng anh chậm lại, em muốn nói chuyện với anh chút, anh thích lông lồn em không, nó lưa thưa vậy anh thấy đẹp hả? Liếm nữa đi anh, em sướng kinh khủng.”
+
+Minh: “Thích chứ em, lông em đẹp mê hồn, đen bóng xoăn xoăn trên da trắng, anh muốn ngắm mãi, giờ anh liếm nhanh hơn nha, em sắp ra đi Trúc ơi.”
+
+Trúc: “Á… á… á… á… á… á… á… á… ôi anh ơi, em ra rồi, chết em rồi anh ơi, sướng quá trời ơi!”
+
+Sau khi cô lên đỉnh lần nữa, Minh ngồi lên, ôm cô: “Trúc ơi, em đẹp quá, anh muốn thấy em trần truồng hoàn toàn giữa buổi chiều này, cởi đầm ra đi em, anh thèm thấy cơ thể em nhảy múa dưới nắng.”
+
+Trúc nũng nịu, lắc đầu: “Ôi anh Minh ơi, không được đâu anh, giữa buổi chiều sáng sủa thế này, em sợ có người thấy lắm, em xấu hổ chết mất. Em ở truồng dưới đầm thế này đã táo bạo rồi, anh đừng ép em nha.”
+
+Minh hôn nhẹ lên má cô, thuyết phục: “Trúc ơi, chỗ này kín đáo lắm, không ai lui tới đâu, anh nhìn xung quanh kỹ rồi, chỉ có gió nhẹ thổi, lá rơi xào xạc, mây trắng trôi trên trời xanh, nắng chiều dịu dàng chiếu qua tán cây làm mọi thứ đẹp lung linh. Em cởi ra đi, anh muốn thấy cơ thể đẹp mê hồn của em hòa quyện với thiên nhiên thế này, chắc chắn không ai thấy đâu em.”
+
+Trúc phụng phịu, ôm chặt anh: “Nhưng anh ơi, em sợ lắm, gió thổi lá bay đẹp thật nhưng lỡ có ai đi ngang thì sao? Em không dám đâu, anh hư quá, khen em để dụ em hả? Anh kể em nghe anh tưởng tượng em trần truồng thế nào đi, em nghe xem có xiêu lòng không.”
+
+Minh vuốt lưng cô, khen ngợi: “Em ơi, tưởng tượng đi, em trần truồng nhảy múa dưới nắng nhẹ, gió thổi làm lá rơi quanh em như đang múa, mây trôi lững lờ trên cao, mọi thứ yên bình đẹp đẽ, vú em căng tròn nảy nở, mông em cong vểnh lắc lư theo gió, đùi em trắng mịn lấp lánh dưới nắng chiều. Đặc biệt lông lồn em đẹp kinh khủng, không rậm như của Hoa mà lưa thưa quyến rũ, xoăn đen bóng trên da trắng, nếu em bay nhảy dưới nắng và gió, lông lồn sẽ bay phất phơ đẹp mê hồn, nhất là khi em nhảy sát miệng anh, mũi anh, dừng lại để anh ngửi mùi hương quyến rũ của em, anh sẽ liếm và hít hà mãi không thôi. Em thử đi, anh hứa không ai thấy, và em sẽ sướng hơn vì táo bạo thế này.”
+
+Trúc đỏ mặt, nũng nịu hơn: “Anh khen em ngọt ngào quá, lông lồn em bay phất phơ dưới gió nghe kích thích thật, nhưng em vẫn sợ anh ơi, em xấu hổ lắm, anh thuyết phục em hoài vậy em xiêu lòng mất. Nhưng không được đâu, anh ơi, anh hứa chắc chắn không ai thấy hả? Anh kể thêm đi, anh thích ngửi lông lồn em thế nào?”
+
+Minh tiếp tục: “Anh hứa mà em, chỗ này vắng tanh, gió nhẹ làm lá rơi đẹp lung linh, nắng chiếu lên da em trắng mịn sẽ lấp lánh, em trần truồng như nữ thần, anh ngửi lông lồn em khi em nhảy sát, mùi em quyến rũ làm anh mê mẩn, lông xoăn đen bóng bay phất phơ, anh nắm nhẹ và liếm, em sẽ rên sướng kinh khủng. Em đồng ý đi Trúc ơi, anh thèm thấy cảnh đó quá.”
+
+Trúc cắn môi, cuối cùng mỉm cười e thẹn: “Thôi được rồi anh, anh thuyết phục hay quá, em đồng ý, nhưng anh phải ôm em nếu em sợ nha. Em cởi đầm đây, ôi em hồi hộp quá Minh ơi.”
+
+Cô cởi đầm ra, đứng trần truồng giữa buổi chiều, bắt đầu nhảy múa nhẹ nhàng quanh anh, gió thổi làm lông lồn cô bay phất phơ. Minh ngồi trên ghế đá, mắt mê mẩn: “Em đẹp quá Trúc ơi, nhảy sát anh đi, lông lồn em bay đẹp kinh khủng, anh ngửi nè, mùi em quyến rũ quá.”
+
+Trúc cười khúc khích, nhảy sát anh, dừng lại để anh ngửi và liếm nhẹ: “Hì hì, anh thích không anh? Em nhảy tiếp nha, nhưng em thèm anh quá, để em ngồi lên đùi anh đi.” Cô ngồi lên đùi anh, dang háng ra rộng, lồn cô hở hết cỡ trước mặt anh, hai người cùng nhìn xuống lông lồn cô, lông mọc lưa thưa dọc hai múi lồn, những sợi xoăn đen bóng nổi bật trên làn da trắng mịn, trông đẹp mê hồn như những nét vẽ nghệ thuật tinh tế.
+
+Minh vuốt ve lồn cô, tay chạm nhẹ vào lông: “Trúc ơi, lông lồn em đẹp kinh khủng, xoăn đen bóng trên da trắng mịn làm anh muốn chơi mãi, em vạch ra cho anh xem đi, mấy sợi dọc múi lồn đây đẹp quá.”
+
+Trúc cười vui vẻ, tay cùng anh vạch hai múi lồn ra, nắm vài sợi lông lưa thưa: “Hì hì, anh Minh ơi, lông em xoăn xoăn đen bóng hả? Em nắm chùm này nè, nó cong cong vui ghê, anh thấy đẹp không? Em ưỡn mu lồn lên cho anh dễ chơi hơn nha, nhìn lông dọc hai múi lồn đây, lưa thưa mà bóng mượt, em thích anh khen nó quá trời.”
+
+Minh nắm vài sợi khác, kéo nhẹ vui đùa: “Đẹp mê hồn em, lông em xoăn đen bóng nổi bật da trắng mịn như nghệ thuật, anh nắm chùm này đây, cong cong lưa thưa đẹp mê hồn, hì hì, em ưỡn lên nữa đi Trúc ơi, anh muốn kéo nhẹ sợi ở phía trên mu lồn kia, bóng loáng quá, trông như những nét vẽ quyến rũ trên da em trắng hồng.”
+
+Trúc cười khúc khích, tay cùng anh vạch nhẹ múi lồn ra để lộ lông rõ hơn, ưỡn cao hơn nữa: “Á… á… kéo nhẹ vui quá anh, lông em đen bóng xoăn xoăn trên da trắng, em tự hào ghê, hì hì, anh nắm chùm này đi, em vạch cho anh xem lông dọc hai múi lồn kia, lưa thưa mà kích thích, anh bình luận đi anh, em thèm nghe anh nói vui nhộn nữa.”
+
+Minh vạch múi lồn cô rộng hơn, nắm chùm lông dọc đó kéo nhẹ, cười lớn: “Bình luận nè em, lông xoăn đen bóng thế này đẹp kinh khủng, nổi bật trên da trắng mịn của em như những sợi tơ huyền bí, anh kéo cong cong đây, hì hì, vui ghê Trúc ơi, em ưỡn mu lồn lên cao hơn đi, anh nắm sợi ở giữa múi lồn này, bóng loáng lưa thưa làm anh muốn chơi mãi, trông sống động quá trời.”
+
+Trúc ưỡn lên cao hết cỡ, cười rộn ràng: “Hì hì, anh khen hay quá, lông em xoăn đen bóng trên da trắng em đẹp thật hả anh? Em nắm vài sợi phía trên mu lồn này kéo cho anh xem, cong cong lưa thưa, chơi vui kinh khủng Minh ơi, anh vạch múi lồn em ra nắm chùm kia đi, em thấy kích thích ghê khi hai mình khám phá thế này.”
+
+Minh tiếp tục nắm và kéo nhẹ vui đùa, tay vạch múi lồn cô: “Khám phá nè em, lông dọc múi lồn xoăn đen bóng nổi bật da trắng, anh nắm chùm này đây, cong cong như đang mời gọi, hì hì, đẹp mê hồn Trúc ơi, giờ anh ưỡn tay em nắm sợi ở phía dưới múi lồn kia, bóng loáng lưa thưa sống động quá, chơi dài thế này vui hơn lần trước rồi em ơi.”
+
+Họ chơi đùa rộn ràng như vậy một lúc lâu, đối thoại vui nhộn liên tục, lông lồn cô xoăn đen bóng nổi bật trên da trắng mịn trông đẹp mê hồn như những nét vẽ nghệ thuật tinh tế, rồi Trúc thì thầm: “Anh ơi, em thèm anh quá, để em ngồi lên người anh cưỡi ngựa đi.”
+
+Cô tuột quần tây và sịp anh xuống tới gối, ngồi lên cưỡi ngựa, nhúng nhảy: “Ôi con cặc anh đâm sâu quá, em nhảy mạnh nè, anh bóp vú em đi, em sướng kinh khủng.”
+
+Minh: “Sướng em, lồn em chặt khít, bóp vú em nè, nhảy nhanh nữa đi Trúc ơi.”
+
+Sau một lúc nhảy, Trúc rên: “A… a… anh ơi, con cặc anh chạm tận cùng lồn em, em nhảy chậm lại chút đi, em muốn nói chuyện, anh thích em cưỡi thế này không? Em sướng nhưng muốn kéo dài, anh kể em nghe con cặc anh cảm nhận lồn em thế nào đi.”
+
+Minh: “Thích chứ em, lồn em ướt át chặt khít làm anh tê người, nhảy nữa đi Trúc ơi, anh bóp vú mạnh hơn nè, em rên ngọt ngào cho anh nghe.”
+
+Trúc: “Á… á… anh bóp hay quá, em nhảy nhanh hơn đây, nhưng anh ôm em chặt đi, em thèm anh mãi, con cặc anh bự làm em phê, em sắp không chịu nổi rồi Minh ơi.”
+
+Minh: “Ừ em, anh ôm chặt nè, nhảy mạnh đi, lồn em co giật kinh khủng, em sắp ra hả Trúc ơi?”
+
+Trúc: “Á… á… á… á… á… á… á… á… á… sắp rồi anh, nhưng em muốn sướng lâu hơn, anh day đầu vú em đi, em nhảy chậm lại, ôi sướng quá, anh hay kinh khủng.”
+
+Minh day đầu vú cô: “Day nè em, nhảy nữa đi, anh thèm em ra vì anh, kể em nghe em thèm gì nữa đi.”
+
+Trúc: “Em thèm con cặc anh đâm sâu mãi, giờ em nhảy nhanh hơn nha, a… a… em run bần bật rồi anh ơi, ôi Minh ơi, em không kiềm được nữa… á… á… á… á… á… á… á… á… á… chết em rồi anh ơi, em lên đỉnh rồi, sướng quá trời ơi!”
+
+Sau khi cô lên đỉnh, cô đứng dậy nhảy múa tiếp, cười vui vẻ: “Hì hì, sướng kinh anh ơi, em nhảy tiếp nha, gió thổi lông lồn em bay làm em kích thích hơn.”
+
+Rồi cô thì thầm: “Anh ơi, em muốn anh đụ em từ phía sau, nhưng trước đó anh ôm em chút đi, em thèm anh nói ngọt ngào.”
+
+Minh ôm cô: “Ừ em, anh ôm chặt nè Trúc ơi, em đẹp quá, nhảy múa trần truồng thế này làm anh mê mẩn, giờ em chống tay lên gốc cây đi, chổng mông cho anh đụ, nhưng anh muốn hôn em trước đã.”
+
+Trúc cười: “Hì hì, hôn em đi anh, em thèm môi anh, anh kể em nghe anh thích đụ em phía sau thế nào đi, em hồi hộp ghê.”
+
+Minh hôn cô say đắm: “Anh thích lắm em, mông em cong vểnh làm anh thèm đâm sâu, em chổng mông đi Trúc ơi, anh sẽ đụ chậm trước để em sướng lâu.”
+
+Trúc chống tay lên gốc cây, chổng mông: “Ừ anh, em chổng mông nè, đụ em đi, nhưng chậm thôi anh ơi, em muốn nói chuyện trong lúc đụ.”
+
+Minh đứng dậy, đụ mạnh từ phía sau: “Trúc ơi, mông em cong quá, anh đâm sâu nè, em sướng không?”
+
+Trúc rên: “Á… á… sướng anh, đụ mạnh nữa đi, nhưng anh kể em nghe con cặc anh cảm nhận lồn em thế nào, em thèm nghe.”
+
+Minh: “Lồn em chặt khít ướt át, anh đụ sâu hơn nè, em co giật kinh khủng, anh bóp mông em đây, em rên nữa đi Trúc ơi.”
+
+Trúc: “A… a… bóp mạnh anh, em sướng tê người, đụ nhanh hơn chút đi, nhưng em muốn kéo dài, anh thích mông em cong hả anh? Ôi Minh ơi, hay quá.”
+
+Minh: “Thích chứ em, mông cong vểnh đẹp mê hồn, anh đụ mạnh hơn nè, em sắp ra chưa Trúc ơi?”
+
+Trúc: “Á… á… sắp rồi anh, nhưng chậm lại, em thèm anh đụ mãi, anh ôm eo em đi, em run bần bật rồi.”
+
+Minh ôm eo cô, đụ tiếp: “Ôm nè em, đụ sâu hơn đây, lồn em ngon quá, em kể em sướng gì đi.”
+
+Trúc: “Em sướng vì con cặc anh chạm tận cùng, giờ đụ nhanh đi anh, em không chịu nổi nữa… á… á… á… á… á… á… á… á… á… chết em mất anh ơi, em lên đỉnh rồi, sướng kinh hồn!”
+
+Cô lên đỉnh, rồi nhảy múa tiếp đến khi chiều muộn dần sang tối. Trước khi trời thật sự tối, Trúc chạy lại ngồi lên đùi anh, dang háng rộng ra như lần trước, lồn cô hở hết cỡ trước mặt anh, hai người cùng nhìn xuống. Cô thì thầm ngọt ngào: “Anh Minh ơi, em thấy thích ghê khi hai mình chơi với lông lồn em lần trước, vui vui và kích thích kinh khủng, em muốn làm vậy nữa đi anh, lần này dài hơn và vui hơn nha, em thèm anh bình luận và nắm lông em hoài luôn.”
+
+Minh cười lớn, tay vuốt ve đùi cô rồi chạm nhẹ vào lông lồn: “Ừ em, anh cũng thích kinh khủng Trúc ơi, lông em xoăn đen bóng trên da trắng mịn đẹp mê hồn, chơi vui quá trời. Lần này anh chơi dài hơn nha, em ưỡn mu lồn lên cho anh dễ nắm đi, nhìn lông lưa thưa dọc hai múi lồn đây đẹp quá.”
+
+Trúc ưỡn mu lồn lên cao hơn, dang háng rộng hết cỡ, cười vui vẻ: “Hì hì, em ưỡn nè anh, lông em xoăn xoăn đen bóng hả? Em nắm chùm này trước đi, nó cong cong như đang nhảy múa theo gió, anh thấy vui không? Em thích anh khen nó quá, lông lưa thưa nhưng bóng mượt trên da trắng em, chơi hoài không chán luôn Minh ơi.”
+
+Minh nắm vài sợi khác, kéo nhẹ vui đùa, mắt sáng rỡ: “Vui kinh khủng em, lông em xoăn đen bóng nổi bật da trắng mịn như nghệ thuật sống động, anh nắm chùm dọc múi lồn này đây, cong cong lưa thưa đẹp mê hồn, hì hì, em ưỡn lên nữa đi Trúc ơi, anh muốn kéo nhẹ sợi ở phía trên mu lồn kia, bóng loáng quá, trông như những nét vẽ quyến rũ trên da em trắng hồng.”
+
+Trúc cười khúc khích, tay cùng anh vạch nhẹ múi lồn ra để lộ lông rõ hơn, ưỡn cao hơn nữa: “Á… á… kéo nhẹ vui quá anh, lông em đen bóng xoăn xoăn trên da trắng, em tự hào ghê, hì hì, anh nắm chùm này đi, em vạch cho anh xem lông dọc hai múi lồn kia, lưa thưa mà kích thích, anh bình luận đi anh, em thèm nghe anh nói vui nhộn nữa.”
+
+Minh vạch múi lồn cô rộng hơn, nắm chùm lông dọc đó kéo nhẹ, cười lớn: “Bình luận nè em, lông xoăn đen bóng thế này đẹp kinh khủng, nổi bật trên da trắng mịn của em như những sợi tơ huyền bí, anh kéo cong cong đây, hì hì, vui ghê Trúc ơi, em ưỡn mu lồn lên cao hơn đi, anh nắm sợi ở giữa múi lồn này, bóng loáng lưa thưa làm anh muốn chơi mãi, trông sống động quá trời.”
+
+Trúc ưỡn lên cao hết cỡ, cười rộn ràng: “Hì hì, anh khen hay quá, lông em xoăn đen bóng trên da trắng em đẹp thật hả anh? Em nắm vài sợi phía trên mu lồn này kéo cho anh xem, cong cong lưa thưa, chơi vui kinh khủng Minh ơi, anh vạch múi lồn em ra nắm chùm kia đi, em thấy kích thích ghê khi hai mình khám phá thế này.”
+
+Minh tiếp tục nắm và kéo nhẹ vui đùa, tay vạch múi lồn cô: “Khám phá nè em, lông dọc múi lồn xoăn đen bóng nổi bật da trắng, anh nắm chùm này đây, cong cong như đang mời gọi, hì hì, đẹp mê hồn Trúc ơi, giờ anh ưỡn tay em nắm sợi ở phía dưới múi lồn kia, bóng loáng lưa thưa sống động quá, chơi dài thế này vui hơn lần trước rồi em ơi.”
+
+Họ chơi đùa rộn ràng như vậy một lúc lâu, đối thoại vui nhộn liên tục, lông lồn cô xoăn đen bóng nổi bật trên da trắng mịn trông đẹp mê hồn như những nét vẽ nghệ thuật tinh tế, rồi Minh thì thầm: “Trúc ơi, giờ anh muốn khám phá hai môi lồn đỏ hồng của em nữa, em vạch ra cho anh xem đi, đẹp kinh khủng.”
+
+Trúc cười khúc khích, tay cùng anh vạch hai môi lồn ra rộng, lộ ra lớp da đỏ hồng mịn màng, ướt át lấp lánh: “Hì hì, anh Minh ơi, hai môi lồn em đỏ hồng hả? Em vạch ra nè, nhìn nó mọng mọng đỏ hồng trên da trắng, vui ghê, anh sờ nhẹ đi anh, em thích anh bình luận vui nhộn về nó quá.”
+
+Minh sờ nhẹ hai môi lồn cô, vuốt ve sống động: “Đẹp mê hồn em, hai môi lồn đỏ hồng mọng nước, nổi bật da trắng mịn như cánh hoa tươi, anh vuốt dọc môi lồn này đây, đỏ hồng bóng loáng, hì hì, vui quá Trúc ơi, em vạch rộng hơn đi, anh muốn sờ môi lồn kia, mịn màng đỏ hồng sống động kinh khủng.”
+
+Trúc vạch rộng hơn, cười vui vẻ: “Á… á… sờ nhẹ vui quá anh, hai môi lồn em đỏ hồng mọng mọng hả? Em vuốt môi lồn này cho anh xem, đỏ hồng lấp lánh ướt át, anh thấy đẹp không? Hì hì, chơi vui kinh khủng Minh ơi, anh vạch ra sờ môi lồn kia đi, em thèm anh khen nó nữa.”
+
+Minh vạch và vuốt nhẹ, cười lớn: “Thích chứ em, hai môi lồn đỏ hồng đẹp kinh khủng, mịn màng nổi bật da trắng như nghệ thuật sống động, anh vuốt vòng quanh môi lồn này đây, đỏ hồng bóng loáng, hì hì, em vạch rộng hơn nữa đi Trúc ơi, anh sờ cả hai môi lồn cùng lúc, mọng nước đỏ hồng vui ghê.”
+
+Trúc vạch rộng hết cỡ, cười rộn ràng: “Hì hì, anh khen hay quá, hai môi lồn em đỏ hồng mịn màng trên da trắng đẹp thật hả anh? Em vuốt nhẹ môi lồn này kéo cho anh xem, đỏ hồng ướt át lấp lánh, chơi vui hơn lông lồn luôn anh ơi, anh sờ tiếp đi, em kích thích ghê.”
+
+Minh tiếp tục vuốt và khám phá vui đùa, đối thoại rộn ràng: “Khám phá nè em, hai môi lồn đỏ hồng mọng nước sống động quá, anh vuốt dọc môi lồn kia đây, bóng loáng đỏ hồng nổi bật da trắng mịn, hì hì, đẹp mê hồn Trúc ơi, giờ anh vạch ra rộng hơn, em thấy vui không?”
+
+Trúc: “Vui kinh khủng anh, hai môi lồn em đỏ hồng mịn màng, em vuốt nhẹ kéo ra cho anh xem, đỏ hồng ướt át lấp lánh, hì hì, anh sờ hoài đi Minh ơi, chơi dài thế này kích thích quá trời.”
+
+Sau khi khám phá hai môi lồn một lúc, Minh thì thầm: “Trúc ơi, giờ anh muốn day nhẹ hột le em nữa, em vạch môi lồn ra cho anh xem đi, hột le đỏ hồng sưng húp đẹp kinh khủng.”
+
+Trúc vạch môi lồn ra rộng, lộ hột le đỏ hồng sưng mọng, cười khúc khích: “Hì hì, anh Minh ơi, hột le em đỏ hồng hả? Em vạch ra nè, nhìn nó sưng sưng đỏ hồng trên da trắng, vui ghê, anh day nhẹ đi anh, em thèm anh chơi vui nhộn với nó quá.”
+
+Minh day nhẹ hột le cô bằng ngón tay, vuốt ve sống động: “Đẹp mê hồn em, hột le đỏ hồng sưng húp, nổi bật da trắng mịn như nút ngọc quý, anh day vòng quanh đây, đỏ hồng bóng loáng, hì hì, vui quá Trúc ơi, em vạch rộng hơn đi, anh muốn day mạnh nhẹ xen kẽ, sưng mọng đỏ hồng sống động kinh khủng.”
+
+Trúc rên khẽ nhưng cười vui vẻ: “Á… á… day nhẹ vui quá anh, hột le em đỏ hồng sưng sưng hả? Em vạch rộng hơn nè, day chậm cho em xem, đỏ hồng lấp lánh ướt át, anh thấy đẹp không? Hì hì, chơi vui kinh khủng Minh ơi, anh day tiếp đi, em kích thích ghê.”
+
+Minh day nhẹ rồi mạnh hơn một chút, cười lớn: “Thích chứ em, hột le đỏ hồng đẹp kinh khủng, sưng mọng nổi bật da trắng như nghệ thuật sống động, anh day vòng quanh đây, bóng loáng đỏ hồng, hì hì, em vạch môi lồn rộng hơn nữa đi Trúc ơi, anh day lên xuống hột le, mịn màng đỏ hồng vui ghê.”
+
+Trúc vạch rộng hết cỡ, cười rộn ràng: “Hì hì, anh khen hay quá, hột le em đỏ hồng mịn màng trên da trắng đẹp thật hả anh? Em day nhẹ cùng anh nè, đỏ hồng sưng húp lấp lánh, chơi vui hơn hai môi lồn luôn anh ơi, anh day hoài đi, em thèm anh bình luận nữa.”
+
+Minh tiếp tục day và khám phá vui đùa, đối thoại rộn ràng: “Bình luận nè em, hột le đỏ hồng sưng nước sống động quá, anh day nhẹ kéo ra đây, bóng loáng đỏ hồng nổi bật da trắng mịn, hì hì, đẹp mê hồn Trúc ơi, giờ anh day nhanh chậm xen kẽ, em thấy vui không?”
+
+Trúc: “Vui kinh khủng anh, hột le em đỏ hồng mịn màng, em day nhẹ vuốt cho anh xem, đỏ hồng ướt át lấp lánh, hì hì, anh day mãi đi Minh ơi, chơi dài thế này kích thích quá trời, em sướng ghê.”
+
+Họ chơi đùa vui vẻ với hột le một lúc lâu, mô tả sống động và rộn ràng, hột le đỏ hồng sưng mọng nổi bật trên da trắng mịn trông đẹp mê hồn như nút ngọc quyến rũ, rồi trời bắt đầu tối hẳn hơn. Minh kéo cô ngồi lên: “Giờ trời tối rồi, anh cho em cưỡi ngựa nữa nha, nhảy đi em.”
+
+Trúc cưỡi ngựa: “Con cặc anh làm em phê, em nhảy mạnh nè, a… a… anh bóp vú em đi Minh ơi.”
+
+Minh: “Bóp nè em, nhảy nhanh nữa đi Trúc ơi, lồn em chặt quá, anh thích em cưỡi thế này kinh khủng, em kể em sướng gì đi.”
+
+Trúc: “Em sướng vì con cặc anh đâm sâu, bóp mạnh nữa anh, em nhảy chậm chút để nói chuyện, anh thích lồn em co giật không? Em thèm kéo dài sướng này quá Minh ơi.”
+
+Minh: “Thích chứ em, lồn em co giật làm anh tê người, nhảy mạnh hơn nha Trúc ơi, anh se đầu vú em đây, em rên to hơn cho anh nghe đi.”
+
+Trúc: “Á… á… se hay quá anh, em nhảy nhanh đây, nhưng anh ôm eo em đi, em run bần bật rồi, con cặc anh bự làm em phê kinh khủng, em sắp ra nhưng muốn sướng lâu hơn nữa anh ơi.”
+
+Minh ôm eo cô: “Ôm nè em, nhảy nữa đi, anh thèm nghe em nói ngọt ngào, em đẹp quá Trúc ơi, lồn em ướt át làm anh mê mẩn, em sắp ra hả?”
+
+Trúc: “Á… á… sắp rồi anh, nhưng chậm lại chút, em muốn anh kể con cặc anh thèm em thế nào, em nhảy vòng tròn nè, sướng quá Minh ơi.”
+
+Minh: “Con cặc anh thèm lồn em chặt khít mãi, nhảy mạnh đi em, anh day đầu vú mạnh hơn đây, em rên thảm thiết cho anh nghe Trúc ơi.”
+
+Trúc: “Á… á… á… á… á… á… á… á… á… ôi anh ơi, em ra rồi, chết em rồi anh ơi!”
+
+Sau khi cô lên đỉnh, họ đối thoại: Minh: “Trúc ơi, em nhảy múa trần truồng đẹp mê hồn, anh sướng vì em táo bạo thế này. Em thấy sao, có thích không?”
+
+Trúc: “Hì hì, em thích kinh khủng anh ơi, hồi hộp nhưng sướng, gió nắng làm em kích thích hơn. Anh làm em hạnh phúc quá, em yêu anh mãi. Giờ em cưỡi ngựa nữa nha, em thèm anh xuất vô trong em.”
+
+Cô cưỡi ngựa nữa, nhảy mạnh: “Anh ơi, em sắp ra… a… a… anh xuất cùng em đi, vô lồn em nè! Nhưng anh kể em nghe anh sướng thế nào trước đi, em nhảy chậm để kéo dài.”
+
+Minh: “Anh sướng tê người em ơi, lồn em chặt khít làm con cặc anh giật giật, nhảy mạnh hơn nha Trúc ơi, anh bóp mông em đây, em đẹp kinh khủng, em thèm tinh trùng anh hả?”
+
+Trúc: “Thèm chứ anh, bóp mạnh nữa đi, em nhảy nhanh đây, nhưng anh ôm em chặt, em run bần bật rồi, con cặc anh đâm sâu làm em phê, em muốn ra cùng anh Minh ơi.”
+
+Minh: “Ôm chặt nè em, nhảy nữa đi, anh sắp xuất, lồn em ngon quá, em rên to hơn cho anh nghe Trúc ơi.”
+
+Trúc: “Á… á… anh ơi, em sướng kinh khủng, day đầu vú em đi, em nhảy vòng tròn nè, em không kiềm được nữa, xuất vô em đi anh!”
+
+Minh: “Trúc ơi, anh xuất rồi, vô trong em nè, sướng kinh khủng!”
+
+Cả hai lên đỉnh, anh xuất tinh đầy trong lồn cô. Họ ôm nhau thở hổn hển, nói chuyện quyến luyến: Minh: “Trúc ơi, hôm nay tuyệt vời quá, em dâm ngọt ngào làm anh mê mẩn, anh không muốn về đâu, ôm em mãi thôi.”
+
+Trúc: “Ôi anh Minh ơi, em cũng vậy, anh làm em sướng kinh khủng, em yêu anh da diết, hôn em nữa đi anh, em thèm môi anh ấm áp trước khi về.”
+
+Minh hôn cô say đắm: “Hôn nè em, anh yêu em quá Trúc ơi, lần sau anh dắt em về phòng trọ nha, ở đó thoải mái hơn, anh làm em sướng suốt đêm.”
+
+Trúc: “Ừ anh, em mong chờ lắm, phòng trọ anh chắc kín đáo, em muốn anh đụ em thoải mái hơn. Em yêu anh kinh khủng Minh ơi, ôm em chặt nữa đi trước khi về.”
+
+Họ mặc đồ lại, hôn hít thêm rồi ra về.
+
+Trên đường về, Trúc nghĩ thầm: “Anh Minh tuyệt vời quá, đẹp trai, dịu dàng, làm tình giỏi kinh khủng, thuyết phục em táo bạo giữa công viên mà em sướng tê người, em đã lên đỉnh năm lần hôm nay, cơ thể anh mạnh mẽ, con cặc bự làm em phê liên tục, nhưng thích nhất và vui nhất là vụ chơi và bình luận về lông lồn, môi lồn và hột le của em, vui nhộn kích thích kinh khủng, em khen anh hết lời, mong chờ lần tới ở phòng trọ anh, chắc chắn thoải mái và đam mê hơn, em mê anh mất rồi.”
+
+Minh nghĩ thầm: “Trúc xinh đẹp nhất đời anh, quyến rũ mê hồn, cơ thể hoàn hảo với vú căng, mông cong, lồn lông lưa thưa đẹp hơn Hoa gấp bội, dâm đãng ngọt ngào, nhảy múa trần truồng táo bạo làm anh sướng kinh khủng, nhưng thích nhất và vui nhất là vụ chơi và bình luận về lông lồn, môi lồn và hột le của em, vui nhộn sống động mê mẩn, em khen anh hết lời trong lòng, anh mong chờ dắt em về phòng trọ, làm tình thoải mái hơn, có khi để Vinh nghe tiếng rên của em cho ganh tị, anh yêu em mãi.”
+
+Về phòng trọ, Vinh đang ngồi chơi game, thấy Minh về với mặt hớn hở: “Ê mày, trông mày vui thế, kể tao nghe buổi chiều với Trúc đi, chi tiết nha, tao đang tò mò chết được.”
+
+Minh cười lớn, ngồi xuống kể chi tiết: “Tao gặp Trúc ở cổng công viên, cô ấy mặc đầm vàng nhạt ngắn gợi cảm kinh khủng, ôm tao tươi cười rồi cùng vào chọn chỗ kín đáo. Ban đầu hôn hít nhẹ nhàng, rồi sờ mó nhau, tao vuốt đùi, bóp vú cô ấy, cô ấy xóc cặc tao. Sau đó bú liếm nhau trên ghế đá, tao cởi áo lót và xì líp cô ấy, liếm lồn làm cô ấy lên đỉnh rên thảm thiết. Tụi tao đối thoại ngọt ngào, sờ nắn tiếp trong khi cô ấy ở truồng, rồi bú liếm nữa. Tao thuyết phục cô ấy cởi đầm trần truồng giữa chiều, cô ấy nũng nịu không chịu vì sợ người thấy, tao phải thuyết phục nhiều lần, khen chỗ kín đáo, gió nhẹ lá rơi mây trời nắng đẹp, khen cơ thể cô ấy đẹp mê hồn, đặc biệt lông lồn lưa thưa không rậm như Hoa, nếu nhảy múa dưới nắng gió sẽ bay phất phơ đẹp, nhất là nhảy sát miệng mũi tao để ngửi. Cuối cùng cô ấy đồng ý, nhảy múa trần truồng, rồi ngồi lên đùi tao dang háng nói chuyện vui về lông lồn, tụi tao cùng vạch lông, nắm vài sợi, bình luận vui vẻ, cô ấy ưỡn mu lồn lên cho dễ chơi, lông mọc lưa thưa dọc hai múi lồn, ưỡn cao hơn để nắm lông ở đó, đối thoại rộn ràng vui nhộn. Rồi thêm lần chơi lông lồn nữa dài hơn vui hơn, sau đó khám phá hai môi lồn đỏ hồng và day hột le cô ấy với đối thoại vui nhộn sống động. Rồi ngồi lên cưỡi ngựa hai lần, tuột quần tao xuống gối, nhảy mạnh lên đỉnh. Rồi nhảy múa tiếp, tao đụ từ phía sau khi cô ấy chống tay lên cây, chổng mông, cô ấy ra nữa. Nhảy múa tiếp đến tối, tao cho cưỡi ngựa nữa cô ấy ra, đối thoại ngọt rồi cưỡi nữa, cô ấy ra và tao xuất vô trong lồn cô ấy luôn. Tụi tao nói chuyện quyến luyến rồi về, tao hẹn lần sau dắt về phòng trọ làm tình thoải mái hơn. Cô ấy rên ngọt ngào gợi tình suốt, tao sướng kinh khủng Vinh ơi.”
+
+Vinh nghe mà mắt sáng rỡ, nứng lên: “Mày sướng thật, Trúc táo bạo kinh, kể vậy tao tưởng tượng mà nứng quá, để tao thủ dâm luôn đây, mày kể hay ghê.” Vinh bắt đầu thủ dâm ngay, rên rỉ vì ghen tị và tưởng tượng.
+
+10 ngày sau, ông Trí về từ Mỹ. Dũng nói với ba anh liền: “Ba ơi, chị Hoa dạy kèm con tạm thời bận về quê, chị nói chờ ba về ba gọi cho chị, liên quan chuyện dạy kèm con thì phải, đây số điện thoại di động chị Hoa, ba gọi cho chị nha ba, con nhớ chị dạy con lắm.”
+
+Ông Trí sinh nghi cậu yêu Hoa, cô nhân tình bé bỏng lồn gái trẻ của ông, thế là khi Dũng ra khỏi nhà thì ông gọi cho Hoa liền, vì ông nhớ cô quá. Qua điện thoại, ông nói: “Alo! Hoa hả cháu?”
+
+Nghe giọng nói Ông Trí mà Hoa sướng tê người, mừng rỡ kinh khủng vì chờ đã 10 ngày nay liền trả lời: “Dạ, Hoa đây chú. Chú về rồi hả chú? Chú về khi nào vậy chú?”
+
+“Ừ, chú mới về, chú kêu thằng Dũng vô hỏi thăm Hoa nè, nó mới cho chú biết là Hoa về quê có việc.”
+
+“Dạ, cháu về quê có chút việc, mà cũng xong rồi chú, cháu đang tính lên lại thành phố nè!”
+
+“Hoa có nhớ chú không?”
+
+“Dạ, cháu nhớ chú lắm, nhiều nhiều lắm, nhớ kinh khủng luôn, hì hì!”
+
+“Ừ, chú cũng nhớ Hoa lắm!”
+
+“Dạ, chú nhớ gì cháu vậy chú?”
+
+“Ừ, chú nhớ tất cả về Hoa luôn đó!”
+
+“Dạ, chú nhớ gì chú nói Hoa biết đi chú!”
+
+“Chú nhớ cơ thể Hoa quyến rũ mê hồn kinh khủng nè! Chú nhớ vú Hoa căng tròn hồng hào đẹp tuyệt trần làm chú thèm bóp hoài!”
+
+“Hì hì! Chú còn nhớ gì nữa không chú?”
+
+“Chú nhớ eo Hoa thon uốn éo gợi dục nè! Chú nhớ mông Hoa cong cong làm chú muốn vỗ đỏ ửng nữa nè”
+
+“Hì hì! Hoa cảm ơn chú! Còn gì nữa không chú?”
+
+“Chú nhớ chân Hoa dài trắng mịn dang rộng khoe hết vẻ đẹp! Chú nhớ đùi Hoa mềm mại lông lưa thưa bay bay kích thích! Chú nhớ gương mặt Hoa xinh đẹp ửng hồng cười khúc khích dễ thương! Chú nhớ đôi mắt Hoa long lanh ham muốn nhìn chú! Chú nhớ cái mũi Hoa xinh xắn hít hà mùi chú!”
+
+“Hì hì! Hoa vui quá, còn gì nữa không chú?”
+
+“Còn nữa nè: Chú nhớ cái miệng Hoa bú cặc chú ngọt ngào, ha ha!”
+
+“Chú… chú… chú đừng chọc Hoa mà, hì hì, còn gì nữa không chú?”
+
+“Chú nhớ gò má Hoa mềm mịn đỏ ửng chú nắn hoài! Chú nhớ cái cổ Hoa trắng ngần uốn éo gợi tình! Chú nhớ cánh tay Hoa mảnh mai lông lưa thưa đẹp lạ! Chú nhớ vai trần Hoa quyến rũ mê người! Chú nhớ bàn tay Hoa vuốt cặc chú, Ha ha!”
+
+“Chú… chú ơi… chú đừng chọc Hoa nữa mà! Nhưng mà chú nhớ Hoa cái gì nhất vậy chú?”
+
+“Đặc biệt chú nhớ và thích nhất cái lồn gái trẻ nhiều lông lồn của Hoa đó! Lông lồn Hoa đen xoăn dày dặn bóng mượt đẹp mê hồn kinh khủng! Nhớ nhất cảnh Hoa banh cái lồn ngồi trên ghế gần kính trong suốt hướng ra hồ bơi đó! Với anh nắng chiếu vô làm lông lồn Hoa đen xoăn bóng lấp lánh dưới nắng vàng rực rỡ đó Hoa!”
+
+“Ôi! Chú ơi… chú ơi… chú lãng mạn quá… chú là nhà văn hả chú?”
+
+“Không Hoa, chú dân IT mà, nhưng vì Hoa đặc biệt nên chú mới nhớ tường tận như vậy. Chú còn nhớ lông lồn Hoa rất đẹp, chú rất thích: Dài ngắn xen kẽ quấn quýt quanh hai múi thịt lồn múp mịn hồng hào của Hoa! Làm cái lồn gái trẻ của Hoa trở thành kiệt tác thiên nhiên quyến rũ mê người kinh khủng luôn khiến chú không thể quên được Hoa ơi!”
+
+“Ôi! Chú ơi, Hoa yêu chú, Hoa yêu chú mất rồi chú ơi!”
+
+“Chú còn nhớ tiếng rên rỉ ngọt lịm dễ thương tha thiết của Hoa nữa! Làm chú nứng cặc hoài nè! Hoa giỏi lắm Hoa ơi, Hoa học bú cặc chú rất giỏi, Ha ha, chú đùa… chú đùa!”
+
+“Chú ơi… chú ơi… Hoa nhớ chú kinh khủng luôn! Hoa nhớ con cặc bự dài gân guốc của chú làm cháu thèm quá à! Hoa mong chờ được chú đụ để dâng hiến trinh tiết cho chú như Hoa hứa! Hoa nhớ cách chú liếm cái lồn Hoa, liếm hột le Hoa, giật lông lồn Hoa làm Hoa sướng và lên đỉnh nhiều lần như chết đi sống lại! Cháu cứ nhớ hoài mà không sao quên được, ôi! Hoa xấu hổ quá chú ơi! Chú đừng cười Hoa nha chú!”
+
+“Hoa nè! Sao chú cười Hoa chứ! Hoa đẹp, Hoa dễ thương mà!”
+
+“Dạ, Hoa cảm ơn chú… Hoa cảm ơn chú nhiều vì chú đã làm cho sướng… vì chú đã cho Hoa biết thế nào là sướng! Hoa luôn mong chờ điện thoại của chú từng ngày để được gặp chú! Cháu hứa sẽ nghe lời chú mọi thứ hết, Hoa hứa sẽ là tình nhân dễ thương cho chú! Để chú muốn hạnh hạ cái lồn gái trẻ và thân xác này của Hoa bất cứ cái gì chú thích! Và bất cứ lúc nào, bất cứ ở đâu mà chú muốn, chú thích! Hoa cũng cho chú biết là Hoa đã chia tay với người yêu mới quen của Hoa rồi! Hoa nguyện sẽ dâng trọn cả thể xác và trái tim này của Hoa cho chú trong suốt cuộc đời này! Chú dìu dắt Hoa vào đời nha chú!”
+
+Ông Trí nghe mà xúc động quá: “Hoa nè! Nghe Hoa nói mà chú xúc động quá, Hoa dễ thương quá! Chú nhớ Hoa, chú mê Hoa không uổng mà! Chừng nào lên thành phố được? Chú thèm đụ Hoa quá!”
+
+“Dạ, chú muốn Hoa lên lúc nào cũng được chú ơi! Hoa thèm chú lắm!”
+
+“Vậy tối nay Hoa khoảng trước 7 giờ tối nay Hoa có mặt ở thành phố được không?”
+
+“Dạ, được chú!”
+
+“OK, vậy chú sẽ gọi lại cho Hoa và sẽ gặp Hoa tối nay ở khách sạn Caravelle Sài Gòn ở quận 1 nha Hoa!”
+
+“Dạ chú, cháu vui kinh khủng, bây giờ đi đây! Cháu chờ chú gọi lại nha chú!”
+
+“OK Hoa!”
+
+Xong điện thoại, Hoa nghĩ thầm: “Chú gọi rồi, ôi! Sao mình sướng tê người thế này! Mình đã chờ cuộc gọi này đã 10 ngày nay rồi! Khách sạn Caravelle Sài Gòn ở quận 1 sao ta! Khách sạn 5 sao mà! Ôi, Hoa ơi, đời mày lên hương rồi Hoa ơi! Đòi mày rồi đây sẽ khác rồi Hoa ơi!”

@@ -1,0 +1,8 @@
+node_modules/
+.cache/
+android/build/
+ios/build/
+ios/Pods/
+src/data/stories_index.json
+src/data/meta.json
+src/data/chapters/

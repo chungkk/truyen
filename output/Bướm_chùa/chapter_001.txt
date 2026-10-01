@@ -1,0 +1,74 @@
+Chapter 1
+========================================
+
+Lộp bộp, lộp bộp. Những giọt nước mưa nặng trĩu va vào cửa kính tạo lên những âm thanh ồn ào như vậy. Ngả người ra cái ghế xoay, gác chân lên một cạnh bàn rồi tôi ngậm cái bút ngắm nghĩ cái bức hình ngộ nghĩnh mà đang vẽ dở trên cái tờ giấy a4 đặt trên bàn.
+
+Cái màn hình vi tính vẫn phát cái bộ phim hoạt hình hãy đợi đấy và tiếng nhạc từ cái tai nghe của tôi hòa cùng với tiếng mưa.
+
+Làm ở phó phòng phát triển ứng dụng công nghệ thông tin của một phòng nhỏ thuộc tập đoàn kinh tế lớn nhất nhì Việt Nam, tôi có khá nhiều việc phải làm. Văn phòng thuộc tầng sáu của một tòa nhà hai mươi ba tầng ngay Hà Nội nhìn xa xa là cái hồ Tây rộng lớn.
+
+Phòng tôi cũng ít nhân sự, chỉ khoảng gần ba mươi người mà thôi, trong khi đó thì độ tuổi cũng trẻ, chỉ tầm ba mươi đổ lại mà thôi.
+
+Với đặc tính là công nghệ thông tin nên phòng tôi chủ yếu là nam giới chỉ có khoảng năm người nữ ở bộ phận design mà thôi.
+
+Người đầu tiên tôi muốn nhắc đến là Nga. Cái mặt của Nga tròn tròn, mũi cao như tây, đặc biệt là đôi mắt có một vẻ gì đó hút hồn người khác như một cô gái Ấn Độ vậy. Nói chuyện thì cũng khá hay ho nhưng đặc biệt nổi bật nhất của Nga là hai cái bầu vú căng tròn.
+
+Không hiểu vì sao mà vú của Nga to vô cùng, mỗi bước đi khiến hai cái bầu vú nó đung đưa nảy tâng tâng.
+
+Mấy đứa nhân viên thì mỗi lần Nga bước qua là thèm thuồng. Thằng Minh nó khá là giỏi về code cũng trẻ nhất phòng tính hay lém lỉnh vào qua chỗ tôi nói:
+
+– Anh ơi… em nghĩ ra cái này hay ho lắm. Anh xem có phát triển được không?
+
+Minh mở laptop cho tôi xem mấy cái clip và đoạn chạy của ứng dụng rồi nói:
+
+– Cái này di động xem rất là ổn anh ạ, em cũng test thử rồi.
+
+Tôi thấy cũng hay ho nhưng phải ra cái uy để Minh sợ vì thằng cu này mà không dọa nó là nó lại tư tưởng lên mây luôn nên tôi nói:
+
+– Cũng được đấy, có triển vọng mà công việc anh bảo chú mày làm đến đâu rồi. Làm xong chưa mà nghĩ mấy cái linh tinh này thế hả?– Hì hì xong xuôi rồi anh, em chuyển cho anh teamleader rồi anh ạ.– Được hì hì!
+
+Thằng bé ngồi xuống ngay cái ghế bình thường vẫn để tiếp khách rồi tự nhiên lấy chai nước lọc uống. Tính thằng này thì tôi biết, lôm côm nhưng nghe lời lắm. Đang xem mấy cái PJ mà mấy teamleader gửi lên thì thằng Minh nói:
+
+– Anh anh… anh thấy gái công ty mình thế nào?– Thế nào là thế nào? Chú mày cho anh nhận xét xem!– À thì cũng xinh, cá tính nhưng trong cái môi trường làm việc này thì em thấy kiểu nam tính hơi bị quá luôn.– Đúng gái công nghệ thông tin còn gì nữa. Thế còn nhận xét gì nữa không?– À còn hì hì. Mấy bà ấy nhìn ngon lành quá mà sao toàn ế chồng hết ấy sao anh nhỉ. Chỉ có mấy em trẻ trẻ mới vào là còn có người yêu đưa đi đón về thôi em toàn thấy đi một mình.– Chú mày cũng hay để ý nhỉ. Có thể là có người yêu rồi nhưng không muốn có mặt ở công ty thôi.
+
+Minh vuốt mái tóc húi cua ngắn củn của mình gật đầu cười. Tôi thấy vậy bảo tiếp:
+
+– À hay chú mày có vẻ thích kiểu thế thử tìm hiểu xem mấy cái game 18+ rồi phát triển, anh em mình tính rồi làm với tụi nước ngoài.– Được được anh, em đang bảo anh làm cách đấy xem sao. Em thấy hay ho. À mà anh có nhận xét gì về mấy bà và mấy em công ty mình không? Em làm mà cứ nghĩ linh tinh thôi!– Linh tinh là gì?– Nhìn thèm không thể nào chịu được ấy. Cái bà Nga hơn em ba tuổi ấy, nhìn ngon lành vãi, mặc thì toàn áo cổ trễ, vú thì to, núng na núng nính chỉ muốn bóp thôi. Còn em Phương nữa, em Linh, em Hằng, nào cũng ngon.– Đấy ngon thì ăn đi!– Anh cứ đùa, em trẻ nhất trong công ty, kinh nghiệm chưa có sao dám vượt mặt đàn anh được. Mà mấy em trẻ thì có người yêu rồi, kiểu này em lái máy bay thôi.– Được quá còn gì nữa. Thế còn Thảo thì sao, máy bay đầm nhất phòng!– Eo ôi, bà ấy thì sức em sao kham nổi, dài có mét rưỡi mà dâm bà cố. Em nói cho anh biết nhé, hôm gì em có vô tình nhìn thấy bà ấy làm rơi cái túi xách mà đổ ra nền nhà đến hai ba cái sextoy luôn.– Đấy lái đi. Nếu chú thích thì anh bảo!– Hì hì. Thế thì còn gì bằng, thôi không làm mất thời gian của anh nữa em xuống làm tiếp đây không anh Khánh leader lại mắng.
+
+Cái thằng trẻ trâu lôm côm khiến tôi vừa buồn cười vừa thấy thoải mái. Đúng là sức trẻ có nhiều ý tưởng. Lại kể về mấy nhân viên trong phòng rồi phòng khác, nhất về em Thảo mà cu Minh nói:
+
+Em này thì cũng kém tôi chỉ hai tuổi thôi nhưng kinh nghiệm cũng khá, tuy nhiên thì tính tình hơi tưng tửng một chút. Nghe thằng cu Minh nói thì tôi nghĩ chắc là đôi lúc cũng thèm tình lắm thì mới có những thứ như vậy.
+
+Không biết cái em này có ăn được không thường thì ở công ty tôi là người khá là nghiêm khắc chứ ít đùa chi có thằng cu Minh là nhăn nhở được với tôi mà thôi.
+
+Các em còn lại như Phương, Linh, Hằng thì nhìn cũng đạt chuẩn chứ chẳng phải là xấu gái lắm nhưng cái vẻ lạnh lùng của tôi khiến cho mấy em ấy thấy tôi hơi khó gần.
+
+Chuẩn bị mọi thứ tôi sang phía trưởng phòng bàn với anh Lộc. Cái lão này thì gái gú thuộc hạng nhất luôn, thấy gái là sáng mắt ra, vừa thấy tôi vào thì lão này đã nói:
+
+– Đang tính gọi chú sang đây đây!– Có chuyện gì vậy anh?– Chúc chú mày lên chức thôi!– Anh cứ đùa, lên chức nào thế?– Ngồi vào cái ghế này chứ còn gì nữa, anh chuyển lên trên làm nhiệm vụ khác, lão tổng vừa bảo anh xong vừa nhận giấy bổ nhiệm đây này. Anh đề bạt chú luôn, lão ấy cười hề hề chắc là ok. Kết quả mấy dự án đang làm sao rồi em!– Tốt anh ạ. Đây báo cáo em đây, công việc làm đến đây, mấy cái thì xong rồi đang test, checks failed xong thì cho public luôn anh ạ.– Được, quả này khách hàng thấy nhanh mà tốt là có thưởng đấy. Hôm nay họp cả phòng đi anh khao. Tối nay đi ăn nhà hàng.– Hay quá! Thế có làm tăng hai tăng ba không?
+
+Tôi vừa hỏi vừa nháy mắt với anh Lộc. Lão này đã có một vợ với ba đứa con gái học lớp mười với một đứa học lớp 8 và thằng cu út học lớp bốn rồi nhưng vẫn thèm lắm. Ngoài mấy cái kiểu check hàng thì lão này cũng chăn vài em rau đại học để ăn dần.
+
+Anh em với nhau nên đôi lúc tôi cũng giúp anh ấy tránh được những nghi ngờ của bà vợ ở nhà. Lại nói về bà vợ của anh Lộc. Làm chủ cửa hàng kinh doanh tạp hóa khá là lớn nên công việc cũng bận rộn.
+
+Xét về hình thức thì vợ anh Lộc cũng là một người đàn bà xinh xắn đáng yêu, cũng biết cư xử, anh em ở trong phòng cũng thích cái tính của chị. Thấy tôi bảo đi tăng ba thì anh Lộc cười nói:
+
+– Đi thì đi nhưng anh sợ “sư tử cái” ở nhà lắm!– Đi với anh em lo gì. Cứ như em chẳng có ai mà sợ hì hì!– Ờ đến lúc ốm không có cái con “sư tử” ấy nó chăm thì có mà cười được nữa. Có gì chú đỡ anh cái nhé!– OK để em thông báo!
+
+Tôi đưa đống giấy tờ với gửi cho anh Lộc mấy cái PJ để xem rồi ra ngoài. Đến buổi trưa tôi bảo cả phòng họp lại rồi anh Lộc thông báo chiều nay sẽ đi ăn và anh Lộc bao cả phòng. Nga thấy thế thì nói:
+
+– Anh Lộc xong thì đến lượt anh Nam đấy nhé. Cũng chuẩn bị lên chức rồi còn gì!
+
+Tôi cười mà bảo lại:
+
+– Tưởng gì chứ bao thì vô tư, hôm nay tăng hai đi anh bao cả phòng luôn. Còn ai tăng ba thì đăng ký với anh nhé.
+
+Tôi nói như vậy để trêu Nga nhưng ai ngờ Nga nói lại:
+
+– Được rồi em đăng ký với anh luôn. Không hết tăng ba mai em uýnh cho anh một cái.
+
+Anh Lộc cười hà hà rồi cả phòng nghỉ, xuống khu phục vụ của tòa nhà ăn cơm trưa. Văn hóa ở cái phòng này là ăn chung cùng một khu nói chuyện với nhau. Lúc này cấp trên cấp dưới không còn khoảng cách nữa. Tuy nhiên những việc kín thì chỉ nói với nhau thôi. Anh Lộc làm cốc bia rồi nói:
+
+– Dạo này có mấy em rau bám quá Nam ạ!– Gớm! Anh đầu tư như thế thì làm gì mà chẳng bám. Mấy em sinh viên, đầu tư cho triệu một tháng là thoải mái rồi.– Thì thế, tiền uống bia thôi nhưng dạo này nó bám quá. Chắc là thèm đấy!– Chuyện! Được người yêu già một tí đưa xe đón đi chơi bời lại chẳng bám.– Chú lại chê anh già rồi!– Đấy thì em nói thế!– Này anh nhường cho chú mấy em nhé. Mấy em này ngon lành lắm, anh ăn cũng chỉ một hai lần thôi, thích thì có hứng làm ăn luôn.– Cũng được nhưng không có xe đẹp như anh sợ em ấy lại không ưng thì chết!– Lo cái gì, xe thì kiếm dễ, mà cỡ chú đi cái SH cũng đủ hốt không biết bao nhiêu em rồi. Hôm nào rảnh chút anh em mình đi.– Hì cảm ơn anh.
+
+Quả thật về cái chuyện chăm rau rồi check hàng thì tôi cũng đầy ra nhưng anh Lộc nói thế thì tôi cũng làm theo cho anh ấy vui lòng.

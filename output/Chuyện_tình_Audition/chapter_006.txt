@@ -1,0 +1,154 @@
+Chapter 6
+========================================
+
+Như một qui định ngầm trong nhóm, dù 5 đứa bằng tuổi, nhưng em và G luôn gọi tụi con trai là anh, còn bọn con trai thì xưng Tôi – ông hay H đi đi, chút tui đến
+
+Đi một ngày đàng, học một sàng khôn – Khi đi chơi với những người bạn như thế này, đầu óc tôi như được mở ra, giống một đứa trẻ bước ra khỏi cửa nhà, bắt đầu phiêu lưu vào một thế giới mới, biết thế nào được gọi là lô, là đầu đuôi, là bắt banh, cắn đá… Những khái niệm đó, lần đầu tiên tôi biết, nhưng tuyệt nhiên tôi không bao giờ dính vào. Và tôi cũng nhận ra rằng, khi kết bạn với một người nào đó, không nên nhìn vào vẻ bề ngoài, mà hãy cố gắng nhìn thật sâu vào tâm hồn và cách chơi của họ…
+
+Thật sự thì cuộc đời sinh viên của tôi gắn liền với 02 chữ thiếu thốn, âu đó cũng là do biến cố khi học ĐHCN. Tôi còn nhớ như in, bữa đó tôi học môn kỹ thuật lập trình (C++) – thầy thì dạy dở mà hay chém, cả lớp ai cũng ngáp ngắn ngáp dài. Sau một hồi luyên thuyên, ổng cho bài tập giải phương trình bậc 2, như tôi đã nói, tôi đã học lập trình từ trước khi học đại học, nên cũng tự tin vào khả năng của mình. Làm khoảng 15 phút xong, tôi ngồi chơi chờ đám bạn viết nốt những dòng code cuối. Mấy đứa bạn biết tôi đã có nền tảng, nên tụi tôi hay nhờ vả fix code hộ hay mượn bài để tụi tôi tham khảo. Tính tôi thì sao cũng được, bạn bè mà, biết thì giúp nhau thôi. Ai ngờ, tụi tôi xì xào, bàn tán thế quái nào, ông thầy ổng điên tiết quát:
+
+– Tụi bây làm cái gì mà ầm lên thế – Ổng quát lớn.
+
+– Có cái mẹ gì ở dưới mà lao xao, cái gì, đứa nào nói tao biết coi – Giọng hừng hừng.
+
+Cả lớp im re, tôi với tay khều thằng bạn:
+
+– Ê, trả tao cuốn tập – Tôi nói nhỏ.
+
+Thằng bạn cuối bàn nói khẽ:– Xíu đi
+
+Tôi hất đầu về phía ông thầy:– Ổng kìa, trả đây – Giọng tôi lo lắng.
+
+Chả biết trời xui thế nào, ổng chỉ về phía tôi và quát:
+
+– Anh kia, đứng lên.
+
+– Dạ – Tôi giật mình.
+
+– Anh xầm xì gì về tui – Ổng hỏi.
+
+– Dạ không có – tôi bào chữa.
+
+– Thế anh làm cái thái độ gì đó – Ổng bực bội.
+
+– Dạ, em… em… có làm gì đâu, em… chỉ kêu bạn K trả lại tập… thôi – tôi run run.
+
+– Anh làm xong chưa mà cho tôi mượn tập, thằng K đưa tập tôi lên đây – Ổng la lớn.
+
+Thằng K líu quíu đem tập tôi lên đưa cho ổng, khoảng thời gian này tôi cứ như tử tù đứng trước đao phủ sắp phải chịu án tử hình… Ổng lật lật, nhìn nhìn, xem xem cái gì đó trong tập, rồi bất giác dừng lại ở trang bài làm….
+
+– Giải như thế này mà cũng bày đặt ra vẻ cho mượn tập à – Ổng nói với giọng khinh bỉ.
+
+– Anh tưởng anh giỏi lắm chắc? – Ổng nói tiếp.
+
+– Dạ, hông có – Tôi chống chế.
+
+– Code thì lủng củng, trình bày thì cẩu thả, mà cái bọn ngu kia cũng mượn, 0 điểm – Vẫn cái giọng khinh khỉnh.
+
+– Sao tự nhiên em lại bị 0 điểm – Tôi cãi lại.
+
+– Làm ồn, bài cẩu thả, thiếu logic, khỏi nói nhiều – Ổng trả lời dứt khoát.
+
+– Cái này không phải lỗi của em, sao thầy bắt mình em chịu – Tôi gay gắt
+
+Ổng chằng nói gì mà quăng cuốn tập về phía tôi, và quay mặt đi…
+
+– Giữ mà xài – Tôi phi lại ổng, mặt tôi nóng bừng, nói gắt gỏng. Tôi cũng không ngờ tôi lại có hành động như thế…
+
+Ổng đập bàn cái đùng:
+
+– Mất dạy, đi ra khỏi lớp ngay, khỏi đi thi môn này.
+
+– Cảm ơn thầy, vì em cũng không có ý định học tiếp – Tôi trả lời rất nhẹ nhàng.
+
+Không chần chờ, tôi quải ba lô ra khỏi phòng dưới biết bao ánh mắt nhìn về phía tôi…
+
+Những ngày tiếp theo, tôi nằm lì ở nhà, bỏ học Đại Học, chỉ chú tâm vào học LT thôi.…
+
+Rồi tôi lại thót tim khi ba mẹ hỏi về tình hình học ở trường ĐH, tôi cứ:– Dạ, bình thường.
+
+Mà chán cái trường khùng đó, dạy dỗ không ra cái gì, mỗi lần thế tôi lại trề môi ra vẻ khinh bỉ cái trường ấy, sau đó chuồn lên phòng nằm… Giấu được nửa tháng thì gia đình cũng biết, mẹ tôi tinh ý lắm, bà cứ lâu lâu hay nói vu vơ:
+
+– Bộ con nghỉ học ở trường rồi à?
+
+Lúc nào tôi cũng nói dối:
+
+– Dạ đâu có, vẫn đi đều mẹ à.
+
+Ai ngờ, cây kim trong bọc cũng có lúc lòi ra, một lần sinh nhật bạn về, có chút men trong người nên can đảm lắm, cũng nghe câu đó và trả lời tỉnh bơ:
+
+– Dạ con nghỉ rồi, trường đó dạy có ra hồn gì đâu mà học.Thế là ăn ngay một cái tát trời giáng từ bố, kèm sao đó là một tràng la ó, chửi bới của mẹ… Đến tận 1 tuần sau vẫn còn nghe đi nghe cái điệp khúc dai dẳng đó. Kể từ đó, tôi bị cắt tất cả những khoảng tiền tiêu vặt, một tuần chỉ có 200K để đi học LT buổi tối.
+
+Nhưng đều đáng buồn là chính vì quyết định (không biết có ngu hay không) của mình, mà vô tình làm em bị vạ lây, mẹ tôi cứ nằng nặc bảo tại vì quen em, học thói hư tật xấu, rồi gần mực thì đen, gần đèn thì sáng nên sinh ra hổ đốn, trở thành một con người vô giáo dục.
+
+Lúc đó tôi buồn lắm, tôi có kể cho em nghe, thì em cũng chỉ nói:
+
+– Buồn làm gì anh, dù gì anh cũng đã làm rồi, giờ anh ráng học LT, đừng bỏ nữa, kẻo nhà lại nghĩ không hay về em, cố lên anh hén – em ngồi tựa đầu vào tôi, tôi chỉ im lặng, suy nghĩ về hành động của mình…
+
+– Anh xin lỗi – Giọng tôi chùng xuống
+
+– Khờ quá, ĐH đâu phải là con đường duy nhất, thiếu gì người giàu mà có cái bằng nào đâu – Em cười an ủi tôi…
+
+Những lần đi chơi cùng em, tôi chỉ có thể trả những khoảng lặt vặt, tôi cứ thiếu trước hụt sau, lận đận và khốn khổ, em thì tinh ý, lúc nào đi chơi với đám G, H, T, thì cũng nhét tiền vào túi tôi để hùn trả, đôi khi tôi tỏ ra khó chịu:
+
+– Em làm cái trò gì thế ?
+
+– Thì lạnh, bỏ tay vào túi anh không được à – Tỉnh bơ.
+
+– Thế nhét cái gì vào túi – Tôi bực mình.
+
+– Gì đâu anh – em giả nai.
+
+– Em có biết làm như thế anh nhục lắm không? Thằng con trai mà lại phải nhờ bạn gái nhét tiền cho đi chơi à, như thế anh không làm được, thôi anh đi về đây – Tôi nạt.
+
+– Anh, tiền em cũng như tiền anh, mình xài chung, sao cái gì cũng quan trọng hoá nó lên vậy, sau này em hết tiền anh cho em lại, thôi mà… – Em nhỏ nhẹ, vòng tay qua ôm tôi nũng nịu.
+
+Cũng nhờ em, tôi tỉnh ngộ, ĐH không phải là tất cả, tôi quyết tâm phải làm một cái gì đó, phải kiếm ra tiền, không ăn bám vào bố mẹ nữa hay ít nhất là không xoè tay xin tiền tiêu vặt.
+
+Điều đó thôi thúc tôi hằng ngày, hằng giờ, tôi quyết định xin làm thêm, nhưng do thời gian làm không phù hợp với lịch học nên tôi đành ngậm ngùi… mà sống với 200K 1 tuần.
+
+Gần 1 tháng rưỡi sau, cơ may cũng tìm đến tôi… Do tôi học hành chăm chỉ nên HK 2 đạt điểm khá cao và được nhận vào 1 trung tâm dạy phổ cập tin học của Viện Kinh tế do AP giới thiệu, chương trình này giúp những người công chức nâng cao kiến thức về máy tính, internet, mail… Tôi hí hửng về khoe với gia đình, thấy ba mẹ không nói gì, lúc đó mừng như mèo mù vớ phải cá rán, vui tột độ vì chính thức từ đầu tuần sau tôi đã là một người THẦY.
+
+Dạy 1 tiếng 20K, có ngày tôi dạy 5 lớp 8 tiếng, cũng có ngày tôi dạy 2 lớp 3 tiếng… Cứ mỗi 02 tuần được nhận tiền một lần… Cũng kha khá, khoảng hơn 1 triệu, cũng đủ xoay sở chi tiêu cá nhân, kể từ lúc đó cho đến hiện tại, tôi chưa bao giờ mở một câu nào xin tiền ba mẹ cả.
+
+Sau biến cố đó, tôi mới hiểu ra nhiều vấn đề của cuộc sống. Nhớ khi còn học ĐH, bọn bạn lúc nào cũng kêu, cũng réo, đi đâu cũng phải lôi tôi theo cho bằng được, tôi mà từ chối là điện thoại reo đùng đùng, nhưng từ khi tôi bỏ học, sống với 200K 1 tuần, thì tụi nó trở nên khác hẳn… Chả ai thèm rủ rê, chả ai thèm điện thoại, kể cả cái tin nhắn hỏi thăm cũng không có. Đúng là cuộc đời trớ trêu, lúc còn thời thì tung hô, lúc hết thời thì nhẫn tâm dẫm đạp và quay lưng đi mất, hay đó là đức tính của con người, là khi sống với nhau chỉ toàn thủ đoạn và lợi dụng? Thế là tôi chả thèm chơi với đứa nào học ĐH chung, Bọn mày chả đáng – Tôi nghĩ thế.
+
+Chỉ có hội 5 đứa là luôn bên tôi, giúp tôi vượt qua lúc khó khăn, không khinh rẻ tôi như bọn có học kia. Và lúc đó tôi cũng hiểu, tiền bạc và tài năng chả là cái quái gì trong tình bạn, chỉ có sự chân thành mới là đáng quý nhất.
+
+Có lẽ trong cuộc đời chơi bạn, lần đầu tiên mới biết, có người tổ chức sinh nhật theo lịch ta (âm lịch). Khi nghe em nói mắt tôi tròn xoe, có vẻ ngờ vực:
+
+– Thôi đi cô, thấy tui ngu ngu, cô dụ tui à – giọng đầy nghi hoặc.
+
+– Thiệt mà, em gạt anh làm gì.
+
+– Đó giờ có thấy ai làm sinh nhật ngày âm đâu, chỉ có làm thôi nôi, đám giỗ, đám cưới thôi – Tôi phản biện
+
+– Gì mà giỗ quải nữa, muốn em cắn anh không – Em doạ.
+
+– Thiệt chứ bộ, lần đầu biết á.
+
+– Mỗi nhà mỗi khác, bên em người Hoa, tính thế, có ý kiến gì không? – Chưa để tôi kịp đáp trả em nói tiếp.
+
+– Em với G tính rồi, em với nó sinh cách nhau 3 ngày, nên tụi em làm chung luôn, cho đỡ tốn tiền, mà còn lâu mà anh, cuối tuần lận – Em tỉnh bơ.
+
+– Ừ, mà hả, hôm nay là thứ năm rồi mà, ý em nói là thứ bảy hả – Tôi hoảng.
+
+– Đúng rồi anh, làm gì mà phản ứng ghê dzậy.
+
+– Ờ… thì… – Mặt tôi độn ra.
+
+Nói xong em cười ha hả trước cái vẻ mặt ngơ ngơ của tôi, tôi đưa tay lên gãi gãi đầu cười trừ.
+
+– Thế em có mời bạn không?
+
+– Có chứ anh, bạn em với con G luôn, nhưng chắc ít à – Em hớn hở.
+
+– Ừm, anh biết rồi – Tôi trả lời nhẹ thỏm.
+
+Mới đi dạy mấy ngày, trong túi chỉ còn vài tờ tiền lẻ, tôi không biết phải tổ chức sinh nhật em thế nào, làm sao đây, đúng là khó nghĩ quá. Vay mượn bạn bè chỉ được 400K. Thôi kệ, được nhiêu hay nhiêu…
+
+Rút kinh nghiệm lần trước, lần này tôi mua tặng em quyển Đắc Nhân Tâm vì có lần đi nhà sách tôi thấy em có đọc vài trang của cuốn đó và khen hay… Mà tặng sách cũng tốt, đọc sách giúp con người trở nên hiền hoà và mở rộng tầm hiểu biết, chứ tặng ba cái kia chả có ích gì.
+
+Lượn lờ bên chợ đêm Kỳ Hoà thấy vài cái móc khoá hay hay, thế là tôi mua thêm 02 cái, 1 con gấu bông nhỏ nhỏ. Hài, sạch túi…
+
+Tổng kết: Quà tặng em là sách và 01 móc khoá, còn G thì gấu và 01 móc khoá. Xong phần quà, tôi thở phào nhẹ nhõm… Về đến nhà, ôm theo 1 đống quà thì thấy Ngoại ở quê lên, ngồi tâm sự, thủ thỉ, và được Ngoại lén cho thêm 500K bù lại những ngày cực khổ mà tôi chịu đựng…

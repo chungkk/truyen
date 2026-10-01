@@ -1,0 +1,158 @@
+Chapter 13
+========================================
+
+Vì thời gian cho thêm không có nhiều nên ngay sau khi nhận được sự đồng thuận từ cấp trên, chúng tôi bắt tay ngay vào việc sửa chữa lại những lỗi lầm trước đây.
+
+Cả vài tuần sau đó, mọi người trong phòng ai cũng đều tất bật, không người nào dám ngơi nghỉ.
+
+“Làm tốt lắm tất cả mọi người!” Anh Thành nhìn vào danh sách báo cáo tiến độ công việc gật gù. “Với tiến trình hiện tại, chúng ta chắc chắn sẽ hoàn thành nó trong vào hai tháng tới. Tuy có hơi vượt quá so với kế hoạch đã đề ra, nhưng tôi thấy Hoàng, Bình và cậu Kha mới vào đang cố hết sức để giữ tốc độ công việc không bị chậm lại, Lâm và Mai cũng đã làm hết sức mình…” Nói đoạn, giọng anh Thành bỗng trầm xuống, “Nhưng việc lỗi ở phần mềm hệ thống là điều chúng ta không thể lường trước được. Tôi đã báo cáo lại với giám đốc và đã xin được tạm hoãn thời gian ra mắt sản phẩm.”
+
+“Vậy thì tốt quá!” Anh Bình thở thào như trút được gánh nặng.
+
+“… Có điều… thời gian cấp trên cho chúng ta là một tháng kể từ ngày công bố sản phẩm của kế hoạch cũ.”
+
+“Vậy là…”
+
+“Phải, chúng ta chỉ còn mười tuần để làm xong tất cả những thứ dang dở.” Giọng anh Thành trầm xuống. “Tôi rất tiếc phải thông báo một tin không vui như vậy, nhưng vẫn mong mọi người cố gắng hết sức và giúp phòng chúng ta vượt qua khoảng thời gian khó khăn này.”
+
+“Cố lên!” Cả phòng đồng thanh.
+
+Sau cực kỳ căng thẳng đó, chúng tôi quay trở lại làm việc. Tiếng lách cách từ bàn phím cứ vang lên mãi, tất cả mọi người, ai cũng đang dốc hết sức mình để chạy đua với thời gian. Không khí trong phòng dần trở nên yên tĩnh, vẻ mặt nghiêm túc dần được hiện rõ trên mỗi người. Hai cái máy lạnh cũng là không đủ để làm dịu đi sức nóng hừng hực liên tục được phát ra. Đến ngay cả một tên ham hố vui chơi như tôi, giờ cũng đang bị cuốn theo cái khí thế ngút trời như đi đánh trận đấy.
+
+Trong khoảng thời gian đó, lịch trình của tôi chỉ có đi làm, về nhà và lại đi làm. Trông tôi không khác gì một cỗ máy cả. Không chịch choạc, không yêu đương, không tán tỉnh, tất cả đều thời gian dành cho dự án mang danh “thay đổi ngành công nghiệp trò chơi điện tử”.
+
+Bố mẹ biết việc đó nhưng cũng không thể giúp gì được ngoài một vài lời khuyên: “Nhớ giữ sức khỏe!”, “Đừng cố quá nghe con!”. Có lẽ, bố mẹ muốn tôi trải nghiệm cảm giác áp lực trong công việc là như thế nào, dù sao thì khi xưa hai người đã gây dựng lên công ty này từ hai bàn tay trắng, chút khó khăn này không đánh bại được tôi đâu. Nói mới nhớ, nhờ vào khoảng thời gian tôi làm việc cật lực như lúc này, con bé Thư may mắn không tránh mặt tôi nữa, thay vào đó là tỏ ra hiểu chuyện hơn và sẵn sàng giúp khi tôi cần.
+
+Ngày làm trên văn phòng, tối về làm ở nhà, thời gian tôi ngồi máy tính chắc cũng gần mười hai tiếng mỗi ngày. Cứ thế này thì e rằng em trĩ sẽ ghé thăm tôi sớm mất thôi.
+
+
+Những ngày làm việc cật lực như thế tưởng chừng như sẽ kéo dài đến vô tận…
+
+
+“Tình hình sao rồi?”
+
+Một giọng nói phát ra từ sau gáy làm tôi hơi giật mình.
+
+“Dạ ổn anh, mọi thứ vẫn đang đi đúng hướng!” Hóa ra là anh Hoàng. Anh ấy vỗ vai tôi vài cái rồi rời đi. Việc kiểm tra thường nhật ấy mà. “Mà anh!”
+
+“Hửm, có gì không?” Nghe tôi hỏi anh Hoàng liền quay đầu lại.
+
+“Có chỗ này em mãi không sửa được.” Nói rồi tôi di chuột vào nơi có dấu “???” Trên màn hình. “Lúc trước em chạy thử game, thì thấy trong phần trang bị của kiếm sĩ có một viên pha lê kỳ lạ, nhấn vào không thấy công dụng. Em tra phần code cũ của anh thì lại không thấy có dòng lệnh nào viết về nó cả.”
+
+“Để anh xem…” Anh Hoàng tiến sát lại gần và chăm chú nhìn màn hình. “Hừm… kỳ lạ thật?” Vẻ mặt đăm chiêu của anh càng khiến tôi khó hiểu hơn. “Anh không nhớ là mình đã viết ra thứ này.”
+
+Trong lúc tôi và anh Hoàng còn đang mải suy nghĩ về nguồn gốc dãy lệnh kia thì anh Thành mở cửa và bước vào cùng với một người đàn ông, theo sau là cô trợ lý của ba tôi – Dung.
+
+“Mọi người, ta có tin tốt đây!” Anh Thành vui vẻ. “Vì tải lượng công việc quá nhiều nên giám đốc đã đích thân đi mời giúp chúng ta một người có thể đảm đương trọng trách nặng nhọc này, người mà được giới công nghệ mệnh danh là “Ông hoàng trong ngành lập trình.”
+
+“Đừng nói với tôi đó là…” Anh Bình lấy tay che miệng để không cho người khác thấy vẻ kinh ngạc của mình.
+
+“Là Jame Moren!”
+
+Câu nói vừa dứt, cả phòng trầm trồ, mắt chữ O mồm chữ A tất thảy. Không ngờ tôi lại có được diễm phúc gặp thần tượng của mình ngoài đời thật, đây chính là người đã đưa thúc đẩy tôi thi vào ngành lập trình. Còn kinh khủng hơn là mình sẽ được làm việc chung với ông ấy, cảm giác sung sướng không gì có thể diễn tả được. Nếu không phải ở trong công ty mà ở đâu đó bên ngoài, tôi sẽ không suy nghĩ nhiều mà chạy đến chào hỏi, xin chữ ký và tiện thể bàn luận về những công trình nghiên cứu to lớn của ông ấy.
+
+Có lẽ tôi đã hơi quá khích rồi thì phải?
+
+“Xin chào tất cả mọi người!”
+
+Thật không thể tin được ông ấy đang nói tiếng Việt để giao tiếp với chúng ta.
+
+“Tên tôi là Jame Moren, mọi người có thể gọi tôi là Jame.” Bằng một giọng lai, “ông hoàng của ngành lập trình” từ từ giới thiệu bản thân mình với chúng tôi.
+
+Theo đó thì, ông ấy đang có một chuyến nghỉ dưỡng tại Việt Nam, chuyến đi này của ông kéo dài nửa năm. Vào tuần cuối cùng ông ở đây thì bố tôi có liên hệ trực tiếp và khẩn khoảng mời ông giúp sức cho dự án lần này của công ty. Cũng nhờ việc này mà tôi mới biết bố mình có quan hệ thân thiết với ông ấy. Nghe ông Jame kể, cả hai người từng là bạn thời trung học bên Mỹ. Sau khi về nước, bố tôi đã dốc toàn bộ sức lực để gây dựng lên công ty này, còn ông Jame thì ở lại trường làm giáo sư và tiếp tục nghiên cứu. Lần này, ông đồng ý lời đề nghị của bố tôi cũng một phần vì tình nghĩa năm xưa, phần còn lại là muốn giúp ông bạn già của mình hoàn thành ước mơ hồi trẻ của hai người, đó là tạo ra một thế giới có thể giúp con người làm bất cứ thứ gì mình muốn.
+
+Ôi! Bố ơi, bố chơi lớn thế!
+
+Vậy thì từ nay mọi chuyện dễ thở hơn rồi. Tuyệt vời!
+
+“Ừm… hưm!” Lúc tôi hí hửng vì quý ông đáng kính này thì Dung ở đằng sau ông Jame hằng giọng. “Cảm ơn ngài đã không quản ngại khó khăn mà đến giúp đỡ chúng tôi.” Mai lịch sự bắt tay cảm ơn rồi ngay lập tức quay xuống chỗ chúng tôi. Lấy ngón tay thon dài của mình đẩy gọng kính lên, ánh mắt cũng trở nên sắc bén hơn, khí chất tỏa ra hừng hực, đôi môi đỏ mọng bắt đầu mấp máy “Vì có ngài Jame ở đây nên tôi mong mọi người sẽ cố gắng hoàn thành công việc nhanh nhất có thể. Đây là dự án quan trọng của công ty nên tôi yêu cầu không một ai được phép chủ quan dù chỉ một giây. Giám đốc đã đích thân đi mời ngài Jame đây cũng là vì tính chất trọng yếu của công việc lần này. Còn một tháng nữa sẽ phải cho ra mắt trên thị trường, đến lúc đó, hy vọng tôi sẽ không nhận được câu trả lời “Không” từ người trong căn phòng này. Xin cảm ơn!” Chị Dung chốt hạ một câu khiến ai cũng có phần lo sợ.
+
+Tôi có liếc nhìn sang Mai, mặt cô ấy hơi nhăn lại. Haiz! Đến cả phụ nữ cũng khó mà ưa nổi tính cách đó cũng chị Dung.
+
+Không khí trong phòng dần trở nên bị chèn ép bởi giọng điệu áp đảo của Dung. Đúng là thật khó để có đó ai dám chủ động bắt chuyện với chị ta nếu cứ giữ cái khí chất như thế này.
+
+“Cô Dung này… có vẻ cô đang làm mọi người sợ đấy! Chúng ta nên tạo không gian vui vẻ thì khi làm việc thì sẽ đạt hiệu quả hơn.” Ông Jame cũng bắt đầu nhận ra vấn đề từ cô trợ lý của bạn mình.
+
+“Vâng, xin lỗi ngài nếu như tôi có lỡ lời. Nhưng quan điểm của tôi khi làm việc là tính nghiêm túc phải được ưu tiên hàng đầu!” Đoá hồng đen này thật sự quá nhiều gai rồi.
+
+“Được rồi mọi người, ai cũng muốn làm tốt việc của mình nhất có thể.” Thấy mọi người dần xuống tinh thần, anh Thành nhanh trí chuyển hướng chủ đề, “Ngài Jame, có vẻ ngài chưa biết chỗ làm việc của mình, để tôi chỉ cho ngài.” Anh Thành đưa tay ra hiệu vào cuối phòng rồi quay sang Dung “Cảm ơn cô đã nhắc nhở, tôi đương nhiên biết mình phải làm gì mà!” Câu nói có phần nhẹ nhàng nhưng ánh mắt nghiêm nghị pha chút đe dọa của anh Thành mà tôi chưa bao giờ được thấy khiến Dung trong giây lát mất đi sự chủ động, thay vào đó là đôi chút bối rối.
+
+“Hiếm khi anh thấy Dung nhún nhường như vậy.” Anh Hoàng ghé sang nói nhỏ vào tai tôi.
+
+“Em thì thấy anh Thành hơi khác mọi hôm, trông anh ấy có vẻ căng thẳng.” Mọi hôm anh Thành luôn là người tạo sự vui vẻ cho cả phòng, cảm giác anh ấy luôn mang trong mình một nguồn năng lực tích cực. Nhưng lúc này thì, đến cả Dung cũng phải nhẫn nhịn hai, ba phần.
+
+“Có vẻ như dạo gần đây công việc khiến cậu ấy stress. Mà chắc không sao đâu, từ hồi bọn anh làm chung đến giờ, cứ mỗi khi deadline nhiều quá thì cậu ta lại như vậy.” Nói rồi anh Hoàng quay trở lại bàn làm việc.
+
+“Nhưng mà anh, chỗ bị lỗi lúc nãy thì sao ạ?” Xém nữa thì quên mất chuyện quan trọng.
+
+“Có vẻ như đó là một phần thừa của đoạn mã nào đó. Sẽ không ảnh hưởng quá nhiều đến game đâu. Biết đâu cũng vì món đồ bí ẩn đó mà thu hút người chơi hơn thì sao. Dạng như một Easter egg vậy” (Easter egg là cụm từ dùng để nói về một chi tiết hoặc một điều thú vị gì đó được tác giả giấu một cách tinh tế trong game).
+
+“Ồ!” Thế rồi tôi quay trở lại bàn làm việc và kệ đi dòng lệnh khó hiểu đó.
+
+Đã năm giờ chiều, đáng lẽ ra giờ này tôi sẽ về nhà, ngâm mình trong bồn nước ấm, tận hưởng sự nghỉ ngơi sau một ngày dài làm việc. Nhưng mà, bạn biết đấy, công việc đang cực kỳ gấp rút, một giây ngơi nghỉ cũng không có. Tăng ca đã là việc thường xuyên của tôi trong hai tuần qua, tuy không có hứng thú gì mấy nhưng ít ra tôi vẫn cảm thấy thoải mái đôi chút. Chắc có lẽ đến từ nguồn năng lượng tích cực đang tỏa ra kia.
+
+“Này Mai, em xem lại phần này giúp anh được không? Nó có vẻ hơi chói mắt, còn bên này thì đường viền của kỹ năng Trảm không rõ lắm!” Anh Thành liên tục yêu cầu điều chỉnh những chỗ sai sót. Công việc của trưởng phòng là vậy mà.
+
+“Dạ vâng!” Câu nói dứt khoát cùng với nụ cười luôn nở trên môi khiến Mai luôn trở thành tâm điểm của mọi sự chú ý. Có vẻ như từ khi cô ấy vào làm, năng suất công việc được cải thiện đáng kể. Đúng thôi, ai lại không muốn làm việc với một thiếu nữ xinh đẹp như thế này chứ, chưa kể bộ đồ công sở bó sát càng tôn thêm nét quyến rũ trên từng đường cong cơ thể.
+
+Có thể do nhân được năng lượng tươi mát từ Mai mà mấy hôm nay tôi làm việc với hai trăm phần trăm sức lực. Nếu cứ thế này thì tôi sẽ được về nhà sớm hơn một chút. Chắc cũng tầm chín, mười giờ đêm gì đó.
+
+“À Mai này.” Mọi người lần lượt ra về, đa số họ làm bên mảng khác nên thời gian cũng không cố định, làm xong thì ra về. Trước khi đến cửa, anh Thành có quay lại dặn Mai một số chuyện, “Em có thể kiểm tra giúp anh tài liệu cuộc họp ngày mai được không? Anh để sẵn nó ở trên bàn, em chỉ việc sắp xếp theo nó theo nội dung từng phần. Anh sẽ trả thêm lương thế nên em yên tâm. Bây giờ anh và Hoàng có một số việc cần giải quyết.”
+
+“Vâng, em hiểu rồi!” Mai trở lại bàn làm việc.
+
+“Thế cảm ơn em trước, bọn anh đi đây.”
+
+*Cạch…
+
+Căn phòng trở về với trạng thái yên tĩnh, chỉ còn vài tiếng vù vù từ chiếc quạt trần và tiếng giấy lật.
+
+Ngay sau khi mọi người rời đi, Mai quay lại và ném về phía tôi một ánh nhìn đầy ẩn ý.
+
+Tôi không phải thằng ngu, tôi hiểu cô ấy muốn gì. Nhưng sao lại vào lúc này? Ý tôi là mới ngày hôm kia, chúng tôi còn đang tranh luận về việc giữ tình cảm của hai người ở mức bình ổn nhất có thể.
+
+Vậy, ánh mắt khêu gợi kia là sao? Mai đang cố kích thích mình ư? Chẳng phải cô ấy là người đề nghị mình kìm hãm ham muốn xuống sao.
+
+Không đâu, chắc có lẽ cơn dục vọng của mình đang tự suy diễn ra thôi. Có thể nhu cầu tình dục của tôi cao hơn người bình thường. Ừ, chắc vậy.
+
+Thôi quay lại làm việc nào. Chỗ này… chỗ này…
+
+A, chết tiệt! Mình không thể ngừng suy nghĩ về nó, điều đó khiến mình phân tâm và làm sai tất cả.
+
+Hình ảnh Mai đang cố mời gọi dần đầy ắp tâm trí tôi, đường cong quyến rũ, đôi môi căng mọng, cùng với bên dưới ướt át khiến cơ thể tôi bắt đầu rạo rực, thằng em thì như tìm được nguồn sống, ngóc dậy.
+
+Tại sao tôi luôn phản ứng mạnh với tình dục như vậy?
+
+Kìm nén một hồi thì tôi không chịu được nữa. Rút điện thoại ra và nhắn tin với cô ấy.
+
+“Cậu không phiến nếu như ở cùng mình tối nay chứ?” Bạn biết đấy, một câu nói gián tiếp sẽ ổn hơn so với một sự thẳng thừng, bộc trực.
+
+Một lát sau thì cô ấy nhắn lại. Tuy trong phòng giờ chỉ còn hai chúng tôi nhưng Mai đang ở trong chỗ làm việc của anh Thành còn tôi thì ở tận trong góc phòng, thế nên nhắn tin là cách giao tiếp tốt nhất hiện tại.
+
+“Tâm tư dồn nén hử?” Mai dường như đi guốc trong bụng tôi vậy.
+
+“Đại loại vậy.”
+
+“Được thôi… nhưng hãy cho mình biết cậu xứng đáng với điều đó! Chuẩn bị đi”
+
+Mặc dù tôi không hiểu câu đó có nghĩ gì nhưng khá chắc là cô ấy đã đồng ý.
+
+Hai tiếng sau…
+
+Yes! Cuối cùng cũng xong, bây giờ là 9h15, không quá muộn. Có vẻ trễ hơn tôi nghĩ, thế có nghĩa là thời gian của tôi và Mai sẽ ngắn lại. Như thế thì không ổn chút nào, mấy bữa nay tôi đã không đụng đến thằng em của mình, ngoại trừ việc đi vệ sinh. Lúc này tôi đang cực kỳ hào hứng và muốn vào việc luôn với cô nàng nóng bỏng trong kia.
+
+*Reng reng…
+
+Tên chết dẫm nào gọi vào giờ này vậy.
+
+“Alo, phòng thiết kế xin nghe!” Tôi cố không hét vào điện thoại và giữ giọng mình ở mức dễ nghe nhất có thể.
+
+“Anh Bình đây.” Gọi lúc nào không gọi, cứ hễ đến lúc sắp sướng đến nơi thì mới gọi, “Tập hồ sơ hồi trưa anh giao cho chú đấy, phần B1 bị sai, chú sửa giúp anh từ kiểm soát nồng độ hô hấp thành tự động cân bằng huyết áp nha.”
+
+“Nhưng mà sẽ mất thời gian lắm anh!” Tôi thật sự muốn chửi thề ngay lúc này. Đùa chắc, đó là công việc của một buổi mà bắt tôi làm trong một đêm sao.
+
+“Anh biết, chỉ là bây giờ anh cũng đang vật lộn với đống mã bị sai đây. Chú giúp anh lần này nha, thế nhá!” Không đợi câu trả lời từ tôi, anh ấy cúp máy cái một.
+
+Chuyện quái gì thế không biết, đúng là đã nghèo còn gặp cái eo. Mãi mới có được một cuộc hẹn đoàng hoàng với Mai mà giờ lại thành ra thế này. Cũng chẳng còn cách nào khác, tôi đành nhắn tin xin lỗi cô ấy trong khi cố nuốt cục tức vào bụng. Dù sao thì công việc vẫn đang trong lúc khó khăn, nếu tôi cứ thế bỏ ngang thì e rằng mọi thứ sẽ còn tệ hơn bây giờ rất nhiều.
+
+Tôi ủ rũ, thở dài ra một hơi rồi quay trở lại bàn làm việc.

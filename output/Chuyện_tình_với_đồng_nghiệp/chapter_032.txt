@@ -1,0 +1,109 @@
+Chapter 32
+========================================
+
+Ngày hôm sau, tôi trở lại Công ty trong một tâm trạng vô cùng hân hoan, phấn khởi. Tôi không nghĩ chỉ trong bốn ngày nghỉ, đã có quá nhiều thứ xảy ra với tôi.
+
+Trở lại phòng làm việc quen thuộc, nhìn đống tài liệu đắp như núi trên mặt bàn, tôi lặng lẽ thở dài và ra cửa phòng hút thuốc. Vô tình gặp Công cùn từ phòng bên cạnh bước ra, nhìn thấy tôi có vẻ rảnh rỗi, lão lườm tôi và cất giọng:
+
+– Cháu xem giải quyết hồ sơ đề nghị sửa chữa, mua sắm vật tư, phương án công nghệ của các đơn vị nhé, làm sớm không tắc hết việc.– Lát cháu xem, trong hôm nay cháu sẽ giải quyết hết – Tôi nói.– Ừ, đừng có để rồi người ta lại phê bình chú đấy – Công cùn nói rồi biến vào phòng.
+
+Tôi vứt điếu thuốc còn hút dở, trở về phòng và tiếp tục đọc hồ sơ.
+
+Trước đây, khóa 10 sinh viên Bách khoa của chúng tôi, có một người được giao nhiệm vụ Quản lý xưởng mà tôi đang tìm hiểu, do gia đình ở xa nên phải nghỉ việc chuyển công tác về gần nhà, may mắn thay, ông này trong quá trình làm việc đã lưu trữ rất tỉ mỉ toàn bộ lý thuyết công nghệ bản quyền, chụp ảnh rất nhiều tư liệu từ thời còn thi công lắp máy, toàn bộ quá trình, kinh nghiệm xử lý sự cố đều được ông ấy ghi chép lại cẩn thận trong một quyển sổ tay cá nhân. Khi tôi gọi điện tâm sự chuyện của tôi và nhờ sự tư vấn, ông ấy cũng rất chia sẻ với hoàn cảnh của tôi nên nhiệt tình trả lời, hướng dẫn và cung cấp lại cho tôi tất cả những tài liệu ông ấy có, điều này giúp kiến thức của tôi bật lên nhanh chóng.
+
+Nó cũng tương tự như việc các cao thủ tu luyện võ công trong phim kiếm hiệp chúng ta hay xem vậy, tôi chỉ là một thằng học võ thuộc chiêu thức, nhưng khẩu quyết tâm pháp thì mù tịt, nay được khai sáng thì như kẻ mù được thấy ánh sáng mặt trời, như người quê mùa đã thành trí thức, tăm tối cần lao nay hóa những anh hùng.
+
+Đây cũng là một kinh nghiệm tôi rút ra được trong quá trình công tác sau này, công tác lưu trữ thực sự rất quan trọng, việc sự cố xảy ra, xử lý xong sự cố rồi, nhưng nếu cẩn thận ghi chép lại toàn bộ quá trình xử lý thì sẽ là một kinh nghiệm được lưu trữ, khi cần có thể tìm lại được ngay hoặc trở thành tài liệu kinh nghiệm cho người lớp sau tìm hiểu.
+
+Tôi một khi đã tập trung làm việc thì công việc rất trôi, đến giữa giờ chiều là gần như toàn bộ hồ sơ các đơn vị gửi lên đã được tôi duyệt thông qua, cái nào cần phải sửa lại, bổ sung tôi đều note rất cẩn thận.
+
+Trong quá trình đọc hồ sơ của các đơn vị, tôi nhận thấy có một vấn đề rất đáng lo ngại nhưng dường như đang bị các đơn vị bỏ qua. Đó là chất lượng nguyên liệu đầu vào của chúng tôi đang có dấu hiệu xấu dần, tôi phán đoán điều ấy bằng kinh nghiệm của bản thân mặc dù chưa hề có tổng hợp kết quả phân tích trong tay hay bất kỳ một báo cáo nào đề cập đến việc này. Nhưng nhìn vào tần suất thay vật tư sửa chữa có biến động so với trước đây và ảnh chụp những vết ăn mòn của thiết bị, tôi lờ mờ nhận ra, chắc chắn trong hệ thống bể phản ứng đã xảy ra tình trạng đóng cặn sớm hơn dự kiến. Bể phản ứng là một hệ thống đóng kín, nó rất ít khi được mở và chỉ được mở ra khi dừng toàn bộ hệ thống dài ngày để đại tu.
+
+Vì nghi ngờ, tôi gọi cho ông anh Trưởng phòng KCS yêu cầu cấp cho tôi toàn bộ dữ liệu phân tích nguyên liệu đầu vào trong 1 năm qua. Ông anh thắc mắc hỏi tôi lý do, nhưng tôi không nói, để trấn an anh vì sợ bị Phòng Công nghệ kiểm tra quá trình phân tích, nghiệm thu, tôi chỉ nói rằng tôi cần để tổng hợp báo cáo Tổng Công ty.
+
+Nhìn vào bảng tổng hợp chỉ số phân tích, mặc dù những chỉ tiêu chính đều đảm bảo yêu cầu hợp đồng, thậm chí có những chỉ tiêu tốt hơn, nhưng một trong số những chỉ tiêu phụ, có một chỉ tiêu rất khả nghi. Tôi note nó lại và tự nhủ dứt khoát phải nghiên cứu cho bằng được. Tính tôi một khi đã muốn nghiên cứu cái gì là nhất định phải làm cho được.
+
+Mấy ngày sau, tôi xin Công cùn cho đi công tác ba ngày, tôi về tận nơi sản xuất của nhà cung cấp nguyên vật liệu để tìm hiểu. Tôi lấy mẫu và thí nghiệm rất chi tiết, tôi gửi mẫu cho nhiều đơn vị thứ ba để cùng phân tích sâu các chỉ tiêu. Tìm hiểu về nhà cung cấp, về nguồn nguyên liệu, về vấn đề vĩ mô cộng với quá trình dày công mày mò, nghiên cứu, cuối cùng sau hai tháng tìm hiểu, tôi đã đưa ra được vấn đề cho riêng mình.
+
+Như vậy sẽ rất sớm thôi, chúng tôi, à không, tất cả các Nhà máy tương tự trên cả nước sẽ phải đối mặt với vấn đề này và có lẽ tôi là người đầu tiên nhận thức được, tiên lượng được việc này trong tương lai chăng?
+
+Vậy giải pháp đặt ra là gì?
+
+Tôi lại tiếp tục mày mò, nghiên cứu, tôi vứt lại hết tất cả để tập trung vào nghiên cứu giải pháp. Tôi liên hệ với một số thầy giáo cũ, thầy Viện trưởng đồng thời nhờ một số mối quan hệ từ thời tôi còn thực tập ở Trung Quốc để liên hệ lại các Nhà máy tương tự để tìm hiểu. Tôi phải công nhận người Trung Quốc thực sự tài năng, họ nghĩ ra và tiên lượng được những vấn đề vĩ mô mà chúng tôi chưa bao giờ nghĩ đến, họ hướng dẫn cho tôi một số giải pháp tổng thể, tất nhiên chỉ là tổng thể vì không đời nào họ cung cấp chi tiết về các bí mật công nghệ về giải pháp xử lý cho tôi.
+
+Trên cơ sở lý thuyết, tôi phải thử đủ các phương pháp trên quy mô phòng thí nghiệm. Phương pháp của tôi thời điểm ấy là sử dụng phương pháp bơm ly tâm kết hợp với một hệ thống do tôi nghĩ ra để tách được cặn rắn ra khỏi bể phản ứng. Nếu thành công, đây sẽ là một sáng kiến vượt bậc – tôi nghĩ vậy.
+
+Tôi lập một báo cáo và phương án kỹ thuật, tôi đầu tư rất nhiều công sức, tâm huyết vào phương án này, tôi nhớ đâu phải dày trên dưới 50 trang giấy, tôi phân tích từ lý do, tiên lượng về việc chất lượng nguyên vật liệu sẽ xuống cấp, tổng hợp chi tiết số liệu trong 3 năm về chất lượng sản phẩm, phương án của các nước trên thế giới, phương án của tôi đưa ra… vv. Rất chi tiết.
+
+Theo nguyên tắc phân cấp, tôi báo cáo Công cùn.
+
+Công cùn xem qua báo cáo của tôi và để trên bàn.
+
+– Chú thấy hiện nay nhà cung cấp cung cấp rất đầy đủ nguyên vật liệu theo đúng tiêu chuẩn kỹ thuật của Hợp đồng, nghiệm thu đúng quy trình, số lượng đảm bảo nên chú thấy chúng ta cũng không cần quá lo lắng về vấn đề này. Trách nhiệm mua nguyên vật liệu là của Phòng Vật tư, không phải của chúng ta. Việc dự đoán về chất lượng nguyên vật liệu suy giảm là chưa có căn cứ, tuy nhiên việc cháu nghiên cứu và dự đoán, chú rất ghi nhận. Cứ để đây, chú xem.
+
+Tôi giải thích thêm với Công cùn về cơ sở lý luận của mình, tuyệt không phải là dự đoán vô căn cứ, nhưng tôi cảm giác Công cùn khá bảo thủ và cũng vì nghĩ đây là trách nhiệm của Phòng Vật tư mua nguyên liệu nên ông ấy không để tâm. À ừ, ông ấy cũng sắp nghỉ hưu rồi.
+
+Tôi không nói thêm nhiều và xin phép về phòng.
+
+Khoảng một tuần sau tôi sang phòng Công cùn và để ý thấy tập tài liệu nghiên cứu của tôi đã nằm gọn tít bên dưới một đống tài liệu về Đảng, Nghị quyết tuyên truyền và các tài liệu về Kiểm tra giám sát Chi bộ. Sau này cuối năm, con bé Kỹ thuật viên vào dọn phòng cho Công cùn, dứt khoát sẽ bê đống tài liệu này về kho lưu trữ và đủ 3 năm thì nó sẽ được tống vào tổng kho vĩnh viễn chờ đến ngày hoả táng.
+
+Tôi thở dài và thất vọng trở về phòng.
+
+Rất nhanh thì vật tư sửa chữa được mua sắm mới, thay thế và lại tiếp tục vận hành bể phản ứng như chưa hề có cuộc chia ly… Mua sắm mà, động đến mua mới thì đương nhiên phòng Vật tư làm hồ sơ rất nhanh. Chẳng ai để tâm đến việc tại sao gần đây thiết bị lại có dấu hiệu hỏng nhanh hơn bình thường.
+
+Tôi sao lưu một bộ tài liệu nghiên cứu vào máy tính cá nhân của tôi, thầm nghĩ dứt khoát sẽ có thời điểm dùng đến.
+
+
+Vy đã trở thành một cô gái ngân hàng theo đúng nguyện vọng của em. Em công tác ở một ngân hàng thuộc big 4 Hà Nội với mức lương tương đối khá cho một cô sinh viên mới ra trường. Bố mẹ em cũng hoàn thành việc tìm mua một căn nhà bên khu Vĩnh Hưng (gần trường Đại học Kinh doanh Công nghệ), nơi chỉ cách trụ sở làm việc của em khoảng mấy km đi xe. Căn nhà ở sâu trong ngõ, nhưng có diện tích thuộc diện khá ở Hà Nội, được xây 4 tầng rất khang trang.
+
+Những ngày nghỉ cuối tuần, thỉnh thoảng tôi vẫn về Hà Nội với em. Vy vẫn như vậy, em chăm sóc tôi như một người chồng thực sự của em, Vy đi chợ chọn những thực phẩm tươi ngon nhất rồi về tự tay chế biến thành những món ăn bắt mắt. Tôi chỉ cần nằm trên giường xem tivi và chờ đợi em gọi xuống nhà ăn cơm. Bữa cơm được bày ra với những món ăn hấp dẫn, tôi ăn ngon lành nhưng dường như vì đã yêu nhau lâu, nên tôi vô tình quên mất việc dành cho em một lời khen. Vy chắc không để ý đến việc đó.
+
+Ăn uống xong xuôi, khi Vy còn chưa kịp rửa bát đĩa thì tôi đã cởi xong quá nửa quần áo của em, mặc cho Vy trách tôi rằng vừa ăn xong thì không nên hoạt động mạnh, nhưng tôi mặc kệ, tôi đè em xuống và lại nhấp nhô tấm lưng trần săn chắc của tôi trên cơ thể nõn nà của Vy trong tiếng thở nửa dồn dập, nửa đứt quãng của em. Tiếng thở đều đặn của tôi, tiếng rên rỉ của em, tiếng quạt quay vo vo, tiếng ồn ào của phố phường Hà Nội phía bên ngoài như hòa vào nhau tạo nên một bản hòa thanh đầy cảm xúc.
+
+Tôi dạy Vy chuyện giường chiếu và có vẻ em học hỏi rất nhanh, chưa có điều gì trong tình dục mà tôi và Vy chưa từng trải qua. Thậm chí dạo này, tôi còn bắt em ngồi cùng tôi xem những bộ phim khiêu dâm. Ban đầu, em tỏ thái độ phản kháng và nhắm tịt mắt lại, rúc đầu vào ngực tôi khi xem phim, nhưng rồi thì cũng miễn cưỡng phải mở mắt chiều theo ý của tôi. Rồi tôi bắt Vy phải thực hiện các động tác cùng tôi giống như những đôi trai gái trong bộ phim trên màn ảnh, những tư thế quan hệ mà có lẽ chỉ có trên phim người ta mới được chứng kiến. Đôi khi, tôi vì quá kích thích giữ chặt dương vật của tôi trong cổ họng em cho đến khi xuất tinh hết vào bên trong. Tôi rùng mình sung sướng và thỏa mãn nằm xuống giường thì cũng là lúc Vy chạy vào nhà vệ sinh nôn oẹ.
+
+Tôi lại phải rối rít xin lỗi em.
+
+Nhưng cái gì cũng có những lần đầu, dần dần, chuyện giường chiếu đối với Vy trở nên quen thuộc, chính em lại là người chủ động với tôi. Em đã biết rên và nói những từ ngữ kích dục khi tôi và em quan hệ. Giờ đây ở trên giường, Vy khiến tôi rất hài lòng.
+
+Nhưng khi ra ngoài, Vy lại trở thành một cô nàng công sở xinh đẹp, sang trọng và có phần ngây thơ. Gu thời trang của em đã có sự thay đổi chóng mặt, không còn hình bóng một cô sinh viên trong Vy mà thay vào đó là hình ảnh của một người con gái có nét đẹp công sở quý phái, những bộ váy bó sát, những đường cắt xẻ tôn lên dáng vẻ yêu kiều và làn da mịn màng, cặp giò trắng nõn và thẳng tắp của em. Vy vẫn là bạn gái chính thức của tôi. Tôi luôn tỏ ra kiêu hãnh khi nàng khoác tay tôi cất bước giữa đám đông qua đường, trước sự ngưỡng mộ của nhiều cặp mắt đàn ông. Tự nhiên tính sĩ diện của một thằng đàn ông được thỏa mãn cao độ bên trong tôi.
+
+Giờ đây, đi chơi với nhau, chẳng còn những hàng quán quen thuộc như thời em còn sinh viên nữa, tôi cũng phải tự thay đổi suy nghĩ của bản thân bằng việc đưa nàng đến những nhà hàng đồ Tây, đồ Nhật hoặc chí ít thì là những nhà hàng Việt Nam có thiết kế tương đối sang trọng.
+
+Tôi thích ngắm nhìn nàng ăn uống, nàng ăn một cách rất lịch thiệp, nhỏ nhẹ đúng phong cách của một cô gái tiểu thư mà sắp tới đây nếu em nhập khẩu Hà Nội là sẽ trở thành gái Hà thành. Nhìn đôi môi đỏ thắm của nàng cử động, nhai thức ăn với hàm răng trắng bóng, tôi lại liên tưởng đến chuyện tình dục mà nàng làm cho tôi thỏa mãn.
+
+Mặc dù vậy lúc này trong tôi lại dâng lên một sự lo lắng, liệu xa tôi, nàng có bị ảnh hưởng bởi những cám dỗ của môi trường công sở không? Liệu có một thằng đàn ông khác sang trọng hơn tôi, đẹp trai hơn tôi, nhiều tiền hơn tôi hoặc là nó đi BMW X5 như cái thằng bạn trai con bé Thuế thì có làm em siêu lòng không nhỉ? Có chứ, chắc chắn là sẽ có nhiều thằng muốn tán nàng, muốn được sở hữu nàng. Vy quá hoàn hảo, em chẳng có điểm gì để chê cả.
+
+Nếu như không cưới em, thì đó là một sai lầm lớn nhất trong cuộc đời tôi – Tôi thầm nghĩ.
+
+Và nếu em biết được những chuyện mà tôi và Thanh tra đang làm phía sau lưng em, thì em sẽ như thế nào nhỉ, em sẽ lao đến và tát cho tôi một cái thật đau, hay sẽ oà khóc và bỏ đi, chia tay tôi mãi mãi, hay là em sẽ làm gì nhỉ? – Tôi cứ ngồi nhìn Vy ăn và nghĩ vu vơ.
+
+– Anh sợ béo à, sao không ăn mà cứ nhìn em mãi thế – Vy nhìn tôi bằng ánh mắt tròn xoe.– Anh 75 kg rồi, bắt đầu có bụng mỡ rồi nên anh đang giảm cân đấy, sợ em chê – Tôi nói.
+
+Vy cười và véo má tôi một cái trông rất đáng yêu.
+
+– Dù anh có béo, thì em vẫn yêu anh.– Hờ… hờ, ai mà biết, nhỡ anh béo, rồi xấu trai, em bỏ anh thì sao? – Tôi nói.– Hâm, nói linh tinh – Vy mắng tôi.
+
+Tôi cười. Tôi tâm sự cho nàng nghe câu chuyện của tôi, về quãng thời gian tôi bỏ công sức tìm tòi, nghiên cứu và hiện nay bộ tài liệu sáng kiến của tôi đang nằm dưới đống tài liệu Đảng trên bàn Công cùn. Vy chăm chú lắng nghe tôi nói một cách say mê, tôi là thế, mỗi khi nói về chuyên môn kỹ thuật, tôi đều trình bày một cách đầy đam mê và nhiệt huyết như vậy.
+
+Sau khi nghe câu chuyện của tôi, nàng động viên tôi rồi nói:
+
+– Anh à, người ta đã không tôn trọng anh như vậy, anh ở lại đấy thì ích gì, tốt nhất anh về Hà Nội với em, anh nhé.
+
+Lại là câu chuyện cũ, Vy đã nhắc lại chuyện tôi về Hà Nội chắc phải trên dưới một trăm lần và thật tiếc cho em vì lần nào em cũng chỉ nhận được một lời hứa hẹn từ phía tôi.
+
+Nhưng hôm nay, Vy nhắc đến 3 từ “không tôn trọng” khiến tôi cảm thấy bị tổn thương. Nàng nói đúng, tôi đâu có được người ta tôn trọng, nếu người ta tôn trọng tôi thì tôi đâu có ở tình trạng như hiện nay.
+
+– Anh à, nếu người ta tôn trọng anh, chuyện anh bị kỷ luật cũng chỉ là trách nhiệm liên đới, cách chức một Trưởng đơn vị như anh, là quá nặng tay. Hơn nữa, dù cho anh có bị cách chức theo chỉ đạo bên trên, thì ít ra người ta nếu trân trọng những đóng góp của anh trước đây, người ta có quyền xếp anh vào một vị trí khác phù hợp hơn, chứ đâu phải một vị trí như hiện tại. Em thấy tính cách của anh, không làm trong môi trường này được, anh phù hợp với những môi trường tư nhân hoặc nước ngoài hơn.– Kinh nhỉ, người yêu anh mới đi làm có một thời gian mà thay đổi quá, giờ còn tư vấn về công việc cả cho anh cơ đấy.– Chuyện. Ở ngân hàng em nhé, môi trường cũng cạnh tranh nhau ghê lắm, hỏi ai cũng toàn thấy có quan hệ nọ quan hệ kia, hầu như để lên làm lãnh đạo được thì ngoài chuyên môn ra cũng đều phải có người nâng đỡ. Như em mới vào, toàn phải tự tìm hiểu cách làm là chính, người ta chẳng dạy cho đâu, em chẳng biết tại sao nhưng nói chung môi trường cũng không được thoải mái lắm.– Thế có thằng nào tán em không đấy? – Tôi hỏi.– Linh tinh, làm gì có ai – Vy cau mày.
+
+Tôi suy nghĩ một lúc rồi cầm tay em, vuốt ve những ngón tay thon thả của nàng và nói:
+
+– Anh sẽ không để em phải chờ đợi lâu đâu, anh sẽ về Hà Nội, sớm thôi. Hứa đấy.
+
+Vy nhìn tôi âu yếm, nàng động viên tôi:
+
+– Anh sắp xếp công việc, rồi nghiên cứu về Hà Nội với em, người có trình độ như anh, thiếu gì việc ở Hà Nội. Mà kể cả anh chưa tìm được việc thì em nuôi anh, lo gì.
+
+Tôi cười. Có thể do xúc động vì câu nói của Vy mà tôi chủ động vòng tay ôm cổ nàng, vô tình hay cố ý chạm tay vào ngực nàng giữa nhà hàng đông kín người. Vy quay sang lườm tôi, véo tôi một cái đau điếng, nhưng vì để giữ thể diện giữa chốn đông người, nàng không mắng tôi.
+
+Lời hứa của tôi với Vy khi ấy, tôi cũng chỉ nghĩ đơn giản chỉ là một lời nói an ủi em như một trăm lời hứa trước đây của tôi. Nhưng tôi không ngờ rằng, một sự việc sau đó xảy ra ở Công ty khiến tôi đưa đến quyết định trở về Hà Nội ngay sau đó.
