@@ -19,6 +19,12 @@ const ROOT = path.resolve(__dirname, "..");
 const OUTPUT_DIR = path.join(ROOT, "output");
 const DATA_DIR = path.join(ROOT, "src", "data");
 
+/** Decode numeric HTML entities (&#8216; → ', &#038; → &, etc.) */
+function decodeHtmlEntities(str) {
+  if (!str) return str;
+  return str.replace(/&#(\d+);/g, (_, code) => String.fromCharCode(Number(code)));
+}
+
 if (!fs.existsSync(OUTPUT_DIR)) {
   console.error(`❌ Missing ${OUTPUT_DIR}. Run the crawler first.`);
   process.exit(1);
@@ -53,6 +59,10 @@ for (const dir of storyDirs) {
     .map((f) => f.match(/^chapter_(\d+)\.txt$/))
     .filter(Boolean)
     .reduce((max, m) => Math.max(max, parseInt(m[1], 10)), 0);
+
+  // Decode HTML entities in text fields from the crawler
+  if (meta.title) meta.title = decodeHtmlEntities(meta.title);
+  if (meta.author) meta.author = decodeHtmlEntities(meta.author);
 
   stories.push({ ...meta, num_chapters: numChapters, slug });
 }
