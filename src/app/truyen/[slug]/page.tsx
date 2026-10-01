@@ -12,7 +12,7 @@ export default async function StoryPage({
   const story = getStoryBySlug(decodedSlug);
   if (!story) notFound();
 
-  const chapters = await getChapterList(decodedSlug);
+  const chapters = getChapterList(decodedSlug);
 
   return (
     <div>

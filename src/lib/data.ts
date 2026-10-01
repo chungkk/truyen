@@ -1,16 +1,21 @@
 /**
- * data.ts – Data layer (Vercel + MongoDB Atlas)
+ * data.ts – Data layer (Vercel, zero-database approach)
  *
- * - Story metadata  → statically imported from stories.json (bundled, fast)
- * - Chapter data    → fetched from MongoDB Atlas at request time
+ * - Story metadata  → statically imported from stories.json (bundled, ~1.3MB)
+ * - Chapter list    → generated from num_chapters field in stories.json
+ * - Chapter content → fetched from GitHub raw CDN at request time
+ *   (files are committed to git under output/{slug}/chapter_XXX.txt)
  *
- * Setup:
- *   1. Run: MONGODB_URI="..." node scripts/import-to-mongo.mjs
- *   2. Set MONGODB_URI env var in Vercel project settings
+ * GitHub raw CDN is cached by Fastly, no API rate limits for raw content.
  */
 
 import storiesJson from "@/data/stories.json";
-import { getDb } from "@/lib/db";
+
+// ── Config ────────────────────────────────────────────────────────────────────
+
+// GitHub raw base URL — files in output/ are committed to git
+const GITHUB_RAW =
+  "https://raw.githubusercontent.com/chungkk/truyen/main/output";
 
 // ── Types ─────────────────────────────────────────────────────────────────────
 
@@ -31,7 +36,7 @@ export interface ChapterInfo {
   fileName: string;
 }
 
-// ── Story helpers (sync, uses bundled JSON) ───────────────────────────────────
+// ── Story helpers (sync, bundled JSON) ───────────────────────────────────────
 
 const _stories: StoryMeta[] = storiesJson as StoryMeta[];
 
@@ -43,43 +48,61 @@ export function getStoryBySlug(slug: string): StoryMeta | null {
   return _stories.find((s) => s.slug === slug) ?? null;
 }
 
-// ── Chapter helpers (async, uses MongoDB) ─────────────────────────────────────
+// ── Chapter helpers ───────────────────────────────────────────────────────────
 
-export async function getChapterList(slug: string): Promise<ChapterInfo[]> {
-  const db = await getDb();
-  const docs = await db
-    .collection("chapters")
-    .find({ slug }, { projection: { number: 1, title: 1, _id: 0 } })
-    .sort({ number: 1 })
-    .toArray();
+/**
+ * Generate chapter list from num_chapters (sync, no I/O).
+ * Actual chapter titles are shown when each chapter is opened.
+ */
+export function getChapterList(slug: string): ChapterInfo[] {
+  const story = getStoryBySlug(slug);
+  if (!story || story.num_chapters === 0) return [];
 
-  return docs.map((d) => ({
-    number: d.number as number,
-    title: (d.title as string) || `Chương ${d.number}`,
-    fileName: `chapter_${String(d.number).padStart(3, "0")}.txt`,
-  }));
+  return Array.from({ length: story.num_chapters }, (_, i) => {
+    const num = i + 1;
+    return {
+      number: num,
+      title: `Chương ${num}`,
+      fileName: `chapter_${String(num).padStart(3, "0")}.txt`,
+    };
+  });
 }
 
+/**
+ * Fetch chapter content from GitHub raw CDN.
+ * Vercel caches fetch() responses, so subsequent reads are instant.
+ */
 export async function getChapterContent(
   slug: string,
   chapterNum: number
 ): Promise<{ title: string; content: string } | null> {
-  const db = await getDb();
-  const doc = await db
-    .collection("chapters")
-    .findOne(
-      { slug, number: chapterNum },
-      { projection: { title: 1, content: 1, _id: 0 } }
-    );
+  const fileName = `chapter_${String(chapterNum).padStart(3, "0")}.txt`;
+  const url = `${GITHUB_RAW}/${encodeURIComponent(slug)}/${fileName}`;
 
-  if (!doc) return null;
-  return {
-    title: (doc.title as string) || `Chương ${chapterNum}`,
-    content: (doc.content as string) || "",
-  };
+  try {
+    const res = await fetch(url, {
+      // Cache for 1 hour; chapters rarely change
+      next: { revalidate: 3600 },
+    });
+
+    if (!res.ok) return null;
+
+    const raw = await res.text();
+    const lines = raw.split("\n");
+    const title = lines[0]?.trim() || `Chương ${chapterNum}`;
+    const contentStart = lines.findIndex(
+      (l, i) => i > 0 && !l.startsWith("=") && l.trim() !== ""
+    );
+    const content =
+      contentStart >= 0 ? lines.slice(contentStart).join("\n") : "";
+
+    return { title, content };
+  } catch {
+    return null;
+  }
 }
 
-// ── Filter helpers (sync, uses bundled JSON) ──────────────────────────────────
+// ── Filter helpers (sync, bundled JSON) ──────────────────────────────────────
 
 export function getAllGenres(): string[] {
   const set = new Set<string>();

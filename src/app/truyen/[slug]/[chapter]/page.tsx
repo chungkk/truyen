@@ -21,7 +21,7 @@ export default async function ChapterPage({
   const chapterData = await getChapterContent(decodedSlug, chapterNum);
   if (!chapterData) notFound();
 
-  const chapters = await getChapterList(decodedSlug);
+  const chapters = getChapterList(decodedSlug);
   const hasPrev = chapterNum > 1;
   const hasNext = chapterNum < chapters.length;
 
