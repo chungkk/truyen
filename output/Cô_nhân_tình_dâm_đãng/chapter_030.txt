@@ -1,0 +1,399 @@
+Chapter 30
+========================================
+
+– Alo anh…– Chào em, hôm nay có việc gì mà gọi anh thế?– Em có tí việc định nhờ bên anh hỗ trợ…– Bên anh có làm được không hay em lại thử bên anh đây?– Em vướng cái tư duy ở một số chỗ, anh giúp em được không?– Được em, cái nào anh giúp được em thì anh sẽ giúp mà.– Thế em mang hồ sơ sang quán abc, anh qua chỉ em với nhé.– Ok e…
+
+Là Hiền nhờ tôi giúp gì đó, tôi chưa hiểu lắm, nhưng đang lúc rảnh, con bé cũng không ở đây nên tôi chạy ra cafe xem có ra việc được không.
+
+Một quán cafe yên tĩnh, chúng tôi có một góc nhỏ, tôi thích đen đá, còn em thì Espresso, gu cũng đậm đặc như tôi vậy. Hiền xuất hiện trong bộ suit nữ, nhìn khá trẻ trung nhưng chững chạc, một bà chủ công ty mà. Khuôn mặt khá rạng ngời khi gặp tôi, nhưng trên tay lại cầm một mớ tài liệu.
+
+– Nhiều tài liệu như này hả em?– Vâng, có cái này em bị tắt mạch tư duy logic, nên không thể triển khai được.– Em nói qua để anh hiểu nào?
+
+
+Sau một hồi nghe Hiền nói tôi mới nhận ra có một vài vấn đề, tôi cùng Hiền ngồi phân tích chi tiết từng hạng mục nhỏ, để có thể tạo thành mạch tư duy. Tất nhiên công việc là nhiều nên chúng tôi không thể giải quyết hết được. Đến giờ ăn trưa, Hiền mời tôi dùng bữa, tôi ngỏ ý từ chối, nhưng em bảo chỉ ăn đơn giản, và muốn tôi giúp đỡ tiếp.
+
+Chúng tôi gọi hai phần bún, ăn nhanh để có thể về quán cafe trao đổi tiếp. Nhưng có lẽ tôi nhìn thấy triển vọng của hợp tác này nên ngỏ ý luôn.
+
+– Anh nghĩ nếu em hợp tác cùng bên anh để giải quyết vấn đề này thì hay hơn.– Anh nói cụ thể hơn được không?– Bên anh có đội triển khai tốt, em ký hợp đồng để thuê bên anh thực hiện, coi như anh em mình có đơn hàng đầu tiên cùng nhau giải quyết. Về công việc, ăn chia thì…
+
+Tôi đưa ra lời mời, nhưng không kỳ vọng sẽ có được sự hợp tác này nhưng Hiền lại mỉm cười đồng ý.
+
+– Sao em đồng ý nhanh thế, còn chưa hỏi rõ các vấn đề mà.– Các vấn đề em sẽ hỏi sau, em nghĩ là bên em chưa chắc làm tốt, sao không để bên anh cùng làm, biết đâu chúng ta thực hiện nó tốt hơn.
+
+Chúng tôi có cái bắt tay đầu tiên ở một quán cafe, hạng mục được hai bên chốt cùng phát triển, đến nỗi ku Mạnh phải giật mình.
+
+– Anh làm thế nào mà nó đồng ý được thế, trước giờ nó có muốn cho ai nhúng tay vào các dự án nó làm đâu.– Thì anh thấy bên bạn ý không thực hiện tốt bằng bên mình, nên a ngỏ ý cùng hợp tác thôi.– Này, hay anh với nó có ý gì, không bao giờ em nghĩ con này nó lại dễ như thế, chốt hợp đồng tại quán cafe.– Anh đang lo kiếm tiền em nhé, không thể có vấn đề gì ở đây cả, em cứ triển khai phát triển đi, mấy dự án liên quan với đối tác Canada đến đâu rồi.– Nếu không có vấn đề gì thì tháng này mình sẽ triển khai dự án cho JF…– Thế ok rồi em, nếu làm tốt em có thể làm bàn đạp tốt cho các đơn hàng sau đó.– Ok anh, mà anh khai thật đi, có gì không.– Ơ cái thằng này, anh mày mà mày không tin à.
+
+Thằng ku chạy về phòng nó, vừa hớn hở vừa như bắt được cái gì, tôi còn đang lo tìm tài liệu cho dự án thì con bé lại xông vào.
+
+– Em nghe anh lại có dự án gì à?– À, mình làm bên thứ 3, kiếm tí việc cho phòng công nghệ thôi.– Anh kiếm việc cho phòng hay anh kiếm gì cho anh đấy.– Này, lại đến lượt em à, anh chỉ đang làm việc thôi…– Nhưng đây là một bà chủ xinh tươi nhé, lại khó tính, sao mà anh lại làm được.– Anh có 2 bà chủ ở nhà và ở công ty rồi, không cần thêm.– Thật không?– Thật, em mà cũng k tin anh à?– Anh mà làm em không tin, em cho anh biết tay.– Thế trưa nhé, xem ai biết tay ai.– Hôm nay không được rồi, hôm nay em đến tháng rồi.– Thế mấy hôm nữa anh sẽ xem ai biết tay ai.– Anh hư quá.
+
+Tôi hiểu được ý tứ của mọi người, thằng ku Mạnh thì nghĩ tôi có gì đó với Hiền nên nó mới nghĩ thế, còn con bé chắc chắn chẳng muốn tôi dây dưa với ai cả, nó coi tôi như cả bầu trời của nó, chúng tôi cũng có những khoảng thời gian đẹp bên nhau mà.
+
+Căn chung cư được chốt mua, con bé đã thuê đơn vị làm nội thất, nó bàn với tôi rất nhiều để tìm ra không gian và chọn đồ thích hợp. Cuối tuần còn mang cả sang để cho vợ tôi cho ý kiến. Tất nhiên chúng tôi đã chọn xong, vợ chỉ thấy ậm ừ, vì cũng hợp lý.
+
+Tôi và Hiền có nhiều khoảng thời gian nói chuyện hơn, dù trên công ty hay ngoài quán cafe, công việc là chủ đề chính, nhưng đan xen những khoản thời gian bọn tôi vẫn hay tâm sự về sở thích, về gia đình.
+
+Có lẽ vì thế tôi hiểu hơn về con người Hiền. Sống trong gia đình chồng có gia thế, chồng cũng làm công chức của một sở có tiếng, nhưng tiếng nói chung không có, hôn nhân cũng là sự sắp đặt từ phía hai gia đình. Thế nên chuyên tâm vào công việc cũng là một cách để tránh đi những rắc rối không đáng có.
+
+Tôi thỉnh thoảng nhìn thấy những khoảng buồn trên ánh mắt Hiền, tất nhiên với một nữ cường nhân thì việc đấy chỉ là thể hiện nhất thời, chứ chẳng bao giờ để cho người khác thấy được.
+
+– Anh, dạo này anh gặp chị kia nhiều thế.– Sao em biết mà bảo nhiều…– Hôm nay em nhìn thấy hai người trong quán cafe…– Thì lâu lâu cafe nói chuyện công việc…– Nhưng em nhìn mặt a khác nhé, anh nhìn chị ấy không giống người bàn công việc…– Ơ, em ghen à, làm gì có đâu.– Em thấy, người phụ nữ luôn nhìn ra vấn đề, anh đừng có mà tưởng em không biết.– Em nghĩ nhiều quá.– Thế em đi cafe với người khác, nhìn người khác say mê chút thì a nghĩ gì.– Này, lại còn mang thế ra với anh á.– Thì em nói trước rồi mà, anh lo mà giữ em đi là vừa, đừng có để em đi giữ anh.
+
+Tôi đặt lên môi con bé một nụ hôn, không dài, chẳng ngắn, nhưng như muốn cắt đứt cái dòng suy nghĩ vớ vẩn của con bé vậy. Chẳng cần mất thời gian, chúng tôi lại lột hết đồ nhau ra, hôm nay là buổi cuối em ở căn hộ này, ngày mai sau khi dọn dẹp, hút bụi xong, em sẽ chuyển đến căn hộ của riêng em.
+
+Vì thế hôm nay chúng tôi lại quấn quýt lấy nhau trong ngôi nhà này, nơi có nhiều kỷ niệm riêng của hai đứa.
+
+Tôi được con bé bú mút say mê, nhưng chẳng làm lâu như mọi lần, chỉ một chút, rồi con bé nằm vật ra giường, dạng chân ra để mời gọi tôi vào với cái biệt khu sung sướng của con bé.
+
+Tôi đứng lên chẳng quên lấy trong tủ ra cái cu giả to tướng cùng lọ gel, con bé ngại ngùng…
+
+– Hôm nay lại dùng cái này à a?– UH, hôm nay cho em sướng hết cỡ luôn.– Nhưng cái này to mà, em thích của anh hơn.– Thì làm cả hai cái cho em sướng.
+
+Tôi đến triển khai tư thế liếm lồn đỉnh cao được trau dồi bao năm. Con bé vẫn dạng chân ra khiêu khích thì tôi dùng lưỡi đá hột le để nó cong cớn người lên mà giật mà hét.
+
+– Ơ, hự hự, sướng quá, ơ ơ.
+
+Tôi lại dùng lưỡi tách cái khe lồn ra để ngoáy vào trong sâu hơn, con bé thì vẫn nhắm nghiền mắt, vẫn há miệng thở ra những hơi đứt quãng kèm tiếng kêu sung sướng.
+
+– Ưm, anh ơi sướng, ưm, sướng.
+
+Tôi dừng lại bôi gel vào cái dương vật giả, bắt đầu cho nó thâm nhập vào lồn con bé. Con bé lúc đầu còn giật mình vì cái lạnh lạnh của gel, của cái dương vật giả. Nhưng rồi khi cái đầu dương vật giả chui vào, nhấn nhá, rút ra, ấn vào, thì cái lồn đã dần quen hơn, nó bắt đầu tiếp nhận cái cu giả.
+
+Tôi nhìn thấy được cái lồn căng mọng được nong ra bởi cái cu to tướng, vì nước nhờn từ gel, từ lồn con bé rất nhiều nên cái cu giả chui vào dễ dàng, nhưng mép lồn đã căng ra, chẳng còn thấy cái môi bé đâu nữa.
+
+Con bé dần quen và dần được cảm nhận những cú nhấn của tôi, nó dần sướng rên lên.
+
+– Anh ơi, sướng, rách lồn em mất.– Em sướng không, chơi cu to sướng không?– Cu to quá anh ạ, chắc hỏng tử cung em mất, nhưng sướng quá, ưm ưm.
+
+Tôi bật các chế độ rung, chế độ thụt, con bé quằn quại theo từng nhịp của con cu.
+
+– Ơ, ơ, sướng chết em mất, tê lồn em quá anh, ơ, ơ…
+
+Tôi cảm nhận được con bé có lẽ sắp sướng, tôi tắt chế độ rung, chỉ dùng tay ấn con cu giả ra vào cái lồn, rõ ràng là lúc địt con bé rất sướng, nhìn qua gương thấy nó quằn quại cũng rất sướng, nhưng nhìn nó sướng trong một con cu khác cảm giác lại phấn khích vô cùng.
+
+Tôi nhao vào nó, đặt lên môi nó một nụ hôn ướt át, rồi lại chui xuống lồn nó, dùng cái lưỡi liếm lên hột le của nó. Giờ nó vừa được địt bằng cu giả, vừa to vừa dài, vừa được cái lưỡi điêu nghệ của tôi liếm hột le. Và cũng chỉ cần thế, con bé la hét hẳn lên.
+
+– Ơ, anh ơi, chết rồi, ơ, anh ơi.– Sao chết được em…– Ơ, ơ, em sướng, em sướng, em ra đây, ơ ơ.
+
+Con bé hẩy cái lồn lên như nhịp cùng con cu giả, nó bật dậy chống hai tay ra đằng sau, cái đầu ngẩng lên để nhìn tôi liếm lồn nó, nhìn tôi cho cu giả chơi nó, rồi nó dùng. 1 tay ấn đầu tôi vào lồn nó, giật giật.
+
+– Em sướng, sướngggg, em ra đây, a, a a…
+
+Nó ở bên tôi là thế, rất nhanh là có thể ra, chúng tôi chẳng phải làm gì cầu kỳ hơn, chẳng phải tốn sức hơn, nhưng hiệu quả thì luôn được tốt nhất, lần nào cũng sướng.
+
+Đến lượt tôi, thì đầu cu đã rỉ nước từ lúc nào, có lẽ kích thích quá, cái kiểu chơi lồn con bé bằng cu giả tạo cho tôi kích thích không lường được, tôi đưa cu vào mồm để con bé mút.
+
+– Ơ anh…– Sao em…– Sao đã rỉ nước ra đây rồi…– Thì nhìn em nứng quá đấy…– Anh nứng hay em nứng…– Thì nhìn em sướng là anh nứng…
+
+Con bé nhìn tôi yêu thương, rồi đưa cu vào mút, con bé chỉ mút đến khi nó cứng lên là con bé nhảy lên người tôi luôn, nhưng hôm nay tôi muốn nhìn con bé từ hướng ngược lại. Tôi xoay người con bé ngược hướng tôi, để con bé dạng chân và nhổm lên, rồi từ từ ngồi xuống con cu của tôi. Tư thế này thực ra không dành cho các chàng có cu ngắn, may mà của tôi cũng khá, nên con bé chống tay ra sau lưng tôi để tôi hất mông lên đẩy cu vào lồn con bé, con bé được cu tôi chui từ phía sau mặc dù tôi cảm nhận không quá sâu, nhưng nó cứ kêu lên mãi.
+
+– Anh ơi, ưm, sâu thật, vào tận tử cung em rồi…– Em thích không…– Có anh ạ, nhưng cũng thốn lắm.
+
+Tôi lại đẩy con bé chống tay về phía trước, để nó tự xoay lồn trên người tôi, nhưng chắc chẳng đủ đô, tôi đè hẳn nó, rồi nhổm dậy quỳ chân xuống đệm để địt nó.
+
+Con bé cứ há hốc miệng, chốc chốc lại kêu lên.
+
+– A, ưm, chết em mất, toét lồn em mất anh ơi.
+
+Tôi mặc kệ, cứ nhấp những cú thần sầu, tiếng bẹt bẹt bẹt càng to hơn, cơn sướng dần chạm đến đầu cu, tôi nhấp thêm vài cú nữa để dòng tinh khí ấm nóng bắn thẳng vào lồn con bé. Tôi còn cảm nhận được được những co bóp từ lồn con bé, như muốn vắt nốt những giọt tinh khí chưa kịp ra.
+
+– Anh hôm nay sướng không?– Sướng chứ, ở bên em lúc nào cũng sướng.– Liệu mình có mãi được như này không anh?– Anh muốn lắm, nhưng em cũng còn tương lai chứ.– Em chỉ muốn bên anh thôi, em chẳng cần danh phận, sau này sinh cho anh thêm 1 đứa, như thế với em là đủ.– Hâm, ai nhìn được.– Hâm thì cũng hâm rồi, bao năm nay em hâm đấy, nhưng không ở bên anh là em mới điên lên, chứ hâm còn tốt chán.– Thế tháng này em uống thuốc đều chứ…– Em uống đều mà, anh yên tâm…– Nhưng liệu sau có ảnh hưởng gì không…– Thuốc hàng tháng thì không sợ, uống khẩn cấp mới sợ chứ a.
+
+Ngày chuyển nhà, vợ tôi sang hỗ trợ, còn bê theo cả công chúa, nhưng chúng tôi chẳng muốn vợ phải đụng vào gì cả, đồ đạc được người khuân vác, đồ cũ ít, toàn là sắm mới, sau thì tôi bế công chúa, để vợ phụ con bé sắp xếp một chút lại. Mặc dù cơ bản là xong, nhưng còn một vài chi tiết sẽ bổ sung sau.
+
+Đến chiều thì cũng ổn thỏa hết, ai cũng mệt, nên chúng tôi ăn cơm ngoài cho tiện. Đến khi về nhà con bé gọi tôi, trên điện thoại là công việc, nhưng lúc sau thì lại nói chuyện khác.
+
+– Hôm nay ngày đầu ở nhà mới, giá mà có anh thì tốt quá.– Uh, cố lên.– Anh chỉ cần nghe thôi cũng được. Em nhớ a đấy, hôm sau nhớ đền cho em nhé.– Uh.
+
+Câu chuyện của chúng tôi thường là thế đấy, tôi nghe trước mặt vợ, cứ ngỡ là công việc, nhưng lại luôn có một chút khoảng thời gian cho con bé giãi bày.
+
+Rồi bỗng vợ lại gọi tôi vào.
+
+– Anh này…– Sao em…– Con bé có người yêu rồi đấy…– Sao em biết…– Em là chị nó em phải biết chứ…– Nó có thì đã nói rồi, a có thấy nó nói gì đâu.– Anh là đàn ông sao mà biết được.– Thì em nói anh nghe nào…– Hôm nay dọn đồ cho nó, em nhìn thấy nó có 1 vỉ thuốc tránh thai theo tháng, không có người yêu thì uống thuốc theo tháng làm gì.– Em kinh thật đấy…– Kinh gì, em không cố ý đâu, lúc dọn đồ thấy thì biết thôi. Thế cũng tốt mà, để hôm nào em bảo nó dẫn sang giới thiệu xem người ngợm như thế nào.– Uh, hôm nào em bảo con bé vậy…
+
+Tôi nhìn thấy niềm vui trong mắt vợ, chẳng biết ra sao nhưng nghĩ con bé có người yêu là vợ lại mừng đến như thế.
+
+Con bé sau khi nghe chuyện của tôi kể lại về việc vợ tôi biết con bé dùng thuốc tránh thai hàng ngày tự dưng lại trở lên lo sợ, và sốt ruột.
+
+– Tự dưng em lại cảm thấy sợ anh ạ…– Em sợ gì…– Tự dưng thế thôi, trước giờ em không sợ vì nghĩ không ai biết…– Nhưng tự dưng có chuyện uống thuốc tránh thai lộ mà cũng làm em sợ.– Em cứ bình tĩnh, chị mới nghĩ thế thôi mà, làm gì đâu mà quá thế.– Nếu chị bắt em dẫn người yêu về thì sao a?– Thì em có thể từ chối, hoặc căng quá thì nhờ ai đó diễn hộ em…– Dạ, thế để em tính xem như thế nào.
+
+Thằng bạn tôi ra HN, nó lại gọi chúng tôi đến ăn nhậu, lần này có lẽ nó gọi đông quá, tôi chẳng nhớ được hết các gương mặt. Đa số là công tử trẻ, chẳng có những tay từng ăn chơi và làm trong nhóm của bọn tôi ngày xưa.
+
+– Này mày, sao giờ mày chơi toàn bọn trẻ thế…– Bọn trẻ này mới hay, chúng nó có nhiều cái hay lắm.– Tao thấy toàn ăn chơi chứ có ra việc đâu…– Đấy là mày nghĩ thế, chứ bọn này nó cung cấp việc hơi bị nhiều đấy.
+
+Và tất nhiên ngoài ku Mạnh, mấy đứa gặp rồi thì có Hiền là người tôi quen trước và đáng để chú ý trong bữa tiệc này.
+
+– Tao đố mày mời con bé Hiền uống say được đấy.– Bọn mày không mời được hay sao mà đố tao…– Uh, nó giữ lắm, tham gia tiệc tùng nhiều nhưng nó chỉ chơi qua qua, uống cũng giữ nên chẳng bao giờ tao thấy nó say.– Thế để tao thử, nhưng tao k có nhu cầu gì đâu nhé.
+
+Bữa tiệc nhậu này Hiền ngồi cạnh tôi, cũng như bao bữa tiệc khác, các khâu giới thiệu, chào hỏi thủ tục đã xong, phần tiếp sẽ là mời riêng nhau.
+
+Tôi như chẳng muốn làm khó cô bé này nên đã ghé tai vào bảo.
+
+– Em uống ít thôi. Hội này chưa thấy e say nên đã giao anh nhiệm vụ chuốc say em đó.– Ủa thế sao anh lại nói cho em thế…– À, anh đâu phải dân ăn chơi xấu xa gì đâu.– Cảm ơn anh nhé.
+
+Bữa tiệc có cả 4 – 5 em gái xinh đẹp, ăn mặc khêu gợi. Chỉ có Hiền có vẻ kín đáo hơn. Nhưng dù đơn giản nhưng cũng chẳng thiếu phần xinh đẹp. Đối với tôi có lẽ lại là điểm đáng chú ý nhất trong bữa tiệc này.
+
+Ánh mắt của cô gái trẻ này cũng có vẻ khác thường đối với tôi. Có lẽ do tôi vừa giúp em nó một kèo sao? Tôi cũng chẳng quan tâm nữa.
+
+Nhưng kỳ lạ, Hiền không cần tôi mời nhưng lại chủ động cầm chén mời tôi rất nhiều.
+
+Từ một hai rồi ba rồi chẳng nhớ nữa. Ngoài các cu cậu trên bàn mời tôi rồi được chăm sóc riêng từ Hiền, có lẽ bữa này là để chuốc say tôi chứ chẳng phải là chuốc cho cô gái trẻ kia.
+
+Đến khi tôi bắt đầu cảm nhận được rằng hơi men đã ngấm, mắt bắt đầu lờ mờ thì nhanh chóng tôi rút quân để bảo toàn sức khỏe.
+
+Hiền cũng theo chân tôi để đi về, nhưng bước ra ngoài cửa thì chúng tôi có lẽ do uống nhiều nên lúc đi chỉ cần chạm nhẹ vai nhau là Hiền đã suýt ngã, tôi vội giơ tay kéo lấy Hiền, tay đã ôm được vào eo em nó nhưng cũng vì thế mà cả hai bị kéo đổ sập vào tường, Hiền cũng gục vào ngực tôi một cách vô tình như thế.
+
+Lúc đứng được thẳng lại cả hai nhìn nhau rồi cười một cách nhẹ nhàng.
+
+– Anh dặn em uống ít thôi, thế mà em uống nhiều hơn anh tưởng đấy.– Chưa được uống với anh một bữa ra trò mà.– Muốn uống ra trò với anh thì thiếu gì cơ hội mà lại chọn mấy bữa kiểu này, em không sợ bị lợi dụng à.– Em sợ anh không dám đi thôi. Chứ em chẳng sợ anh lợi dụng em…– Là anh bảo uống say nhỡ người khác không phải anh lợi dụng em thì sao…– Hôm nay có anh nên em mới uống đấy.– …
+
+Tôi định lấy xe để về, nhưng Hiền cứ đi theo ra tận xe, làm tôi ngạc nhiên.
+
+– Xe em đâu mà chạy ra đây.– Em đi ké xe anh về nhé, vừa nãy em đi taxi đến ạ.– Ok, em chỉ đường đi, anh đưa em quá giang.
+
+Tôi cũng chẳng hiểu sao lại cho cô gái này quá giang, thực sự là không nên, nhưng cứ như sự đã rồi vậy.
+
+– Anh là người đáng tin nhất trong số đàn ông ngồi đấy.– Sao em biết được anh đáng tin…– Dù sao anh cũng lớn tuổi, chín chắn và em cảm giác anh không giống mấy người kia.– Thế mấy người kia như thế nào mà em nói thế…– Em cảm giác ai cũng có ý đồ với em…– Là ý đồ công việc hay gì em?– Anh cố tình không hiểu à? Kiểu họ muốn lên giường với em đó.– À, thì em xinh đẹp thế nên có người có ý đồ cũng không lạ, quan trọng em như thế nào thôi…– Đúng rồi anh, nhưng em không thích mấy người đó. Như anh thì thích được.– Cảm ơn em, nhưng a già lắm rồi, chẳng còn cái gì để mà thích nữa.– Anh con xuất sắc hơn khối người ạ. Tìm người như anh giờ khó, không còn.– Uh, người như a có gia đình hết rồi mà.– Hay anh cho em đến chỗ nào đi, về nhà mà có men rượu nhà chồng em lại nói.– Giờ đi đâu cũng không tiện em ạ, hay anh đưa em đến quán cafe nào ngồi cho tỉnh rồi vào nhà sau nhé…– Anh thật là, thế anh cứ đưa em về gần nhà, em ngồi quán uống cốc nước cho tỉnh rồi về ạ.– …
+
+Tôi cho Hiền xuống ở gần khu nhà của lão thư ký, đến đây tôi mới nhớ khu này toàn nhà của quan chức. Nhưng thôi, kệ quan tâm làm gì cho mệt.
+
+Cũng chẳng hiểu sao tôi lại không về nhà, vợ tôi thì không thích tôi say, từ hồi vợ bầu tôi cũng chưa say lần nào, hôm nay tôi về thẳng chung cư của con bé. Ngồi dưới xe tôi chẳng nhớ gì, chỉ biết cầm điện thoại lên gọi con bé, rồi nó đến kéo lên nhà bằng cách nào cũng chẳng nhớ nữa.
+
+Đến khi tỉnh dậy thì đã nằm trong trên giường, tiếng bi bô của công chúa ở phía ngoài, vợ tôi ngồi bên cạnh giường nhìn tôi trìu mến.
+
+– Anh tỉnh rồi à…– Em à, mà sao anh lại ở đây.– Anh say quá về đây đấy, con bé nó mãi mới kéo được anh lên nhà rồi gọi cho em.– Chết thật anh chẳng nhớ gì.– Con bé kể miệng anh cứ lảm nhảm là giờ về nhà mùi rượu là công chúa không chịu được, cái gì mà về say là vợ phạt. Em phạt anh say bao giờ mà anh sợ thế.– Chắc trong đầu a nghĩ thế, mùi rượu bia vào xong bắt em chăm cho thì chết dở.– Sao anh uống nhiều thế không đi taxi hoặc bảo người chở cho, anh say mà không biết gì nhỡ đâu tai nạn thì sao…– Lúc lái xe anh thấy còn tỉnh, chắc lúc thấy mệt quá lại tiện ngay đây nên a đánh xe vào đây luôn.– Anh tỉnh hẳn chưa, dậy ăn chút đồ nhé.– Giờ anh ăn sao nổi.– Em biết rồi, con bé biết anh say không ăn được đồ ăn nên nó nấu canh giải rượu cho anh đó.– Thế cả nhà ăn gì chưa?– Cả nhà ăn rồi ạ, tối cho a nằm một mình nhé, em với công chúa sang ngủ với con bé.– Ơ, không về đi mà ở đây à?– Vâng, anh nhìn ngoài kia kìa, hai dì cháu quấn nhau suốt tối. Hôm nay phạt anh đó, cho anh nằm một mình.
+
+Tôi nhổm dậy, ngửi thấy mùi thơm của dứa, của vỏ quýt, có lẽ con bé đã thắp nến đốt để tạo hương thơm. Nó luôn tinh tế là thế đấy.
+
+Lúc gần đi ngủ, tôi có bước ra phòng uống nước, con bé gặp tôi làm ngơ làm cho tôi thấy lạ.
+
+– Này, sao thấy anh rể mà làm ngơ đấy hả.– Anh hả, em không thèm nói.– Ủa anh làm phiền dì à?– Mai em đến công ty xử lý sau, giờ là giờ để dì cháu người ta còn thương nhau, công chúa nhỉ.
+
+Nó vẫn ngoảnh mặt lạnh tanh làm ngơ với tôi, chắc hẳn không chỉ là chuyện tôi uống say.
+
+Buổi sáng chúng tôi trở về nhà, tôi tắm rửa rồi chuẩn bị đến công ty, mặc dù đến muộn chút, nhưng dạo này tôi luôn có mặt tại công ty, chẳng thiếu ngày nào.
+
+Con bé nhìn thấy tôi vẫn làm ngơ, nó chẳng nói chẳng rằng gì, nhìn khuôn mặt có vẻ buồn.
+
+Thằng ku Mạnh thì chăm chỉ mua nước ép cho nó để tạo sự quan tâm, nhưng có lẽ nó cũng chẳng vui.
+
+Tôi gọi nó vào phòng để định hỏi chuyện, nhưng nó chẳng thèm vào. Nó chỉ nhắn lại trưa ăn cơm xong tự nó nói.
+
+Bữa cơm trưa nhanh chóng kết thúc, tôi đưa nó vào quân cafe dưới toà nhà.
+
+– Này sao tối qua đến giờ anh thấy em khác thế.– Anh tự biết chứ.– Sao anh biết được, anh đang khó hiểu mà.– Em cho anh tự khai đấy.– Ơ, có gì đâu mà khai.– Hôm qua anh làm gì, khai mau.– Hôm qua anh đi nhậu, say quá nên về trước, anh còn chẳng nhớ chi tiết này.– Anh không nói thật thì đừng hối hận đấy.– Thôi, em nói anh nghe nào, anh không nhớ gì thật mà.
+
+Nó mở điện thoại lên, mở một bức ảnh có vết son mờ trên áo, nhìn cái áo quen quen, vì đây là áo con bé chọn cho tôi.
+
+– Anh giải thích đi. Tại sao lại có vết này.– Thì hôm qua anh uống xong đi về, Hiền nó xin quá giang về nhà, a chờ xong về nhà em thôi chứ không có gì.– Quá giang gì mà có vết son, hôm qua dưới xe toàn mùi rượu với mùi nước hoa, làm em kéo anh lên xong rồi phải xuống mở cửa xe để thổi hết cái mùi ấy ra. Còn cái áo này mà chị nhìn thấy vết son thì anh giải thích kiểu gì.– Thì có gì đâu mà giải thích, em hỏi ku Mạnh xem.– Em kệ, anh tự mà suy nghĩ đi, em đã nói với anh rồi đấy, đừng để mất hết.– Em đúng là, đến anh mà em cũng không tin à…– Em mà đi nhậu, rồi ôm ấp ai đó, rồi để lại dấu vết trên áo thì anh nghĩ gì.– Anh tin em mà. Em làm gì anh cũng tin tưởng hết.
+
+Con bé chẳng thèm nói thêm nữa, nó quay ngoắt đi rồi lên công ty luôn. Để tôi ngơ ngác ngồi nhìn nó.
+
+Đợt này thằng ku Mạnh hớn hở hẳn, nó đến công ty đều, làm việc cũng chăm chỉ và khoa học. Nhìn dáng dấp này không nghĩ nó là công tử từng một thời ăn chơi phá phách. Có lẽ tôi với nó khá hợp nhau, như một sự tình cờ vậy.
+
+– Dạo này còn ăn chơi gì không?– Em bỏ rồi anh, đợt này chuyên tâm làm ăn, em muốn để bố mẹ em nhìn em với con mắt khác.– Uh, đúng đấy, tuổi trẻ chỉ 1 lần, chơi nhiều rồi cũng chán, nhưng không làm thì sau hết cơ hội.– Vâng anh, với lại em còn muốn làm cọc chèo của a.– Cứ cố gắng làm đi, anh không quyết được việc này rồi. Thế bỏ hẳn món ăn chơi với mấy đội kia à?– Em chỉ nhậu rồi về, hôm trước anh về sớm thế.– A bị quây thế không về là gục đấy.– Anh về là con Hiền nó cũng về.– Uh, nó đi nhờ xe anh về mà.– Kinh chưa, nó chưa bao giờ đi nhờ xe ai đâu đấy, anh có gì không…– Anh chỉ xã giao chở về thôi, hôm đó say quá. Mày toàn nghĩ vớ vẩn cho a.– Thì em thấy em vợ anh hỏi em, may mà em giữ cho a đấy…– Thì anh trong sáng mà.– Thôi em đi ăn đây, bye a nhé…– Đi 1 mình à…– Không, 2 mình chứ, em có hẹn với người đẹp rồi.
+
+Nó nói xong là bay đi, tôi ngồi làm việc tiếp, nhưng lại nhớ ra đến giờ ăn, cầm điện thoại lên gọi con bé.
+
+– Alo, em ăn chưa?– Em đang đi ăn ạ…– Uh, đi mà không bảo anh…– Vâng, anh ăn đi nhé.– Thế về công ty sớm không, mua anh chút đồ ăn, anh ngại đi xuống.– A xuống ăn đi, em đi biết lúc nào về, nhỡ bữa của anh.
+
+Nói xong nó tắt điện thoại, rồi chợt nhớ ra thằng ku Mạnh vừa bảo, có khi 2 đứa đi ăn cùng. Tự dưng trong lòng thấy lạ thường, cứ cồn cào không thôi.
+
+Tập trung vào công việc, tôi quên luôn giờ ăn, đến lúc bụng reo lên ầm ĩ mới nhớ ra mình chưa ăn, tôi định xuống dưới kiếm tạm cái gì ăn trong quán cafe, vừa bước ra cửa thì thấy con bé mang một bịch đồ vào.
+
+– Của anh đây, chắc a chưa ăn phải không?– Sao biết anh chưa ăn.– Em mà không biết thì ai biết. Người ta phải ăn nhanh để mua đồ về cho a đó, anh ăn nhanh lên không đói.
+
+Tôi cầm túi đồ thì thấy ku Mạnh cũng bước vào nó cười cười rồi nói…
+
+– Nhất anh, đi ăn cùng em mà chỉ trực nhớ về mua đồ cho a.– Xin lỗi nhé, anh quên mất, biết hai đứa đi ăn thì a bảo cứ từ từ mà ăn, con bé lúc nào cũng thế đấy.
+
+Nói là thế nhưng con bé vẫn mặt lạnh, có lẽ nó vẫn giận tôi. Còn tôi vẫn cảm giác thấy bất an đến khác lạ.
+
+Cuộc sống là những chuỗi ngày có đủ vị, với tôi cửa sinh cửa tử cửa yêu cửa hận… chẳng thiếu gì, nhưng có lẽ đời không cho ai cái gì hoàn hảo cả.
+
+Một buổi tối như bao ngày, gia đình quây quần bên nhau, tôi vẫn cùng vợ chơi với công chúa, nhưng đột điên vợ đau bụng, đau quặn thắt như chẳng thở được. Biết rằng có lẽ không hề đơn giản, tôi đưa vợ lên xe cùng công chúa phóng tuột vào bệnh viện.
+
+Trên đường tôi chẳng quên gọi cho con bé, vì vào viện còn có người này người kia.
+
+Tôi đưa vợ thẳng vào khoa cấp cứu, nhìn vợ đau quặn người làm tôi lo lắng không thôi, con bé cũng vào viện gấp, nó vừa chạy vào vừa thở hổn hển…
+
+– Chị sao rồi anh…– Chị đang cấp cứu, bác sĩ chưa thông báo. Em bế công chúa để a vào nghe ngóng xem…
+
+Tôi bước đến phòng cấp cứu với tâm trạng bồi hồi lo lắng khó tả, chưa bao giờ tôi có cái cảm giác này.
+
+Một bác sĩ đi ra nhưng hớt hải, tôi hỏi cũng chẳng trả lời.
+
+Rồi một bác sĩ nữa đi ra, ông ta hỏi người nhà đâu để tra hỏi.
+
+– Tại sao đưa bệnh nhân vào muộn vậy.– Dạ, nhà em vừa đau bụng, em đưa gấp vào rồi đó ạ.– Muộn quá, giờ còn thăm khám gì được. Cho chuyển sang K luôn xem còn giữ được bao lâu.
+
+Tôi như chết lặng, tim đập thình thịch, nghe xong chữ K là tôi còn chẳng nghe gì thêm được nữa. Tai cứ ù đi, con bé đứng gần tôi khóc thét lên, nó tiến về phía bác sĩ hỏi gì đó, nhưng tôi chẳng nghe thấy.
+
+Cái hạnh phúc mong manh của tôi có được sau bao khó khăn, rồi nó cũng vụt tan nhanh như vậy.
+
+Người phụ nữ của tôi bất hạnh, đau khổ, vất vả chăm lo từng tí cho người thân, hy sinh tất cả cho người thân, nhưng sao ông trời nỡ cướp đi cô ấy. Cô ấy còn chưa tận hưởng hết chuỗi ngày tươi đẹp mà.
+
+Sau hồi tôi cố gắng hỏi lại tình hình cụ thể của vợ tôi. Bác sĩ bảo tình trạng này chắc chắn không phải là lần đầu, giờ là giai đoạn cuối rồi, đưa ngay sang K để có thể hỗ trợ được ngày nào hay ngày đó.
+
+Tôi thì vẫn chẳng tin sự thật, chẳng lẽ bao nhiêu ngày nay tôi không nhận ra điều gì khác thường, vợ tôi cũng không thấy đau hay có biểu hiện gì cả. Chẳng lẽ lâu nay vợ biết bệnh mà giấu tôi. Giờ chẳng còn suy nghĩ gì nữa, chúng tôi phải sớm đưa vợ đi điều trị.
+
+Con bé bế công chúa khóc lóc không lên tiếng, nước mắt nó cứ chảy dài, ướt cả vai áo công chúa của tôi, nó sợ làm con bé hoảng, nhưng chính nó cũng đang hoảng loạn. Tôi tiến đến an ủi nó, rồi bảo nó ngồi chờ, tôi làm thủ tục để chuyển viện gấp.
+
+Cả đêm chúng tôi chẳng thể ngủ được. Một đêm nhưng dài, dài hơn bất cứ đêm nào vậy. Tôi vẫn chưa dám gọi cho bên nội ngoại, chưa biết phải đối mặt sao với thực cảnh này.
+
+Buổi sáng tôi gọi cho mẹ và hai chị gái, ít nhất giờ cũng có người giúp tôi và con bé trông công chúa, con bé mà kiệt sức nữa thì tôi chẳng biết làm sao.
+
+Sau hồi sức cấp cứu, vợ tôi đã tỉnh hơn, nhìn nước da nhợt nhạt trông thấy, hai môi em đã tái nhợt, khô không khốc. Em chỉ mở mắt nhìn tôi rồi khẽ gật đầu rằng em ổn chứ chẳng mở miệng nói được như nữa. Chỉ một đêm thôi đã biến em ra như thế này.
+
+Người con gái xinh đẹp, hiền dịu ấy, cứ như cái cây hoa đang khoe sắc bỗng dưng đứt rễ sau một đêm. Có lẽ tôi hận bản thân mình, hận đã chẳng thể chăm sóc em tốt hơn, hận vì chưa làm gì cho em, chưa thực hiện hết những lời hứa mà chúng tôi muốn cùng nhau làm. Hận cả cuộc đời bất công, bất công với người phụ nữ nhỏ bé này.
+
+…‘Em sợ ngày xa anh, xa con, sợ người ở lại đau lòng, sợ tất cả.
+
+Gặp anh, được ở bên anh là hạnh phúc lớn nhất đời em, anh là món quà to nhất mà em có được. Qua bao thời gian, bao khó khăn, lúc được ở bên anh em từng nghĩ rằng đời mình quá vẹn tròn.
+
+Em yêu công chúa nhỏ, bi bô bên em tháng ngày, nếu thời gian dài hơn, em vẫn muốn dõi theo từng bước con lớn, được thấy con đi học, lớn lên, muốn được đồng hành cùng con trên chặng đường đời.
+
+Em muốn bên anh, bên anh đến già, cùng nắm tay nhau ngắm bình minh, cùng thực hiện bao ước mơ. Em muốn được nhìn anh cười, nhìn cách anh chăm con và chia sẻ cùng em.
+
+Có lẽ ông trời chẳng cho ai tất cả, với em là ít quá, nhưng mỗi phút giây bên anh và con em đều hạnh phúc.
+
+Em dành nốt thời gian còn lại để chăm con và anh, em sợ thời gian là quá ít, không đủ cho em cho anh và cho con, nên em luôn muốn gia đình mình đầy niềm vui.
+
+Em đã một lần ra đi rồi, lần này em đi lâu hơn thôi, anh đừng buồn lâu nhé, hãy mạnh mẽ bên con, hãy nghĩ em vẫn luôn dõi theo hai người, và mong anh mong con sống tốt…’Em để lại những dòng tâm sự dài, có lẽ em đã đón nhận nó một cách bình tâm nhất, và em đã đối phó với nó bằng cách hạnh phúc nhất. Em vẫn thế, hy sinh, muốn tôi chẳng thấy em đau, em chỉ muốn nụ cười trọn vẹn của cả gia đình, mà quên đi những lúc đau nhất của mình.
+
+Em để lại tôi với nỗi tiếc thương, nỗi nhớ quằn quại, nỗi ân hận chẳng thể nào xóa bỏ.
+
+Chẳng phải đâu, em chẳng thể ở lại, là cuộc đời cướp đi em, là ông trời chẳng cho em ở lại.
+
+Ai cũng phải đau, ai cũng phải thương cho em, cho người con gái bạc mệnh.
+
+Tôi trở về cuộc sống hàng ngày, ngôi nhà lạnh lẽo, thiếu sự ấm áp em mang lại. Bà nội đã lên chăm cháu, con bé cũng chuyển hẳn sang để đỡ đần vì công chúa chỉ theo…
+
+Công chúa còn quá bé, chẳng hiểu được chuyện gì, chi đêm đêm giật mình nhớ mẹ rồi khóc. Cả nhà cùng khóc.
+
+Tôi luôn là người mạnh mẽ, có lẽ tôi chẳng được phép yếu đuối. Còn gia đình, công chúa, còn công ty, còn cả trách nhiệm và cả những lời dặn dò từ vợ.
+
+Con bé là người theo tôi sát nhất, tôi biết nó buồn, ngày nó theo tôi đến công ty để xem tôi làm việc, xem tôi có ổn không. Tối về nó ôm công chúa, dỗ ăn, dỗ ngủ. Nó cũng chẳng để lộ nỗi buồn.
+
+Nó thỉnh thoảng lên phòng trà của tôi ngồi, thu gọn vào một góc, nhìn xa xăm qua ô cửa rồi nước mắt lăn dài, có lẽ nó sợ tôi nhìn thấy, nhưng nó cũng yếu đuối chẳng kém.
+
+Đã vài lần tôi thấy nó thu mình ngồi khóc, tôi bước vào thì nó lại lau nước mắt đi như lẩn tránh, rồi như chẳng kiềm chế được nó lại khóc, tiếng khóc càng to hơn. Tôi chỉ biết ôm nó vào lòng, khóe mắt cũng cay cay.
+
+Hết 7 tuần của vợ, chúng tôi đã bình ổn hơn xưa. Bà đón công chúa về nhà vài tuần để con bé được chơi cùng mọi người. Tôi và con bé lo lắng chẳng muốn rời ra công chúa nhưng bà cứ quyết thế.
+
+Giờ đây chúng tôi lại phải sắp xếp lại thời gian để sắp tới vừa công việc, vừa phải chăm cho công chúa. Con bé đề nghị chuyển về nhà tôi, nhưng tôi dường như lưỡng lự, thực sự lưỡng lự, vợ tôi mới mất, hình ảnh trong nhà toàn là vợ, nên nếu con bé đến ở hẳn có lẽ cũng khó. Nhưng nó lại chẳng quản, kệ tôi, nó tự sắp xếp một phòng riêng cho nó.
+
+Thời gian công chúa về quê, tôi và nó thảnh thơi hơn, ngày đi làm, tối về nấu cơm ăn, chỉ là giờ nhìn con bé cũng gầy hao đi. Bao ngày qua tôi quên mất con bé, nó chẳng chăm chút gì, cứ tất bật việc công ty rồi chăm sóc công chúa.
+
+Buổi tối tôi và nó cùng đi dạo, chẳng ai nói nhiều quá, chúng tôi nói về công chúa, về công việc. Nó sợ nhắc đến chị làm tôi buồn, nó cũng cố khơi chuyện cười, để không khí tốt hơn.
+
+Tôi cũng chẳng còn cười vui nữa, khuôn mặt nặng nề, chẳng phải do không có gì vui, mà chẳng thể vui được.
+
+Tôi đóng cửa phòng lại, mở một chút điện vàng, cầm cuốn nhật ký của vợ để đọc. Bao tâm sự vợ đều trải lòng trong này.
+
+Nhưng có những đoạn làm tôi giật mình.‘Ngày… tháng… năm…
+
+Con bé nó nhìn anh với ánh mắt lạ, anh lảng tránh nhưng mình vẫn nhận ra có gì đó không tự nhiên. Mình biết anh có sức hút, có lẽ con bé cũng chẳng cưỡng lại được, chỉ mong anh, là người mình tin tưởng.
+
+
+Ngày… tháng… năm…
+
+Mình mệt quá, cảm giác trong người chẳng khỏe, đã lâu rồi anh không được gần gũi, lỗi của mình rất nhiều, mình đã cố lắm rồi, nhưng cơn đau lại phát lên chẳng thể nào làm tiếp được. Mình thấy thoáng chốc hụt hẫng của anh, mặc dù anh dỗ dành mình, nhưng chỉ là anh thương mình nên cố che giấu.
+
+
+Ngày… tháng… năm…
+
+Mình thấy anh có mùi lạ, mùi nước hoa sang trọng, giống mùi nước hoa mình chọn cho con bé, chắc mình nghĩ nhiều rồi, anh không làm mình thất vọng đâu. Con bé cũng thương chị nhiều mà.
+
+
+Ngày… tháng… năm…
+
+Có lẽ mình nhầm rồi, anh với con bé có gì thật, mình chẳng dám hỏi anh, chẳng dám hỏi con bé, nếu thừa nhận rồi thì sao, sẽ nhìn nhau như nào đây, là do mình hết, mình không làm tròn bổn phận người vợ, mình cũng chẳng dám trách con bé, nó gần anh suốt ngày.
+
+
+Ngày… tháng… năm…
+
+Ngày về nước đáng lẽ mình nên hiểu con bé chăm anh suốt thời gian anh nằm giường bệnh, đáng lẽ mình phải tinh tế hơn, có lẽ mình cướp anh khỏi con bé, chắc nó buồn lắm. Công chúa là món quà quá lớn, lớn hơn những gì mình nghĩ, vì công chúa mà mình quên mất con bé cũng tổn thương.
+
+
+Ngày… tháng… năm…
+
+Con bé nó cẩn thận hơn mình, nó có dùng thuốc tránh thai, chắc nó sợ. Mình đã nói chuyện với anh, anh phản ứng tự nhiên, nhưng mình cũng không làm quá, sợ mình nghĩ đến là buồn. Mình chẳng biết còn bao nhiêu ngày nữa.
+
+
+Ngày… tháng… năm…
+
+Hôm nay mình đau quá, anh không ở nhà, anh không nhìn thấy, nhưng mình sợ lúc mình đau quá ai sẽ trông công chúa, mình không biết phải làm sao nữa. Mình sợ anh buồn, sợ anh lo khi thấy mình đau. Bác sĩ bảo không còn cách nào cứu được rồi, chỉ mong mình được ở bên anh và con lâu hơn chút thôi.
+
+
+Ngày… tháng… năm…
+
+Mong rằng anh và con bé sẽ tìm được hạnh phúc, con bé thương công chúa nhiều, nó sẽ thay mình chăm sóc công chúa tốt, mình tin thế, anh có con bé bên cạnh chắc cũng đỡ buồn hơn. Vậy là mình yên tâm ra đi rồi.
+
+…’Tôi sang gõ cửa phòng con bé, có lẽ nó chưa ngủ, mở cửa bước vào thì nó vẫn đang nằm. Tôi vào nằm sát bên nó, kể cho nó nghe những đoạn nhật ký tôi vừa đọc.
+
+Nó khóc ầm lên.
+
+– Tại sao chị lúc nào cũng nghĩ cho người khác thế, tại sao chị lại cam chịu như vậy, thà rằng chị mắng chửi em thì em cũng thấy xứng đáng.
+
+
+Nó cứ khóc rức cả lên như thế, còn tôi chỉ khẽ ôm nó vào lòng, những giọt nước mắt đã rơi đầy trên ngực tôi, ướt đầy một khoảnh áo. Đến khi nó nhổm lên nhìn, khóe mắt đã sưng vù tự lúc nào.
+
+Tôi đi rót cho nó một cốc nước, nó uống xong lại gục xuống gối, tôi ôm chặt làm điểm tựa cho nó bớt cô đơn hơn.
+
+Từ hồi vợ mất, tôi chẳng còn nghĩ đến quan hệ, chẳng nghĩ gì đến dục vọng, cứ quay trong vòng quay công việc, rồi chăm công chúa. Hôm nay tôi với con bé mới có khoảng không gian nằm bên nhau.
+
+Tôi xoay nó lại, bốn mắt nhìn nhau, nó cũng mở mắt ra nhìn tôi, hơi thở dần đều ấm cả một khoảng không gian bé trước mặt.
+
+– Em đừng buồn nữa, chị thương em nên có lẽ chị tính hết rồi…– Nhưng giá như chị nói chuyện với em, em sẽ chẳng dám sai lầm nữa.– Có lẽ chị sợ anh thiếu thốn, suốt từ hồi mang bầu công chúa, chị không còn làm được.– Thật ạ, sao anh không kể với em.– Kể thì giải quyết được việc gì.
+
+Tôi ghé dần môi tôi vào môi nó, hai môi dần chạm nhau, khô không khốc. Tôi và nó hôn mạnh bạo hơn, cái lưỡi ngoáy sang miệng nó, bôi trơn lên cả làn môi, giúp cho làn môi mềm mọng hơn. Con bé cũng đáp lại một cách nhẹ nhàng, rồi dần cuồng nhiệt theo.
+
+Tôi kéo dần hai vai váy của nó bé, để lộ ra cặp vú hớ hênh, con bé đã cởi áo ngực để đi ngủ, vì thế chẳng còn gì che chắn nó nữa, cặp vú căng mọng lại cong cớn hiện ra, tôi dần hôn xuống cổ con bé, liếm lên vành tai nó, từng nhịp thở của con bé càng hắt ra, nhất là khi tôi hôn vào sau tai con bé.
+
+Nó đưa tay kéo cái áo của tôi tuột khỏi người, còn tôi dần kéo cái váy của nó xuống dưới mông, rồi đạp xuống cuối giường. Cái quần của tôi cũng được tay tôi cởi ra một cách nhanh chóng.
+
+Tôi liếm đếm hai đầu vú của con bé, một tay nhào nặn cái vú cứng ngắc này, cái miệng cứ quấn lấy đầu vú, cái lưỡi đánh lên đánh xuống, làm con bé ghì tôi vào đầu vú nó.
+
+– Ưm, anh ơi, ưm, ưm…
+
+Tôi để nó nằm ngửa, banh chân nó ra nhẹ nhàng, một tay tôi đã sờ đến lồn nó, ướt nhẹp cả tay tôi, tôi xoa xoa lồn, xoa hột le của con bé, làm nó rướn lên như muốn gì đó.
+
+Thằng cu đã dựng đứng, căng cứng từ lúc nào. Chẳng cần con bé chăm sóc nữa, như bị bỏ đói lâu ngày, nó tìm ngay đến cái lỗ lồn ướt nhẹp của con bé, khẽ tách dần lớp thịt ra để chui vào.
+
+Lồn con bé ướt nhẹp nên việc tiến vào chẳng khó khăn gì, chỉ là nó chật chội, nó khít và ấm áp mềm mại. Con bé há mồm ra chờ đợi từng cú nhấp vào của tôi.
+
+– Ưm, ưm, em nhớ anh quá.
+
+Nó vừa nói, vừa ngẩng lên để hôn tôi, tôi ghé sát xuống đáp trả, màn hôn môi ướt át, da thịt chạm vào nhau ấm cúng lạ thường, làn da của con bé vừa ấm, vừa mát vừa mềm vừa mịn, cặp ngực căng chạm vào ngực tôi, còn ở dưới, thằng cu cứ đi ra đi vào lồn con bé, nó đã giơ chân lên tự túc nào toan cặp chặt mông tôi, hai tay của con bé đã choàng lấy sau lưng tôi ôm ghì vào người.
+
+Tôi có lẽ sợ sức nặng đè lên con bé, ngoài hai chân quỳ khịu ở dưới, hai tay cũng chống sát người làm điểm tựa. Tất nhiên cái mông vẫn nhấp nhả liên tục.
+
+– Ơ, ơ, anh ơi, ơ, ơ…
+
+Con bé lại la lên, làm tôi càng hứng thú, tập trung. Đặt một nụ hôn chặn cái tiếng la hét đó, chỉ còn tiếng nhóp nhép, tiếng ú ớ phát ra từ cổ họng con bé.
+
+Vừa thả cái môi ra thì nó lại hét ầm lên.
+
+– A, anh ơi, a, a, ơ, em sướng, a, anh nhanh lên, địt nhanh lên.
+
+Nó vừa la lên vừa quặp ghì mông tôi, tôi càng dập mạnh hơn, tiếng bẹp bẹp càng to, còn nó càng la lên lớn. Đầu cu tôi đã cảm nhận được cơn co bóp của lồn nó, nó quặp chân ghì càng mạnh, hai tay nó bỏ hẳn người tôi để bám lấy hai quả mông của tôi để ghì vào, cả thân trên nó cũng gồng lên theo, tôi nhấp thêm vào cú để tận hưởng và hòa nhịp cùng nó.
+
+– A, hừm hừm, ờ, ờ.
+
+Thế là con bé ra, mắt nó nhắm nghiền rồi hai tay và chân bỗng hết gồng mà nhẹ nhàng hẳn như vừa mất hết sức lực vậy.
+
+Tôi để nó duỗi hai chân thẳng ra, còn chim tôi vẫn nhấp nhả nhẹ nhàng trong lồn nó, tôi cảm nhận lúc này lồn nó vừa co bóp vừa trơn tuột, phải đến một lúc sau nó mới trở lại bình thường, cái lồn bỗng êm hơn, không còn gồng chặt nữa mà trơn lu.
+
+Nước lồn nó đã chảy ra ướt hết gốc cu tôi, những dòng nước đục từ mép lồn cũng chảy qua lỗ đít nó thấm vào ga giường.
+
+– Em ra nhiều nước thế.– Thì nhớ anh, lâu lắm mới được anh yêu.– Anh cũng nhớ em, lâu lắm mới có cảm giác ấm áp của cái lồn em.– Thế a địt em đi, rồi ra hết vào lồn em nhé.
+
+Tôi banh chân nó ra để địt vào lồn, giờ nước lồn quá nhiều, tôi đâm từng cú mạnh vào cái lồn để thỏa những ngày qua, tuy nhiên cái lồn không còn bóp chặt cu tôi nữa, nó đã rộng ra hơn. Vì thế cu tôi mỗi cú dập lại vào sâu hơn, dễ dàng hơn. Nhưng vì đã lâu không làm nên tôi chẳng thể trụ được đâu, cái lồn bắt đầu lại co bóp hơn, làm tôi cảm giác đầu cu sắp sướng. Tôi ghì chặt hai vú nó để bóp, mông vẫn hẩy thật mạnh vào lồn, mồm thì không ngừng nói.
+
+– Ờ, ờ, địt em sướng quá.– Sướng, em cũng sướng, anh ra đi, bắn vào lồn em đi…– Anh ra đây, à, a bắn đây…– Ưm, ra đi anh, ưm, ưm…
+
+Tôi dốc những cú cuối thật nhanh thật mạnh vào lồn con bé, tiếp bẹp bẹp càng to đến khi đầu cu không chịu nổi, tôi bóp hai vú nó rồi bắn thẳng vào lồn, những cú giật giật xuất tinh càng mạnh, bắn hết tinh khí vào lồn nó. Đến khi bỏ hai tay ra thì hai bầu vú nó đỏ ửng vì bị bóp quá mạnh. Tôi đổ gục trên người nó thở, còn ở dưới con cu vẫn giật giật những cú cuối cùng.
+
+Đặt lên môi con bé một nụ hôn làm thằng cu tuột ra khỏi cái lồn, dòng tinh trùng cùng nước lồn trộn lẫn trào ra cả ga giường, tôi với tay bịt lỗ lồn con bé xoa xoa, mùi tinh trùng xộc thẳng lên hăng hắc, còn con bé thấy nhột, giật bắn cái lồn lên. Nó lấy giấy lau rồi cùng tôi vào nhà vệ sinh tắm rửa cho nhau.

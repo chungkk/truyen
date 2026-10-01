@@ -1,0 +1,110 @@
+Chapter 1
+========================================
+
+Năm đấy tôi là 1 thằng thanh niên 21 tuổi, cái tuổi vẫn còn ngựa non háu đá. Tôi có đam mê với việc lập trình từ lúc còn đi học cấp 3, vì vậy nên mặc dù ngày thi đại học tôi vào trường luật nhưng chưa bao giờ tôi từ bỏ đam mê của bản thân. Vậy là tôi quyết định đi học lập trình ở 1 trung tâm đào tạo phần mềm có tiếng.
+
+Tôi không phải tự hào gì về bản thân cho nhiều nhưng quãng thời gian học luật đã giúp tôi có óc tư duy logic về các vấn đề khá tốt.
+
+Buổi học ngày hôm đấy.
+
+Chúng tôi vào học môn học mới, học lập trình Java hướng đối tượng. Trớ trêu thế nào mà thầy giáo dạy lớp chúng tôi dạy được vài buổi thì có việc và đi mất hút, bỏ lại cả lớp bơ vơ. Nhà trường đành bố trí một giảng viên mới vào để dạy chúng tôi. Câu chuyện của tôi bắt đầu từ đây. Giảng viên mới của chúng tôi là một cô giáo trẻ, 28 tuổi, trông khá giản dị và xinh xắn. Mái tóc dài ngang vai hơi làm xoăn nhìn rất cuốn hút, cô vào lớp chúng tôi cũng là buổi đầu tiên đứng lớp nên có gì đó hơi ngại ngùng giống kiểu gái về nhà chồng.
+
+Tôi cứ tưởng là người đẹp thì dạy cũng sẽ hay nhưng tôi bị nhầm. Cô dạy khá tẻ nhạt và không có kỹ năng truyền đạt sư phạm, có lẽ bởi vì cũng là dân kỹ thuật tốt nghiệp ra đi làm giáo viên nên cô không có kỹ năng sư phạm. Các tiết dạy cứ thể tẻ nhạt trôi qua, học lập trình khá là khó khi ban đầu tiếp xúc với cách khai báo biến, khai báo hàm và cách viết câu lệnh thực thi vì thế mặc dù cô giảng nhưng lớp chúng tôi chúng nó ngồi như “chó xem tát ao” thôi chứ chả đứa nào hiểu gì hết do đơn giản là chúng nó vốn đang không hiểu cô giảng cái gì. Trừ tôi ra là hiểu bởi vì lý do là tôi đã đi học mót được nửa môn học ở lớp thằng bạn từ cách đấy cả tháng.
+
+Cậy mình hiểu nên thi thoảng tôi cũng hay lân la hỏi chuyện cô, cô cũng vui ra mặt vì ít nhất là giảng có thằng hiểu trong bạt ngàn con người dưới kia.
+
+Nhưng niềm vui chẳng tày gang, bọn lớp tôi nó ác như tê giác không biết thương hoa tiếc ngọc, nó đòi đổi giảng viên. Và cuối cùng lớp tôi được đổi giảng viên, tôi chia tay cô bằng email hướng dẫn cô cần phải dạy những gì trước tiên và dạy như thế nào (thực ra tôi học mót ở trên lớp thằng bạn thôi, chứ chả cao siêu gì đâu) cô đọc cũng gật gù rồi cũng ngưỡng mộ tôi lắm.
+
+Bẵng đi một thời gian sau đó, thực ra việc không được ngắm cô hằng ngày cũng đã dần đi vào dĩ vãng. Tôi mải mê với những công việc và dự định của bản thân. Vận may của tôi đến, tôi được cô bạn thân của mẹ tôi bán rẻ cho 1 căn nhà 4 tầng nằm trong 1 phố nhỏ. Khỏi phải nói, mua được ngôi nhà mặc dù không phải to cao rộng rãi nhưng ở cái tuổi đấy tôi cũng có quyền được tự hào về bản thân, giá nhà hồi đấy thì cũng rẻ thôi chứ không đắt như bây giờ đâu.
+
+Chả hiểu sao tôi lại email khoe với cô là tôi mua được nhà (tôi và cô giáo vẫn liên lạc với nhau nhưng là bằng email). Câu chuyện qua lại thì cũng không có gì đặc sắc ngoài việc thi thoảng gặp cô café rồi tán gẫu. Đến 1 hôm thì cô hẹn gặp tôi bảo có việc. Đến quán café quen thì cô đã ngồi đợi từ lúc nào, khác hẳn mọi ngày. Xong cô mới hỏi tôi:
+
+– Nhà em mua ở một mình thế có bị rộng không?
+
+– Ôi em ở một mình quen rồi mà cô.
+
+– Em ở một mình thế có cho thuê không?
+
+– Ơ em không, em không thích có người lạ vào ở cùng nhà với em nên em không nghĩ đến chuyện đấy.
+
+– Thế cho cô thuê có được không?
+
+Khỏi phải nói, tôi há hốc mồm.
+
+– Cô thuê ấy ạ? Cô đang ở với bố mẹ mà sao tự dưng lại đi thuê nhà là sao?
+
+– À thì ở chung với bố mẹ cũng không được tiện, nhà cô cũng 3 người, ông xã cô muốn chuyển ra ngoài ở riêng.
+
+Nghe đến đây thì lòng tôi trùng xuống, hóa ra cô có gia đình rồi, thậm chí là có con rồi, thế mà trước giờ tôi vẫn nghĩ cô chưa có người yêu, mà cô cũng không kể gì cho tôi nghe đến tận hôm nay. Vui chưa đến đã buồn thúi, nhưng tôi vẫn phải giả vờ vui vẻ.
+
+– Thế ạ, vâng chắc tại ở cùng thế cũng không thoải mái. Cô thấy ưng thì cứ về ở nhà em, đằng nào em cũng ở có 1 mình nên cũng buồn, có cô ở cùng biết đâu lại có người nấu cơm cho ăn.
+
+– Ôi tưởng gì chứ nấu cơm thì đơn giản. Thế định cho cô thuê bao nhiêu tiền 1 tháng.
+
+– Cái này thì em không biết, cô cứ đến ở thôi chứ em cũng chưa nghĩ đến lấy tiền.
+
+– Ơ thế sao được.
+
+– Có gì đâu mà không được ạ. Cô có cần đến xem qua nhà không?
+
+– Ừ có, cho cô xem qua cô còn về bảo với ông xã.
+
+– Vâng thế cô đi với em.
+
+Tôi mở cửa bước vào nhà. Cô òa lên “ôi rộng rãi nhờ”, tôi cứ cho cô đi ngó nghiêng hết chỗ này đến chỗ khác rồi bảo:
+
+– Nhà em có 4 tầng, tầng 1 thì em để xe với có bếp ở đây, còn các tầng trên là để ở, em đang ở tầng 3, nếu cô thích thì có thể ở tầng 2 chứ leo lên tầng 4 thì hơi cao.
+
+Cô đi trước tôi mà mắt tôi cứ dán vào cặp mông cong vút của cô lúc leo cầu thang. Ngó nghiêng 1 hồi thì cô ra ban công tầng 2 đứng ngó nghiêng. Lúc này tôi chỉ muốn từ phía sau ôm lấy cô, nhìn thấy hình cô gợi cảm thật. Hóa ra đây là thân hình của gái 1 con. Nhưng nghĩ thì nghĩ thế thôi chứ tôi cũng không dám liều. Có điều tôi tự nhủ nếu lần sau mà cô đến nữa thì tôi sẽ ôm lấy cô. Đang lúc miên man nghĩ bậy bạ thì cô quay lại vô tình chạm đùi vào tay tôi đang tì ở thành giường, tôi hơi giật mình, cô cũng giật mình rồi cười mỉm bảo tôi là cô sẽ về nghiên cứu rồi có gì cô quay lại sau. Khỏi phải nói thì tôi mong cô quay lại sau đến như nào.
+
+Cỡ 1 tuần sau thì cô quay lại thật, cô quyết định thuê nhà của tôi. Lần này cô đến xem xét cái tầng 2 và cái bếp để nghiên cứu kê đồ. Tôi như đứa trẻ được quà lon ton chạy theo cô trong nhà, phần vì tôi bị cô quyến rũ, phần vì tôi ở một mình cũng chán nên có người là vui. Cô ngó nghiêng hết ngóc ngách trong phòng rồi đứng chống tay vào thành giường ngắm nghĩa. Mông cô cong vút sau lớp váy công sở, tôi kiềm chế không nổi sán ra đứng lại gần cô. Cô biết tôi đứng ngay sát nhưng cũng không phản ứng gì. Tôi làm liều ôm lấy cô từ phía sau. Cô giật mình:
+
+– Em làm gì thế? Bỏ ra đi.
+
+– Em muốn ôm cô 1 cái.
+
+– Không được đâu, bỏ tay ra đi.
+
+– Kệ, em muốn có 1 người vợ như cô.
+
+Nói rồi tôi áp má vào lưng cô, tay siết chặt lấy bụng cô, cô cũng không phản ứng gì nữa, kệ cho tôi ôm rồi nói:
+
+– Có cần cô giới thiệu cho 1 bạn nữ không?
+
+– Em không, em thích cô chứ có thích bạn nữ nào đâu.
+
+– Ơ hay nhỉ, cô vừa già vừa xấu rồi còn thích cái gì.
+
+– Già xấu cũng được ạ, em thích là được.
+
+Tếu táo vậy xong, tôi cọ cọ cằm vào cổ của cô, tôi cảm thấy cô cũng đang thở gấp hơn. Tôi xoay cô lại rồi hôn.
+
+– Không được đâu em.
+
+Cô quay mặt sang 1 bên không cho tôi hôn. Tôi chẳng quan tâm, vục vào cổ rồi cắn vào tai cô. Cô phản ứng yếu ớt, tay tôi xoa mông cô rồi lùa lên lưng cô, sờ thích thật. Tôi cởi khuy áo sơ mi của cô rồi hôn vào ngực cô, mắt cô nhắm nghiền, tay bấu chặt vào lưng tôi. Tôi lần lượt cởi hết mấy khuy áo, chiếc áo ngực màu đen từ từ lộ ra, tôi vội vàng kéo xuống rồi tham lam ngoạm lấy 1 bên ngực cô mút lấy mút để.
+
+Cô thở gấp, hai tay buông thõng rồi lại tì vào thành giường. Tôi thấy thế liền lấy tay cầm 1 tay cô dí vào đũng quần của tôi, mồm thì vẫn đang miệt mài mút mát bầu ngực của cô. Tôi kéo tay cô lại chỗ nó đang cứng ngắc, cô hơi giật mình rụt tay lại, tôi vẫn kệ cứ dí tay cô vào đấy, rồi từ từ cô cũng nắm lấy nó từ bên ngoài quần. Tôi chuyển sang ngực bên kia mút, còn tay đã luồn xuống kéo chiếc váy công sở của cô lên tận bụng, tay tôi luồn vào trong chiếc quần tam giác của cô. Cô lấy tay giữ tay tôi lại.
+
+– Thế này thôi.
+
+– Em muốn đi xa hơn.
+
+Miệng nói, tay làm không kịp để cho cô phản ứng, tôi luồn ngón tay vào trong chiếc quần tam giác. Ồ, của cô đã ướt từ bao giờ, tôi lấy ngón tay móc ở phía trong thi thoảng lại xoa xoa đám lông ở ngoài, miệng thì vẫn không ngừng lấy lưỡi đá vào đầu ti của cô. Cô rên mạnh hơn thành từng tiếng “hứ hứ” làm tôi càng phấn khích.
+
+– Cô kéo khóa quần em xuống đi.
+
+Cô không trả lời mà 1 tay chống vào thành giường, tay còn lại thì kéo khóa quần tôi xuống 1 cách nhanh gọn, chẳng đợi tôi phải nói gì thêm, cô lôi tuột thằng nhỏ của tôi ra ngoài nắm lấy mà vuốt lên vuốt xuống. Tôi chịu không nổi nhả đầu ti cô ra rồi đứng thở hổn hển mặc cho cô muốn làm gì thì làm.
+
+Cô thấy tôi đứng lên thì lập tức quỳ xuống phía dưới tay vừa sóc vừa nhìn nó, có lẽ cô vẫn còn ngượng ngùng, tôi nhẹ nhẹ lấy hai tay giữ vào đầu cô, chứ tôi cũng không dám dí mồm cô vào sợ cô dỗi cô không làm nữa thì tiếc. Thấy tôi để hai tay lên đầu, cô như hiểu ý, tiến sát hơn đến nó rồi từ từ hôn nó một cách chậm rãi, rồi cũng từ từ cô ngậm nó vào mồm, cô cứ mút nó xong rồi lại nhả nó ra rồi lại mút vào một cách đều đặn, tôi chỉ biết đứng thở hổn hển. Xong cô mút nó nhanh hơn, như thể cô muốn làm cho nó ra luôn, nhưng không phải cô nhả nó ra rồi liếm láp xung quanh nó. Đang chìm vào tiên cảnh thì cô bảo.
+
+– Nằm xuống đi.
+
+Tôi nhanh nhẹn ngoan ngoãn nằm ngửa ra giường, cô ngồi ở dưới nhìn tôi không nói gì rồi tiếp tục dùng cái miệng xinh xắn ngậm lấy con cu của tôi, xong cô liếm xuống hai hòn bi rồi liếm ngược lên. Tôi cũng không thể ngờ được kỹ năng BJ của cô lại điêu luyện như vậy. Xong rồi bỗng nhiên cô cầm lấy con cu của tôi rồi ngồi lên nhấp. Vừa nhấp cô vừa dần dần tụt hết áo chip và áo sơ mi ra. Cô bắt đầu rên to hơn, nghe tiếng cô rên ư ư tôi rất phấn khích. Tôi biết sắp chịu không nổi nữa nên bảo cô.
+
+– Để em lấy bao đã.
+
+– Không cần.
+
+– Cô đáp gọn lỏn rồi tiếp tục nhấp trên người tôi. Càng lúc cô càng rên to hơn thành tiếng rên hừ hừ, tay cô bấu chặt vào bụng tôi mà hất lên hất xuống. Lát sau tôi thấy cô bật khóc rồi rũ người ra, tôi còn tưởng cô làm sao mà khóc, hóa ra mãi sau tôi mới biết khi cô lên đỉnh là cô bật khóc.
+
+– Cô định tuột xuống khỏi người tôi. Tôi bảo “em chưa ra” cô nhìn tôi cười cười rồi lại nhét cu tôi vào nhấp tiếp, cô không rên to như lúc nãy nữa nhưng mồm thì liên tục kêu “thích quá, thích quá” khiến tôi không chịu được “Em xuất tinh vào trong người cô nhá” tôi vẫn cố hỏi. Cô gật gật đầu rồi tiếp tục nhấp nhanh hơn. Tôi không chịu được nữa nên từng dòng tinh bắn thẳng vào người cô.

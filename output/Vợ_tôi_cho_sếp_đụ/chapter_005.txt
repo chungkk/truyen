@@ -1,0 +1,74 @@
+Chapter 5
+========================================
+
+Tôi mang nước ra hắn uống được một ngụm rồi rút điện thoại ra nghe “a lô… anh X à… ngay bây giờ àh… được rồi tôi sẽ bật máy ngay… ok”.
+
+“À này Bắc, vừa có một việc gấp, công ty đối tác ở bên mỹ cần trao đổi số liệu với tôi ngay bây giờ tôi phải về nhà ngay bây giờ để chat với họ, tuy nhiên cần có số liệu hiện tại ở máy trên công ty, bây giờ cậu giúp tôi việc này nhé, cậu đến công ty bật máy chủ lên để tôi về nhà VPN vào lấy số liệu ra, sau khi làm việc xong cậu lại tắt cho tôi” Tôi liếc mắt nhìn đồng hồ bây giờ là 11h tôi tỏ ra ái ngại.
+
+“Sao vậy cậu không định giúp tôi à, đây là việc rất gấp… thôi được để tôi gọi cậu Tuấn vậy”.
+
+“Ấy chết, sếp cứ để anh Bắc làm chứ 11h rồi chắc gì các nhân viên khác đã bật điện thoại” vợ tôi xen vào.
+
+“Anh Bắc, sao không vào thay quần áo chuẩn bị đi đi” tôi ra hiệu gọi vợ tôi vào phong trong.
+
+“Em biết mấy giờ rồi không? Có phải giờ làm đâu?” Tôi càu nhàu.
+
+“Anh vừa được sếp tha lỗi xong phải tranh thủ lấy lòng sếp đi chứ”.
+
+“Nhưng…” tôi định nói nhưng không yên tâm để hắn ở đây 1 mình với vợ tôi.
+
+“Thôi không nhưng gì cả, anh đi ngay đi không lỡ mất việc của sếp” vợ tôi giục Tôi mặc quần áo đi ra phòng khách gã sếp đứng dậy nói.
+
+“Cậu đi ngay đi tôi cũng về luôn đây”.
+
+“Sếp cứ uống nốt cốc nước rồi về đằng nào cũng phải đợi anh Bắc đến cơ quan bật máy đã” vợ tôi bảo rồi tiễn tôi ra cửa. Tôi quay lại bảo vợ.
+
+“Nó uống xong cốc nước em bảo nó về ngay nhé”.
+
+“Được rồi, anh đi đi, hôm nay anh làm tốt lắm, đi nhanh rồi về em đền cho nhé” nói rồi vợ tôi hôn tôi một cái.
+
+“Cậu đến cơ quan bật máy xong gọi điện cho tôi ngay” tiếng gã sếp nói vọng ra trong khi tôi dắt xe ra ngoài.
+
+Khoảng 15 phút sau tôi có mặt tại cơ quan sau khi bật máy chủ xong tôi nhấc điện thoại gọi cho gã Đức, phải đợi khá lâu gã mới chịu nhấc máy “Sếp à, tôi đã bật máy rồi”.
+
+“Tốt… cậu… chờ ở đó… khi nào xong… tôi sẽ gọi cho cậu… để tắt máy” gã sếp tôi vừa nói vừa thở phì phò tôi nghĩ thầm hắn chát với với bên kia, mỗi việc ngồi gõ phím thì sao lại mệt đến thế vừa nói vừa thở hồng hộc, nếu gã có phóng xe vội về nhà thì cũng làm gì mà mệt đến thế. Mà sao mình phải ở đây trông máy chủ cứ kệ nó sáng mai đến tắt có sao đâu, thằng sếp này yêu cầu oái oăm thật. Tôi mở console kiểm tra các session kết nối thì không hề thấy có kết nối nào, lạ thật tôi liền nhấc máy gọi.
+
+“A lô” gã sếp làu bàu.
+
+“Sếp à, sếp vẫn chưa kết nối được vào máy chủ à?”
+
+“À… chưa… vì… đối tác họ chưa… cần đến thông tin… trên đó”, vẫn giọng nói đứt quãng với tiếng thở phì phò.
+
+“Nếu họ không cần thông tin ở đây thì tôi tắt máy chủ nhé” tôi hỏi.
+
+“À… ờ… đối tác… đang rất… thỏa mãn… với những thứ… tôi đang làm… có thể sẽ không cần… thông tin trên cơ quan… nhưng cậu cứ đợi ở đó… đề phòng họ đòi… thông tin bất chợt” nghe gã cứ hổn hển nói như vậy tôi cảm thấy có gì đó không bình thường. Suy nghĩ một lúc tôi bấm máy gọi về cho vợ ‘anh à’ vợ tôi thỏ thẻ.
+
+“Em ngủ chưa?”
+
+“Chưa… em đang… nằm… đợi anh… về, ái… anh sắp… về chưa?” Sao thế em, nghe vợ tôi kếu ái trong điện thoại làm tôi giật bắn mình.
+
+“Không… không sao… em vừa… trượt… trượt khủy tay” vợ tôi hổn hển trả lời.
+
+“Sao tự nhiên lại trượt tay, có sao không?”
+
+“Vì em… đang… bò ra bàn… điện thoại” lạ nhỉ sao vợ tôi phải bò khi mà nằm cũng có thể với được điện thoại.
+
+“Thế thằng Đức nó về lâu chưa?”
+
+“Sếp… sếp anh… về ngay… sau khi anh di… á á” vợ tôi lại rên lên.
+
+“Sao thế em?” Tôi hoảng hốt không hiểu chuyện gì.
+
+“Không sao… chắc… à tay em… bị chuột rút, thôi… khi nào xong… anh về ngay… nhé, yêu… anh”. Nói đến đây vợ tôi dập máy, linh tính mách bảo tôi rằng có chuyện gì đó không bình thường, mà sao lạ thế cả thằng sếp và vợ tôi nói chuyện cứ thở hổn hển. Tôi chợt lờ mờ nhận ra có sự liên hệ nào đó trong các hiện tượng trên, ngay lập tức tôi đóng cửa cơ quan và phóng về nhà. Đi được khoảng 10 phút thì điện thoại tôi reo lên nhìn tên thấy biết gã Đức gọi(chắc hắn gọi bảo tôi tắt máy chủ) tôi liền dừng xe tắt máy ‘sếp àh’
+
+“Sao cậu không nghe điện thoại trong phòng” giọng gã lành lạnh.
+
+“Tôi… tôi vừa xuống đi vệ sinh, nên không nghe thấy chuông điện thoại” tôi nhanh trí ứng biến.
+
+“Thế à, công việc xong rồi cậu tắt máy chủ đi rồi về, tôi ghi nhận cố gắng này của cậu”.
+
+“Cám ơn sếp”. Tôi nổ máy và tiếp tục phóng xe về nhà, vì đã gần 12h đêm nên đường khá vắng tôi phóng rất nhanh, đến chỗ đường rẽ về khu nhà tôi thì vèo một cái, một chiếc xe máy khác phóng ngược chiều, may mà tôi cũng đã giảm tốc khi đến chỗ ngoặt, nếu không chắc đâm vào chiếc xe đó rồi, gã xe máy kia chẳng thèm nhìn đường cứ phóng vút đi tôi ngoái đầu theo định chửi thì giật mình nhận ra biển số xe rất dễ nhớ X5 – 6789, đấy chính là biển xe thằng Đức.
+
+Lạ nhỉ, sếp tôi giờ này phải đang ở nhà chứ, tôi ngoái lại lần nữa nhìn cho kỹ xem có phải là 29 – X5 – 6789 hay 30 – X5 – 6789 số của sếp tôi là đầu 29, tuy nhiên lúc này xe kia đã đi khá xa rồi nên tôi không nhìn rõ. Tôi liền phóng tức tốc về nhà Về đến nhà tôi lấy chìa khóa mở cửa và đi vào phòng, có tiếng nước chảy rào rào trong buồng tắm, chắc vợ tôi đang tắm, tôi chợt nghĩ sao hôm nay vợ sạch thế vừa tắm lúc tối rồi cơ mà.
+
+Lên đến phòng ngủ, trong khi cởi đồ tôi chợt thấy bộ đầm vợ tôi mặc lúc tối vứt lăn lóc trên sàn nhà, trên giường chăn gối ngổn ngang đầu giường là cái xu chiêng, cuối giường là cái xi líp (thật lạ lùng vợ tôi bình thường cởi quần áo ra là treo vào mắc ngay nhất là mấy bộ đầm hàng hiệu). Tôi gạt cái xu chiêng xuống đất, cầm cái xi líp định vứt xuống nốt thì tôi bỗng giật mình, chiếc xi líp ướt nhẹp. Lúc nãy khi tôi rúc đầu vào váy vợ nó có ướt đâu. Đưa lên mũi ngửi tôi nhận ra ngay mùi nước lồn còn nồng của vợ tôi. Ngay lập tức đầu óc tôi quay cuồng, mặt mũi sa sầm tôi chợt liên tưởng đến việc… cái việc tồi tệ nhất… có thể việc đó đã xảy ra.

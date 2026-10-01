@@ -1,0 +1,316 @@
+Chapter 10
+========================================
+
+28/4/2015.
+
+Tối qua mọi người ở nhà em đến tầm 11 rưỡi thì về để sáng nay còn về quê, lúc chơi bài em có nhảy vào chơi cùng chơi thay N vì thấy N bị búng tai khá nhiều nhìn cũng tội.
+
+Chơi ba cây thôi vừa nhanh vừa đỡ tính toán, cơ mà chả hiểu sao em chơi lại khá đỏ, lúc nhất lúc nhì, bét thì thi thoảng chắc có N ngồi cạnh.
+
+Em nhất thì để N búng còn em bét thì em bị búng chơi thêm tầm 15 20p mọi người kêu nghỉ, tai đứa nào đứa đấy đỏ hỏn.
+
+Các bác đừng nghĩ con gái thì búng nhẹ nhé không phải đậu vừa rang đâu, khá xoắn đấy búng phát nào “tạch” phát đấy đau thấy mợ luôn.
+
+Khoảng 1 lúc sau khi mn về hết thì em có tin nhắn của NA gửi.
+
+– Hi anh, anh ngủ chưa?
+
+– Ừ, anh chưa vừa mới chơi ba cây búng tai với mấy đứa xong hì, em ngủ chưa?
+
+– Hihi thế ạ, vui ghê, em lát nữa mới ngủ cơ, hôm nay anh bận gì à? – À NA chưa biết chuyện của em với N nhé.
+
+– Xóm anh vẫn vui mà hì, mà con gái ngủ muộn vậy không sợ mụn à cô bé? – Em đánh trống lảng.
+
+– Hôm nào em đến chơi với hihi, mụn thì sợ chứ ạ nhưng em chưa muốn ngủ ý.
+
+– Ừ hôm nào rảnh đến phòng anh chơi, làm gì mà giờ chưa muốn ngủ hả cô bé, không sợ bố mẹ mắng à.
+
+– Hi dạ, em có phòng riêng mà ứ sợ hihi, mai được nghỉ rồi nên em thức khuya 1 tí hi, mà bao giờ anh về ạ.
+
+– Thích nhỉ có phòng riêng thích làm gì thì làm, anh chiều mai về, cái TA không nói với em à?
+
+– Dạ em cũng không hỏi ạ, hi thôi em chuẩn bị đi ngủ đây chúc anh ngủ ngon nhé hi.
+
+– Ừ, chúc em ngủ ngon.
+
+Nhắn tin với NA xong cũng 12 rưỡi mợ rồi, con em ngủ từ nãy thôi đi ngủ mai còn dậy sớm chở N ra bến xe.
+
+Sáng nay con em nó gọi em dậy sớm, 6h 6 rưỡi đã léo nhéo rồi mợ hôm qua đã ngủ muộn thì chớ. Mệt mỏi bò dậy vscn nhanh còn ra ăn sáng, hôm nay N sang phòng em ăn cùng luôn đỡ phải nấu cách nhách.
+
+N đỡ khá nhiều rồi chỉ hơi sụt sịt thôi cũng may chứ ốm lâu thì sáng nay về sao được “sosad”. Mỗi người làm 1 bán bún con em em nó mua cũng ngon còn nóng hổi chắc mua của bác đầu ngõ.
+
+– Mấy giờ em về? – Em hỏi N.
+
+– Dạ tầm 7h kém anh, đi hơn về kém mà hi.
+
+– Ừ, tí để anh chở em ra bến xe, mà em chuẩn bị xong hết đồ chưa?
+
+– Vâng, xong hết rồi anh, có ít quần áo với cái máy tính thôi mà hi.
+
+– Ừ về đến nhà phải báo cho anh đấy.
+
+– Vâng, hi.
+
+7h kém 5 em chở N ra bến Mỹ Đình, đông như hội, ngày lễ có khác người người đổ về quê, năm nay được nghỉ hẳn 1 tuần nên về nhiều. Em về xe máy cũng đỡ lo không phải chen chúc mua vé chen chúc ghế ngồi trên xe.
+
+– Thôi em về đây, bye bye anh nhé hi – N cười vẫy vẫy tay.
+
+– Ừ, em về cẩn thận nhé, đang ốm đấy, mà em uống thuốc say xe chưa?
+
+– Em không say xe mà, anh quên rồi à – N xị mặt.
+
+– Ờ ừ, thôi em vào trong tìm xe đi, đông lắm đấy em cẩn thận nhé, về đến nơi thì gọi cho anh – em hơi lo lắng.
+
+– Vâng, em biết rồi anh về cũng cẩn thận nhé, đi chậm thôi biết chưa?
+
+– Ừ anh…
+
+“Chụt” N thơm 1 cái vào má em rồi chạy biến, nhìn dáng người nhỏ bé mờ dần mất dần sau đoàn người hối hả kia em tự nhiên thấy chột dạ. “Haiz về thôi”
+
+Về đến phòng con em đang gấp quần áo thu quần áo ngoài hành lang, nay cũng không nắng trời râm mát chiều về ngon rồi. 2 con bé phòng đầu cũng về sáng nay hình như về sớm nên không thấy cửa mở, mợ sợ nắng cháy da à ngồi trong oto chứ có phơi da phơi thịt người trời éo đâu.
+
+Thôi em đi chợ đây con em nó dục ăn sớm còn nghỉ ngơi để chiều lấy sức mà về à giờ con em nó cũng biết em viết chuyện trên này rồi, nó cũng chẳng nói gì chỉ dọa 1 câu.
+
+– Anh mà nói vớ vẩn về em về chị N với NA thì anh chết với em nhá, em mách mẹ luôn hứ – đậu xanh bị nó bắt thóp.
+
+À nó còn bảo.
+
+– Ôi trời, vào xem cmt với chuyện của anh mà toàn thấy nói tục, rồi còn nhận anh rể anh vợ gì gì nữa, vớ vẩn viết xong cái tab em out luôn không thèm. Ghét.
+
+Đấy các bác muốn là sao thì làm nhá, để con em em nó biết hết rồi đấy.
+
+28/4/2015.
+
+Chiều nay nắng to em chưa về được ngồi làm vài dòng cho hứng khởi. Trưa cả dãy tầng 3 có mỗi 2 anh em nên cũng chán các bác ạ. Ngồi nhặt rau cho con em thì N gọi điện, tầm 11h gì đấy.
+
+– Alo, anh đây.
+
+– Hi, em vừa… về… đến nhà… rồi anh ạ… – giọng N có vẻ yếu.
+
+– Ừ, sao giọng em nghe yếu vậy, mệt lắm hả? – Em lo lắng.
+
+– Dạ, em… em không sao anh ạ hi.
+
+Biết có chuyện rồi.
+
+– Thật không, nghe giọng em yếu lắm, nói thật anh nghe đi – Lần này rất lo cho N luôn.
+
+– Dạ, em… em… em lên xe được 1 lúc mệt quá nên…
+
+– Nên làm sao? – Em gần gắt lên.
+
+– Dạ, nên… bị ngất 1 lúc ạ, tại… em mới ốm dậy mà…
+
+– Trời ơi, biết thế anh không cho em về là xong, thế lúc trên xe có ai giúp em không?
+
+– Dạ, lúc ở bến xe em có gặp con bạn cùng quê nên về cùng nó anh, lúc em ngất nó có đỡ em rồi.
+
+– Rồi, thế giờ em nằm nghỉ đi, bảo mẹ nấu cháo cho mà ăn, thời tiết bây giờ thay đổi thất thường lắm, nhớ phải chăm sóc bản thân cho tốt biết chưa, anh lo cho em lắm.
+
+– Vâng, em biết rồi, thôi em ngủ tí đây, anh về cẩn thận nhé, về đến nhà nhớ gọi cho em nha.
+
+– Ừ, ngủ đi, uống thuốc ăn cơm đầy đủ nhé.
+
+– Vâng, bye anh.
+
+Khổ N quá, em thì không có ở đấy để lo cho N được, mong em sớm khỏe lại.
+
+Chiều chiều em có gọi cho N nhưng không thấy bắt máy chắc em đang ngủ.
+
+Con em đứng nấu cơm nghe được, cũng lo hỏi em vài ba câu.
+
+Mà cũng không có gì quan trọng lắm chỉ hỏi N xuất viện lúc nào, đỡ chưa… Tụi nó về quê tầm sáng rồi không đến thăm được, kể ra mấy thằng bạn em cũng biết quan tâm đến N thật cơ mà chẳng thằng nào dám tán vì biết N vẫn còn yêu em.
+
+Trưa nay NA có nhắn tin cho em nd thế này.
+
+– Anh về quê chưa? Hi.
+
+– Ừ anh chưa, chiều chiều mát anh mới về, trời nắng quá.
+
+– Dạ, chắc TA sợ nắng ý gì hihi, à anh về bao giờ lên ạ?
+
+– Anh chắc tầm đầu tuần sau mới lên hì, lâu lâu không về quê chơi rồi.
+
+– Dạ, mà ở quê anh chắc mát với vui lắm nhỉ hi.
+
+– Ừ, quê anh gần biển mà, gió mát lắm không khí trong lành yên tĩnh chứ không như trên này hì.
+
+– Thích nhỉ, khi nào có dịp em phải về chơi mới được hihi.
+
+– Ừ, hè về quê anh chơi, anh với TA dẫn em đi biển thích lắm.
+
+– Thật ạ, anh hứa nhé hihi.
+
+– Ừ anh hứa hì.
+
+– Dạ, em ngủ trưa đây ạ, anh với TA về chơi vui vẻ nhé, hihi bye bye anh Đ ngố.
+
+– Ừ, em ngủ ngon nhé, cơ mà anh không ngố đâu nhá.
+
+– Hi, anh ngố em ngủ đây.
+
+– Ừ, bye em.
+
+Ngố ngố cái đầu em ấy NA, anh đẹp choai thông minh thế này cơ mà mất hết cả hình tượng.
+
+– NA nhắn tin cho anh à – con em nó hỏi mợ tinh thế.
+
+– Ừ, sao mày.
+
+– Cẩn thận nó thích anh rồi đấy nhá, đào hoa gớm.
+
+– Chuyện anh mày mà lị – mặt em vênh lên.
+
+– Xì, toàn bốc phét, thôi anh sắp cơm đi em nấu xong rồi – đậu chuyên làm em tụt hứng chả có nhẽ lại đạp cho nó phát.
+
+Ăn xong em rửa bát nó ngồi máy tính thôi kệ có mỗi vài cái bát rửa tí là xong. Đang bị nó bắt thóp động vào nó thì vỡ mồm luôn. Khuấy khuấy bát đĩa xong xuôi em ngủ luôn, không chiều đi xe về vừa đi vừa ngủ gật thì “hàm ơi răng đi, hàm ở lại nhé” hỏng hết vẻ đẹp choai.
+
+29/4/2015.
+
+Chiều qua tận 4 rưỡi 5h kém em với con em mới về, thời tiết éo đẹp cho lắm lúc âm u lúc nắng.
+
+Mà tối qua nhà em có cỗ bố mẹ bắt về sớm rồi cả nhà đi ăn luôn, con em thì “nắng lắm em không về đâu” chả có nhẽ lại cho nó ở trên HN 1 mình.
+
+Về muộn đường thoáng lắm các thím ạ, gió mát vù vù mỗi tội em phải cầm lái từ HN về nhà lưng vai muốn gãy cmnl.
+
+Tình hình phải bắt con em học đi xe máy chứ để thế này là éo có được.
+
+Đi hơn 3 tiếng mới về đến nhà, về thì bố mẹ em ăn cỗ về lâu rồi, 2 anh em đành ăn đồ nắm phần thôi, canh chuối nấu xương thịt, sườn sào chua ngọt.
+
+Cũng tạm được thua xa em nấu.
+
+Ăn uống xong xuôi cũng hơn mợ 8 rưỡi định éo tắm cứ thế vác xác đi ngủ nghĩ đi nghĩ lại thôi tắm phát ngủ cho đã. Lúc đấy người nó rã rời mệt mỏi lắm rồi có cho 1 em chắc em cũng lắc đầu các thím ạ (éo có gay nhá). Tắm xong về phòng vớ con đt nhắn tin cho N, muộn rồi em không gọi.
+
+– Anh về đến nhà rồi, em đỡ chưa?
+
+– Anh về muộn vậy ạ, em đỡ nhiều rồi – N nhắn lại ngay chắc đang chờ tin em.
+
+– Ừ 5h anh mới trên HN về mà, trời nắng con TA nó bắt dâm mát mới về, mà em chưa ngủ à
+
+– Dạ, em đang chờ anh gọi mà hi, thôi anh nghỉ ngơi đi, đi xe máy chắc mệt lắm hi.
+
+– Ừ người anh đang rã rời đây, em ngủ sớm đi mà giữ sức khỏe, anh ngủ đây.
+
+– Da, chúc anh ngủ ngon.
+
+– Ừ, em ngủ ngon.
+
+Vứt cái điện thoại đấy éo checkluôn, đặt mình xuống giường đeo tai nghe mở bài “kiss the rain” thả hồn theo nhạc cho dễ ngủ. Em khá thích nghe những bài nhạc nhẹ nhạc không lời, máy em có cả kho mấy dòng nhạc này, hầu như tối nào đi ngủ em cũng nghe. Nằm được nửa tiếng con em nó mò vào, cái đậu lại định sang đây ngủ nhờ.
+
+– Cho em ngủ phòng anh nhé hihi – giọng ngọt sớt.
+
+– Lướt, về nhà mà mày còn định hành tao nữa à
+
+– Đi, cho em ngủ ở đây đi, em ứ ngủ 1 mình đâu sợ lắm – nó phụng phịu.
+
+– Sợ cái đầu mày à, nhà mình chứ nhà ai mà sợ hả, đến nữa tao lấy vợ mày cũng đòi ngủ cùng à con dở
+
+– Giờ khác, đến nữa khác, đi mà em ứ ngủ 1 mình đâu – mặt nó thế này.
+
+– Mày cứ ám tao thế hả, để tao gọi mẹ
+
+– Mẹ ơi, con TA nó… – em gọi với xuống nhà, phòng em với con em ở tầng 2 các thím hị hị
+
+– Mày để nó ngủ ở phòng mày thì có làm sao, cho nó ngủ ở đấy đi – mẹ em đáp lại luôn, thôi xong.
+
+– Ơ mẹ nó lớn rồi mà, nó đêm toàn gác con, sao con ngủ được – tao bực giọng.
+
+– Kệ xác 2 chúng mày, thôi ngủ đi khuya rồi, để bố mẹ còn ngủ
+
+– Vâng – nản thế
+
+Quay sang con em đang cười phớ lớ đạp cho phát giờ
+
+– Cười cái gì, thích nằm đất không hả con dở, tao cấm mày ngồi máy tính cấm mày gác tao biết chưa? – Em dọa nó
+
+– Vâng, em biết rồi he he.
+
+– Đi ngủ
+
+Em với tay tắt đèn bật điều hòa cho mát, đeo tai nghe nhắm mắt ngủ kệ xác con dở kia, mợ muốn đập cho nó trận thế không biết cơ mà nghĩ đến cái cảnh sáng ngày ra đứng tấn lại thôi. Hơn 11 rưỡi, thấy nóng nóng em dậy cái đậu xanh con em vẫn ngồi lù lù bên cạnh mắt chúi vào cái điện thoại bấm bấm.
+
+– Mày không ngủ à con này, biết mấy giờ rồi không.
+
+– Tí nữa em ngủ, con NA đang nhắn tin – mồm đáp tay vẫn bấm.
+
+– 2 Đứa mày yêu nhau à, mà mày tắt điều hòa hay sao mà nóng vãi – em cằn nhằn.
+
+– Vớ vẩn, nó kêu khó ngủ nên bắt em ngồi nhắn tin, bật điều hòa lạnh quá nên em tắt, anh bật quạt đi.
+
+– 2 con dở – em chốt câu.
+
+Đành bật quạt vậy, lằng nhằng với nó thì hết đêm.
+
+Sáng nay em dậy sớm, cứ về quê là thế các thím ạ, không ngủ nướng như trên HN được, con em không thấy đâu chắc dậy sớm nấu bữa sáng rồi chăm phết. Ngáp ngắn ngáp dài vào nhà nvs đánh răng rửa mặt (phòng em có luôn toilet trong nhà vậy cho tiện) rồi xuống ăn sáng cái, tối qua mệt ăn được có 3 bát đậu. Xuống nhà con em đang ngồi xem tivi chắc ăn rồi, bố mẹ em không thấy đâu.
+
+– Bố mẹ đâu rồi mày?
+
+– Bố đi đâu từ sáng rồi ý, mẹ đi chợ rồi anh – mắt vẫn dán vào tivi chả biết nó xem chương trình gì.
+
+– Ừ.
+
+Vào bếp đánh chén phát đã, có thực mới vực được đạo hị hị. Cũng chẳng có gì, bát bún gà với 2 quả trứng vịt lộn thôi, chẳng biết các bác sao chứ trứng vịt lộn em khá kén, ăn 1 quả là ngấy rồi mà lần nào mẹ em cũng bắt ăn 2 quả.
+
+Đánh chén no nê, ngoáy ngoáy cái bát xong em dắt con xe thần thánh ra tính vào bà ngoại chơi.
+
+Từ tết đến giờ em không vào rồi tại cũng chẳng có dịp để về.
+
+Bà em ngoài 80 rồi, ông mất năm em học lớp 5, giờ bà ở với cậu mợ.
+
+Tất cả các bác các dì các cậu nhà em đều ở gần nhau hết, mỗi nhà em là tách biệt cách tầm hơn 500m thôi, lần nào về quê em cũng vào bà chơi căn bản anh em chị em ở đấy hết ở nhà với con em cũng chán.
+
+Nhấc đt alo cho con em bên dì phát, nó bằng tuổi em thân nhau từ bé học cùng em suốt từ mầm non đến tận lớp 9, lên cấp 3 thì học cùng trường.
+
+– Gì vậy anh – giọng ngái ngủ đậu xanh, nó cũng học trên HN, về trước em 1 hôm, chuyện của em với N tất nhiên là nó biết.
+
+– Mày đang ngủ à, sang bà chơi không, tao vào giờ đây.
+
+– Vâng, anh vào đi.
+
+Cắm chìa khóa, bấm đề chuẩn bị vào số con em nó í ới luôn.
+
+– Anh vào bà à, cho em vào với – lại nghe trộm đt đậu.
+
+– Nhanh lên, cho mày 5s.
+
+– Xì, đợi em khóa cửa đã.
+
+Thế là lại bị con dở này nó bám đuôi. Đến nhà con D (tạm gọi nó thế này nhá các bác nó cao 1m60 nhìn cũng được mỗi tội gầy ăn mãi éo chịu béo) vẫn thấy đóng cửa, mợ ngủ mà kinh thế, em bẫm còi inh cmn ỏi.
+
+– Đây, đây, mẹ mới sáng ra đã khuya xóm khuya làng lên vậy – nó hậm hực mở cửa.
+
+– Anh Đ bị điên ấy mà, em chấp làm gì – con em nó chen vào.
+
+Sax ông cho mày ra nắng đứng cho mát giờ chứ lị. Vứt xe trước cửa em vào nhà nó luôn, nắng vãi ra méo hiểu dự báo thời tiết kiểu gì bảo nay với mấy ngày nữa trời mưa. Sáng nay có mỗi con D ở nhà, chắc chú với dì đi chợ, con MD (em gái D năm nay đang học lớp 6) không thấy đâu.
+
+– Mát quá, ơ mà MD đâu D – con em em hỏi.
+
+– Nó sang bà rồi chị, thôi em đánh răng rửa mặt rồi ăn sáng đã.
+
+– Ừ, nhanh lên – em đáp.
+
+Hơn 30p sau mới xong mợ con D này nó vốn là chúa lề mề, nói mãi éo chịu sửa.
+
+Sang bà, bà em đang đun nước 2 thằng em em (1 đứa con dì út 1 đứa con mợ em đang học lớp 7) đang chơi tiến lên với con MD, bà em lớn tuổi rồi nhưng vẫn cơm nước đều đều cho cậu mợ (cậu mợ em đi làm trưa, tối mới có mặt ở nhà) mn bảo bà cứ nghỉ ngơi đi để con cháu làm mà bà chẳng nghe. (Em xin phép không nói nhiều về gia đình người thân của em nhé các bác thông cảm).
+
+Hỏi thăm bà 1 lúc(bà em giờ khỏe hơn dạo trước rồi, mấy tháng trước bà em bị huyết áp cao với ốm phải đi bệnh viện mấy lần) em hùa vào chơi bài với mấy thằng em luôn, gì chứ mấy thằng này ăn hàng em suốt.
+
+– Chơi quỳ không 3 đứa – em nháy nháy.
+
+– Chơi thì chơi sợ gì – thằng tao (con dì út)
+
+– Cho chị chơi với – con D xen vào.
+
+– Cả chị nữa – lại con em em.
+
+– Rồi ok D với TA 1 bài, tao 1 bài, 2 đứa mày 1 mỗi đứa 1 bài.
+
+– Chơi luôn – thằng H (con cậu em)
+
+Chơi được hơn chục ván 2 thằng với 2 con em em quỳ há cmn mồm luôn, chơi gà mà đòi đấu với em. Bài em đỏ có 2 thì về nhất, không 2 thì cũng nhì với ba éo bị bét hị hị, mấy đứa quỳ nhiều quá kêu đau không chơi nữa. Cũng hơn 9h mịa rồi, em bắt con em về không tí trưa nắng to thì vỡ mặt.
+
+Chở nó về nhà, em lượn ra quán nét của thằng bạn em luôn. Nó tên K học với nhau từ bé giống con D. Quán nó mở được gần 1 năm rồi, chủ yếu là thành phần trẻ trâu cấp 3 ghiền LOL đột kích với fifa 3 ngồi.
+
+Sáng nay cũng không đông lắm, có hơn 20 máy thì trống gần 10 máy. Ngồi chém gió với thằng bạn tí em lênđọc truyện cho đỡ buồn.
+
+Chả mấy cũng 11h bố em gọi về ăn cơm. Tối mấy đứa bạn rủ đi uống nước, sáng đến giờ cũng chưa thấy N với NA nhắn tin gọi điện gì đậu chắc bận, tối ngủ nt sau hị hị.

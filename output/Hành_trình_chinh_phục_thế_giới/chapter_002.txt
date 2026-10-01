@@ -1,0 +1,90 @@
+Chapter 2
+========================================
+
+Giới thiệu 1 chút. Thằng Tuấn hiện là sinh viên năm nhất chuyên ngành khoa học máy tính. Từ bé nó đã được tiếp xúc với máy tính và vô cùng đam mê với lập trình. Nó nghiên cứu hướng AI cộng với sự thông minh của bộ não IQ=160 thì nó đã có rất nhiều giải thưởng lớn nhỏ. Vậy nên tuy mới vào đại học nhưng nó đã được mẹ giao cho phụ trách phát triển trợ lý ảo cho tập đoàn. Là mọt sách chính hiệu nhưng nó cũng có rất nhiều tài lẻ như đàn hát, chơi giỏi được nhiều môn thể thao từ bóng đá, bóng chuyền, bóng rổ đến cầu lông, quần vợt rồi còn bơi lội… Thông minh, đa tài, rồi lại sở hữu vẻ ngoài điển trai và nhà không có gì ngoài tiền nên nó là crush của rất nhiều cô gái. Nhưng nó lại sở hữu sự lạnh lùng của những đại thần trong truyền thuyết. Gia đình nó hiện còn có mẹ nó là Khánh My chủ tịch của hội đồng quản trị tập đoàn HM. Năm nay đã bước qua tuổi 43 nhưng vẫn sở hữu khuôn mặt xinh đẹp, mịn màng không tì vết, bộ ngực cao vút đầy đặn, cái eo dù đã trải qua 2 lần sinh nở nhưng vẫn thon gọn như con gái tuổi 20, đôi chân dài trắng muốt, nốt ruồi nhỏ dâm đãng điểm ngay cạnh đôi môi đỏ mọng. Còn chị nó là Khánh Linh, năm nay bước qua tuổi 21 và hiện đang là sinh viên ngành quản trị kinh doanh năm thứ 3 và cũng đang bắt đầu học quản lý tập đoàn. Chị nó được kế thừa vẻ đẹp từ mẹ cộng với nét cá tính và kiêu kỳ của 1 cô tiểu thư thời đại mới. Tuy nhiên chị nó không chỉ có vẻ đẹp chết người mà còn có 1 profile cực khủng về học tập khi có thể nói được 7 ngôn ngữ khác nhau. Ba của thằng Tuấn mất từ lúc nó còn trong bụng mẹ do 1 tai nạn xe mà nó được kể lại là rất kinh hoàng.
+
+Chuyển qua với nhà Linh Đan. Mẹ nàng là Thu Hà, bằng tuổi với mẹ thằng Tuấn sở hữu vẻ đẹp 1 chín 1 mười với Khánh My và hiện đang là CEO của HM. Xinh đẹp tài giỏi là vậy nhưng lại ly hôn với chồng 5 năm trước do chồng ra ngoài ngoại tình quá nhiều lần. Sau ly hôn nghe bảo ông đó cũng ra nước ngoài định cư luôn rồi. Linh Đan năm nay bước qua tuổi 18 đang học lớp 12 chuyên toán. Trái với chị của thằng Tuấn nàng sở hữu vẻ đẹp mộc mạc của 1 cô gái Á Đông. Tính tình hiền lành, dễ gần và hòa đồng với mọi người. Đi học 12 năm nàng cũng đã đạt HSG 11 năm trước đó, kèm theo hàng loạt bằng khen cấp thành phố.
+
+Sơ qua 2 nhà vậy là đủ rồi sau này sẽ biết cụ thể hơn nữa khi đọc truyện.Chả biết 2 đứa ngủ bao lâu mà đến khi thằng Tuấn tỉnh dậy thì nghe thấy tiếng nói cười rôm rả của mẹ My, mẹ Hà và chị Linh ở dưới nhà. Nó nhìn qua, Linh Đan vẫn đang nằm ngủ vùi trong vòng tay của nó. Với tay lấy cái điện thoại thì thấy đã hơn 8h sáng. Thả điện thoại xuống và ngắm nhìn nàng, lúc này nó mới thấy bình thường nàng đã xinh nay nhìn gần thì lại còn có nét đáng yêu nhờ vào gương mặt tròn bầu bĩnh. Càng nhìn nó càng cảm thấy yêu nàng hơn và rồi nó đặt 1 nụ hôn lên trán nàng.
+
+– A… bắt quả tang anh thấy người ta ngủ mê rồi lợi dụng he… nàng vừa nói vừa cười.– Anh có làm gì đâu… chẳng qua thấy em ngủ dễ thương nên hôn có 1 cái thôi mà. Mà hình như mẹ về rồi kìa.– Cho anh chết… Dám hiếp em… lát mẹ làm thịt anh luôn cho mà xem… hihi…– Hù anh chắc. Mẹ còn muốn bế cháu sớm mà… hahaa. Nói rồi nó bế nàng vào nhà tắm.
+
+Còn lúc này dưới nhà, chị Linh đang cầm điện thoại và lướt instagram để giết thời gian. Còn mẹ Hà và mẹ My thì đang vừa làm bếp vừa cười nói vui vẻ.
+
+Vệ sinh cá nhân cho nhau xong, Thằng Tuấn mở cửa phòng ra và bước xuống cầu thang. Càng xuống thì mùi xào nấu thơm phức lại làm nó cảm thấy đói bụng. Lúc này nó mới chợt nhớ, tối qua bận ăn Linh Đan mà nó còn chưa có gì bỏ bụng. Bước về phía nhà bếp, nó cất tiếng chào 2 má thì 2 người chỉ nhìn nó rồi cười sảng khoái, nó ngó ra phòng khách chọc chị Linh:
+
+– Ơ hay, con gái lớn rồi không nấu phụ mẹ nấu ăn mà ngồi đó nhắn tin với trai à…– Chị m đang nghiên cứu đồ trẻ em để mua cho cháu nè… hihi…– Cháu nào cơ?
+
+Mẹ My: Cháu nào thì phải hỏi Linh Đan kìa…
+
+Mẹ Hà: Nó mới ăn sinh nhật 18 là ăn nó liền ha… làm việc nhanh nhẹn nhỉ…
+
+– Hihi, con mà mẹ. À mà mẹ nấu gì vậy? Ăn được chưa? Chứ con đói lắm rồi…– Làm gì mà giờ này đói rồi, bình thường anh có ăn sáng đâu… Mẹ Hà hỏi…– Tại tối qua con chưa được ăn gì thì đã thành bữa tối của con gái mẹ rồi.– Nói xấu em ha… Rõ ràng là anh ăn em mà giờ lại đổ thừa do em mà anh không được ăn tối à? – Linh Đan vừa bước xuống nghe tối nói vậy thì hờn dỗi.– Nhìn 2 đứa nó đúng y chang vợ chồng mới cưới luôn… hihii – Chị Linh nhìn hai đứa vừa cười vừa nói.– Mẹ Hà: Thôi đi, chị không lo mà kiếm người yêu đi ngồi đó mà chọc 2 đứa nó…– Chị mà cứ lấy thằng em đẹp trai của chị đây làm tiêu chuẩn thì kiếm đến hết đời cũng không có đâu… hahaaa…– Thằng ảo tưởng… Chị m chưa thích yêu thôi chứ muốn có người yêu lúc nào chả được…
+
+Mẹ My: Đứa nào muốn ăn thì vào dọn ra ăn nè.
+
+Ăn uống xong, Tuấn ngồi bàn chuyện công việc của tập đoàn với 2 mẹ và chị Linh trong khi Linh Đan thì rửa chén. Lúc nàng vừa ngồi xuống bàn thì điện thoại nó đổ chuông. Nghe xong, Tuấn nói:
+
+– Con ra ngoài với bạn xíu… Quay qua nhìn Linh Đan, nó hỏi: Vợ đi chơi với anh không?– Đi chứ… Dù gì em cũng không có việc gì làm… hihi. Tuy là lớp 12 nhưng nhờ những thành tích khủng mà nàng đã được tuyển thẳng vào đại học nên với nàng bây giờ không quan tâm lắm đến điểm số nữa.– Vợ đi chơi với anh không? Nghe 2 đứa mày nói chuyện t mắc ói quá… Chị Linh lườm 2 đứa với vẻ mặt ghê tởm…– Cho đáng đời người ế hơn 20 năm… Mẹ My cười vào nỗi đau của con gái.
+
+Tuấn về nhà, tắm rửa, thay đồ, lấy chìa khóa xe và xuống gara lái con Mercedes – Maybach S450 giá sương sương 8 tỷ ra trước cổng nhà đợi nàng, hơn 15p sau. Nàng bước ra như 1 nàng thơ với chiếc váy trắng, mái tóc được cột gọn, trang điểm nhẹ nhàng và tay cầm 1 cái túi xách nhỏ.
+
+– Mình đi đâu vậy anh…– Đi bụi…– Vậy sao không nói sớm để em lấy thêm đồ… hihi…– Đi bụi mà lấy nhiều đồ làm gì. Nói chứ đứa bạn gọi ra bàn xíu việc.
+
+Tới quán cafe như đã hẹn với thằng Tùng. Bước vào quán thì đi tới bàn thằng Tùng đang ngồi với người yêu nó. Ngồi xuống nó kêu 1 ly cafe không đường và 1 ly cafe sữa rồi nhâm nhi… Giới thiệu chút về Tùng – là bạn thân của Tuấn, học cũng khá giỏi, trước nhà cũng khâm khá nhưng vì một sai lầm trong kinh doanh mà gia đình phải phá sản, còn nợ 1 khoản lớn, bố nó không chịu được mà tử tự. Trong nhà còn lại mẹ và em gái thua 4 tuổi. Nên Tùng phải bỏ học từ năm lớp 9, nhờ sự giúp đỡ của thằng Tuấn cũng như mồ hôi nước mắt và sự liều lĩnh của bản thân mà Tùng dần trả được hết nợ và giờ cũng có của ăn của để.
+
+Ngọc (người yêu Tùng): Cô vợ trong truyền thuyết của bạn tui đây à? (Ngọc bằng tuổi với Tuấn và Tùng)
+
+L. Đan: Hihi… Chào chị, em là Linh Đan. Mà sao chị biết em??
+
+Tùng: Thì thằng chồng em kìa lúc nào nó chả khoe là có 1 cô vợ xinh từ bé…
+
+Tuấn: Thôi đi ông cố, lâu lâu do m phát cơm chó thì t mới nói nha. Sao có chuyện gì mà nay kêu t ra gặp mặt mới nói được?
+
+Tùng: Thì chuyện bữa m nói t đó. Suy nghĩ thì nghề của t nó cũng hơi thất đức với cũng không trong sạch. Trước làm nó để trả nợ nhanh. Giờ trả hết nợ rồi cũng tích góp được 1 ít nên muốn chuyển qua làm ăn chân chính để còn lo cho mẹ và em t rồi còn cưới Ngọc nữa.
+
+Tuấn: V mà bữa cứ cố cãi bướng với t. Mà m giờ có bao nhiêu.
+
+Tùng: Thì bữa t gặp chuyện đang rối rồi m nói v t có suy nghĩ được gì đâu. Mấy nay suy nghĩ kỹ rồi mới gọi m ra nè. Đó giờ cũng tích góp được 1 khoảng hơn 30 tỷ một chút với 1 căn chung cư bên quận 8 và 1 căn nhà mà giờ t đang ở đó.
+
+Tuấn: M còn giàu hơn t rồi đó Tùng. Rồi 2 đứa m định bao giờ cưới?
+
+Tùng: Câm mẹ m đi, thiếu gia của tập đoàn lớn nhất quốc gia mà kêu nghèo hơn t. Với lại t có ngày hôm nay nhờ m hết đó. Ngày xưa, lúc mà nhà t sa cơ mà m cũng bỏ t như những đứa khác và không cho t mượn vốn làm ăn thì giờ chắc cũng chưa trả hết nợ chứ đừng nói đến là có của để. T với Ngọc thì chắc cưới nhưng phải năm sau mới được… Để năm nay ổn định làm ăn đã.
+
+Tuấn: Tập đoàn của mẹ t chứ có phải của t đâu mà giàu. Cái xưởng may của ba mẹ ngày trước bị ngân hàng siết nợ giờ nó như nào rồi?
+
+Tùng: Cái xưởng đó đợt t mua lại rồi, bà già t bảo nó là thanh xuân của ông bả ở đó nên k muốn mất nó.
+
+Tuấn: Vậy ngon rồi. Mẹ t đang muốn mở rộng mảng thời trang của công ty. M coi sửa rồi sắm đồ cho xưởng đi. Để t nói mẹ đưa đơn qua cho m làm. Mà m chuyển qua làm chân chính thì cũng lôi mấy thằng em m theo đi. Tụi nó theo m cũng mấy năm rồi.
+
+Tùng: Tất nhiên rồi m, t coi tụi nó như em út trong nhà mà. Thằng nào mà chịu theo t làm ăn chân chính thì t lôi theo, thằng nào k chịu thì t cho tụi nó một ít tiền cho nó muốn làm gì làm.
+
+Tuấn: V cũng được. Còn j nữa k? T còn có việc.
+
+Tùng: Nay chủ nhật mà có việc gì?
+
+Tuấn: Phận làm thuê nó v m ơi, chứ phải được làm chủ như m đâu… hahaa… Thôi k còn j t đi trước đây. Coi về chuẩn bị đi… Nào xong nói t để t kêu mẹ chuyển hợp đồng qua cho.
+
+Tùng và Ngọc cùng nói: Cảm ơn nhiều nha.
+
+Thằng Tuấn nắm tay L. Đan bước ra xe mở cửa cho nàng bước lên. Và cứ thế nó chạy tới 1 hotel của tập đoàn. Vào nhận phòng xong thì 2 đứa vào thang máy lên lầu 7. Mở cửa phòng đóng lại thì cả 2 lao vào nhau như 2 con thiêu thân. Cứ ôm nhau nút lưỡi và rồi từng mảnh vải trên người của cả 2 đã được lột ra hết. Ẵm nàng lên và để nàng nằm trên giường, nó chồm lên hôn lên trán nàng.
+
+– Ơ sao bảo nãy bảo với 2 người kia là anh đi công việc mà… Hihi…– Thì anh đang phải làm việc đây còn j… hahaa…
+
+Nàng cười và kéo đầu nó xuống nút lưỡi được mấy phút. Nó chủ động rời đôi môi quyến rũ đó để hôn xuống từ từ đến cặp vú tròn và núm vú hồng hào là da trắng mịn, mở miệng ra hết cỡ nó cắn vú nàng 1 cái. Lúc này cả 2 đang rất là hương phấn. Nó vừa bú vú vừa liếm núm vú nàng 1 cách rất hăng say như 1 đứa con đang bú sữa mẹ. 1 tay nó mò xuống gãi gãi hột le của nàng. Cái lồn không có lấy 1 cọng lông làm nó vô cùng thích thú. Lúc này nàng chỉ biết uốn éo cơ thể và rên khe khẽ bằng miệng. Thằng Tuấn rê lưỡi từ vú nàng xuống dưới tới hột le thì nó banh 2 chân nàng ra và liếm hột le rồi nó đưa miệng vào bú và húp hết những gì đang chảy ra từ lồn nàng càng bú thì 2 tay nàng càng ghì chặt đầu nó vào lồn nàng vừa rên vừa nói…
+
+– Đừng bú nữa anh ơi e chịu hết nổi rồi e sướng lắm anh ơi. Đừng bú lồn e nữa e tê hết lồn rồi a… a… á.
+
+Vừa bú lồn nàng nó vừa hỏi:
+
+– Sướng không e? Anh bú lồn e có sướng không?– Sướng lắm anh ơi a… aaa. Aaa. Anh làm tê hết lồn rồi. Anh nằm xuống đi để e làm anh sướng. Em muốn được bú của anh.
+
+Nó nằm xuống giường và nàng đè lên người nó 4 mắt nhìn nhau và nút lưỡi 1 tí thì nàng rà cái lưỡi chạy khắp người nó, nàng liếm núm vú nó rồi rà dần xuống con cặc khổng lồ đang cứng ngắc của nó. Nàng nhìn cặc nó rồi hỏi:
+
+– Của anh sao mà bự và dài vậy bảo sao hôm qua đâm em ê hết cả người nhưng mà e lại thích… hihi. Nàng nở 1 nụ cười nhìn rất đáng yêu nhưng lại pha trong đó 1 chút dâm. Rồi nàng cầm cặc nó và sóc vài cái sau đó ngậm nó vào miệng nàng bú rồi liếm 1 cách ra điêu luyện càng bú nàng càng hăng say ngậm hết cả con cặc bự của nó vào miệng luôn.– A… á. A anh sướng e ơi. Bú nhanh lên e. Anh sướng e giỏi quá vợ ơi. Nó chịu không nổi nửa ngồi dậy bảo nàng chổng mông lên rồi nó quỳ ngay giữa trung tâm chỉ huy cầm cặc rà lên xuống hột le rồi chậm chậm đút thẳng vào lồn. Dù đã bị xâm nhập từ tối qua nhưng nàng vẫn chưa quen với cái của nợ vừa to vừa dài của nó nên nhăn mặt hơi thở nặng nhọc. Nó cũng biết nàng vẫn còn rát nên để im 1 chút cho lồn nàng làm quen với cặc nó chứ không dám nắc liền. Khoảng 2, 3 phút nó bắt đầu khởi động cỗ máy bằng cách nắc chầm chậm để cơ lồn nàng nở ra và quen với cặc rồi tăng tốc nhanh dần dần 2 tay nàng bấu chặt vào đùi nó và bắt đầu rên…– Ứ… a… a từ từ thôi anh e chịu không nổi của anh bự dài làm e thốn nhưng e thích… á… a… á. Vợ sướng… ggggg chồng ơi. Nó thấy nàng đã quen rồi thì càng nắc mạnh và nhanh hơn. Nàng quằn quại và rên lên…– Ôi trời ơi, từ từ thôi chồng… vợ thốn… thốn quá… em chết vì sướng mất…– Có sao không cưng, đau và thốn lắm à vậy anh rút ra ha…
+
+Nó như chọc Linh Đan khi từ từ rút con cặc ra khỏi lồn nàng.
+
+– Không… ggg… đừng có rút, đừng rút ra, em bắt đầu quen rồi. Đụ vợ tiếp đi chồng. Nắc mạnh vào đi chồng. Vợ sắp sửa ra rồi. Nàng hơi chổng mông về phía sau để cho cặc nó đâm vào sâu trong âm đạo nàng hơn nữa. Tuấn cố gắng dập để cặc nó đút ra đút vào âm đạo bỏng ướt đẫm nước nhờn của Linh Đan. Nhìn vào sự phản chiếu của cái tivi trên tường, cảnh tượng hai người trần truồng đang làm tình với nhau thật là dâm dục. Tiếng động nhóp nhép vì sự giao hợp giữa cái lồn đầy nước nhờn của Linh Đan và con cặc cứng ngắc của Tuấn vang dội đầy phòng tắm. Bắp thịt ở cửa mình của nàng co thắt nhiều lần, giữ chặt dương vật Tuấn trong âm hộ nàng. Linh Đan gục đầu xuống cái gối và lịm đi khi một cơn khoái cảm chạy xuyên qua cơ thể nàng, luồn vào mọi xương tủy, từng thớ thịt của nàng. Nàng lẩm bẩm:– Vợ ra đây! Đụ vợ nữa đi. Đụ sâu vào lồn vợ nữa đi, không sao đâu! Vợ sướng chồng ơi… Từ phía sau Tuấn vẫn hai tay giữ hông nàng và thụt cặc lia lịa… mỗi lần nó đâm tới nàng lại hẩy người ra phía sau cho đầu cặc chui vào sâu hơn. Chỉ chừng vài phút sau nàng lại cảm thấy 1 cơn sướng nữa lại chạy qua cả người nàng. Nó vẫn cứ đâm những cú thật mạnh đến nỗi nàng cảm thấy dương vật đang chạm tới buồi trứng của mình giật giật. Rồi cuối cùng khi nàng đã lên đỉnh lần 3 thì cũng là lúc nàng cảm thấy 1 dòng tinh trùng tràn ngập trong buồng trứng của nàng. Linh Đan đang nghĩ với dòng tinh này bắn thẳng vào trứng của nàng như này thì dù cho nàng uống thuốc cũng không biết có tránh được việc mang thai không? Nàng xụm người nằm sấp xuống nệm, lồn nàng thì vẫn co thắt liên tục ép từng đợt từng đợt tinh trùng trào ra thành một vũng. Lúc này Tuấn nằm xuống rồi kéo nàng vào mình ôm và hôn lên trán nàng. Nét dâm đãng biểu lộ rõ trên gương mặt nàng, tay Linh Đan mân mê con cặc còn ướt mèm và dù mới ra nhưng vẫn còn cứng. Nở nụ cười nàng nói:– Chồng làm vợ sướng muốn chết… vợ ghiền chồng mất rồi…– Vợ cũng làm anh sướng lắm này… Kiểu này thì chắc là 2 bà ở nhà sắp được bế cháu rồi nhỉ… hihi…
+
+Và cứ thế 2 đứa hôn nhau 1 lúc rồi ôm nhau và chìm vào giấc ngủ…

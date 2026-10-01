@@ -1,0 +1,12 @@
+{
+  "name": "truyen-crawler-root",
+  "private": true,
+  "scripts": {
+    "mobile": "cd mobile && npm run ios",
+    "mobile:android": "cd mobile && npm run android",
+    "mobile:start": "cd mobile && npm start",
+    "web": "cd web && npm run dev",
+    "export-data": "python3 export_for_mobile.py",
+    "export-content": "python3 export_chapters_content.py"
+  }
+}

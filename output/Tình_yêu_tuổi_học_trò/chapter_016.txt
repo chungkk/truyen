@@ -1,0 +1,138 @@
+Chapter 16
+========================================
+
+Những ngày sau đó tôi thật sự cảm thấy choáng ngợp bởi cái mật độ nhắn tin kinh khủng của Ly. Đang ngồi học thì nhắn tin hỏi bạn đang học gì đấy, mình nhờ làm cái bài tập lý này chút, đôi lúc dở hâm gửi cho cái đề pascal rồi nhờ tôi nhắn lại câu lệnh để đánh. Nói thật bây giờ tự học nhiều về C, C++ mới biết được chút ít về lập trình chứ hồi đó pascal đúng là ác mộng, lớp được mấy đứa biết chút ít thì kiểm tra toàn đưa USB đi, thằng nào làm xong thì copy lại share cho anh em trong lớp, vì thế mà điểm tin lúc nào cũng chót vót, có mấy thằng chả biết gì mà toàn 9 phẩy.
+
+Lại nói về Ly, trưa, tôi vừa mò mặt về nhà thì nhận được tin nhắn: Bạn ăn cơm chưa? Hôm nay bạn ăn ở đâu? Tối đang học thì: Bạn sắp đi ngủ chưa, bạn thức khuya thế? Bạn định thi trường gì vậy? Nói tóm lại là nó rất rảnh, nhiều tin nhắn đến độ nhiều lúc chả buồn rep nữa, nhưng thế cũng đâu có yên, 1 lúc sau lại có tin nhắn đến:
+
+– Sao bạn không trả lời vậy? Mình đang buồn lắm?
+
+– Sao lại buồn, mình nói cái này bạn đừng giận, tình mình hay nói thẳng, sao bạn nhắn tin nhiều thế, học đi, 12 rồi đấy.
+
+– Mình sắp đi du học rồi, mình đang phân vân không biết nên đi hay ở nhà, bố mẹ muốn mình đi, nhưng mình sang bên đó, lại là con gái nữa biết sống như thế nào. Với lại sắp phải xa bạn bè nữa, mình sang đó chắc không liên lạc được với bạn nữa rồi, chắc nhớ bạn lắm đấy.
+
+Đúng là kiểu con nhà có điều kiện đây mà, sống sung sướng quen rồi nên không chịu được 1 tí mệt nhọc. Người ta thì mơ cũng không được, mình thì được rồi lại chả buồn đi. Mà đi thì cứ đi, nhớ mình là ý gì vậy… – tôi nghĩ thầm, thôi khuyên nó đi cho rảnh nợ.
+
+– Theo mình thì bạn nên đi bạn ạ, mình muốn lắm cũng không được đây này, sang đó rồi bạn sẽ trưởng thành hơn. Sống trong 1 môi trường mới, 1 xã hội mới thì sẽ được mở mang kiến thức rất nhiều. Với lại, đi du học sẽ rất có tương lai.
+
+– Mình cũng biết vậy nhưng mà vẫn thấy buồn lắm.
+
+– Thôi đừng buồn nữa, phải vui lên mới phải, lúc nào đi thì nhắn mình tiếng, hehe.
+
+
+Sáng đến lớp, đưa chuyện Ly ra hỏi mấy thằng trong lớp, hỏi nó như thế là ý gì.
+
+– Nó đang tán mày đấy?
+
+– Điên à, biết gì nhau đâu mà tán?
+
+– Chẳng có đứa hâm nào lại đi nhắn suốt ngày thế đâu. Tốt nhất là mày nên tìm hiểu kĩ nó xem, tao không nghĩ nó ở Hà Nội đâu.
+
+Tối… lên Y!m, đăng nhập ẩn, thấy nick Ly sáng, đúng rồi, vào blog nó xem, thế là mò vào ngay, nhưng chả tìm được thông tin gì ngoài mấy bài viết vớ vẩn. Thử Search nick nó trên google xem… Đây rồi, 1 loạt thông tin hiện ra, đúng là google thần chưởng vô địch thiên hạ, hỏi gì cũng viết. Tên đầy đủ ***** ***** Ly, học ở Xyz, quả đúng rồi.
+
+Trời, có 1 bài báo nói về nó sao?…Không thể tin nổi……Ly từng thi Miss ở trường và là 1 người rất nổi tiếng…
+
+1 cảm giác kinh ngạc bao trùm lấy tâm trí tôi, không thể ngờ Ly lại là 1 người đặc biệt đến vậy, nhưng trong thâm tâm tôi vẫn hiểu mình ở đâu, và mình đang làm bạn với ai. Đằng sau 1 vẻ bề ngoài xinh đẹp ấy lại là 1 con người thật đáng thương, bạn bè rất nhiều mà không có được niềm vui, luôn sống trong 1 sự cô độc và 1 vỏ bọc do cô ấy tự tao ra. Mặc dù ban đầu có hơi ngờ ngợ nhưng đến lúc này tôi tin cô gái nổi tiếng ấy chính là Ly, người mà tôi cố ruồng bỏ và cảm thấy khó chịu, tất nhiên, khi đã biết Ly thật ra là ai thì tôi cũng thay hẳn thái độ với cô ấy. Nhưng dù sao vẫn phải hỏi cô ấy, tại sao lại giấu mình như vậy. Đành nhắn tin hỏi vậy :
+
+– Hey Lily đang làm gì đấy?
+
+– He, hôm nay tiến bộ nha, tự dưng nhắn tin hỏi thăm Ly. Đang nghe nhạc vơi lướt web thôi.
+
+– D có cái này muốn hỏi, Ly trả lời thật nha? Đã là bạn rồi thì đừng giấu nhau chuyện gì ok?
+
+– Uh, chuyện gì mà có vẻ quan trong nhỉ.
+
+– Ly từng đi thi miss đúng không.
+
+
+– Làm sao D biết được ???
+
+– Ly nghĩ con trai lớp lý ngốc nghếch lắm à?
+
+– Không, nhưng Ly nghĩ chuyện đó không quan trọng lắm nên không nói.
+
+– Chuyện đó không quan trong à, hay thật.
+
+– Đúng, chuyện Ly thật ra là ai có liên quan gì đến việc Ly kết bạn với D. Với lại D có bao giờ hỏi đâu, chẳng lẽ tự dưng Ly đi kể thế à.
+
+– Uhm, Ly nói đúng, nhưng mình thật sự shock khi biết thân phận thật của Ly đấy.
+
+– Ly muốn tìm 1 người bạn chơi với Ly bởi vì quý mến con người Ly chứ không phải vẻ bên ngoài của Ly D hiểu không, nên Ly không muốn nói ra chút nào. Những người bạn xung quanh Ly học sống giả lắm, đằng trước thì tươi cười, đằng sau thì họ nói xấu, chỉ muốn lợi dụng nhau thôi, nên Ly chán phải gặp họ.
+
+– D hiểu rồi, xin lỗi đã hơi quá lời.
+
+– Vậy ta vẫn là bạn chứ.
+
+– Uh, tất nhiên rồi.
+
+Ngày hôm sau đến lớp, kể xong đứa cùng bàn đứa nào cũng mắt chữ O mồm chứ A, không đứa nào tin. Mà thôi kệ, tin hay không tùy bọn nó. Chuyện này có nên kể với baby không nhỉ, kể xong không khéo em ý ghen lên ấy chứ . Mà sao dạo này rủ baby đi chơi khó thế, lúc nào cũng em bận học mất rồi, mà em thì chả bao giờ dám rủ mình đi cả, thôi kệ, chiều phải gặp em mới được.
+
+Chiều…
+
+– Chào vợ !
+
+– Thôi đi anh, ai là vợ anh, đừng giận vơ nhá.
+
+– Thì là vợ tương lai được chưa.
+
+– Tương lai ai mà biết được.
+
+– 10 năm nữa anh sẽ cưới em mà, hehe, anh xem bói rồi.
+
+– Gì cơ, xem ở đâu?
+
+– Anh tự xem chứ đâu.
+
+– Thế mà cứ tưởng, ai chứ anh bỏi thì em đảm bảo trật 100%
+
+– Đó là em chưa biết tài nghệ của anh rồi.
+
+– Thế thì thử bói xem em sắp đi đâu xem nào?
+
+– Em sắp đi đâu à? Đi chơi với anh chứ đi đâu.Nói xong kéo em đi luôn, để em chẳng kịp phản đối.…
+
+– Đấy, thấy anh bói đúng không?
+
+– Xi… đúng là cái đồ vũ phu, kéo người ta giữa trường thế đấy…
+
+– Anh ơi, em đói, trời lạnh mau đói?
+
+– Đi ăn chân gà nướng đi.
+
+– Yeah.
+
+– Xi… đúng là cái đồ háu ăn.
+
+– Ai cho anh nhái giọng em đấy.
+
+– Anh thích thế đấy.
+
+Hóa ra baby lúc cần cũng đanh đá lắm đấy chớ, cãi với em nó chẳng nổi, tôi lúc nào cũng bị đuối lí. Thế cũng tốt, khỏi bị bắt nạt. Chứ ngây ngô như kẹo mút thì sau này em nó chắc khổ lắm, suốt ngày bị bắt nạt thôi. Nghĩ lại mình vẫn chưa làm gì để chuộc lỗi lần trước với em nó. Đúng rồi mình sẽ mua tặng cho em 1 cái khăn quàng, kẹo mút rất thích quàng khăn, mua khăn cho nó chắc nó sẽ vui lắm. Thế là ăn xong rủ baby đi chọn khăn, để thử xem baby có biết ghen không? Kì lạ thật, nó tỏ ra rất hào hứng mới chết chứ.
+
+– Đây, cái này đẹp đấy, màu rất phù hợp với H.
+
+– Em thích thì lấy nó vậy, mà khoan đứng đây chờ anh 1 tí.
+
+Nói xong tôi chạt vụt sang hàng bên mua cho baby 1 con gấu bông khá to,màu trắn, nhìn khá, quay lại tặng em. Baby ngạc nhiên lắm, cà rất vui, thấy em vui là tôi hạnh phúc rồi, tôi hiểu cái cảm giác đó chứ, chẳng lẽ tôi mùa quà cho 1 người con gái khác mà lại không tặng gì cho em.
+
+– Cảm nhiều lắm lắm ý. Anh làm em bất ngờ quá!
+
+– Không có gì, em vui là được rồi, hì.
+
+– Tưởng anh không nhớ đến em nữa chứ.
+
+Hóa ra em cũng để ý chứ không phải chẳng có ý kiến gì, thế là tốt rồi, làm mình cứ tưởng…
+
+– Anh này, em muốn nói với anh cái này.
+
+– Hả, gì em.
+
+– Úi chờ xí, em có điện thoại… chết rồi, anh ơi, chở em về nhà cái, có việc gấp anh ạ.
+
+– Uh, mà em định nói gì vậy?
+
+– Thôi để khi khác anh ạ.…
+
+Chiều tối… ngồi nghe nhạc…
+
+Tôi tình cờ phát hiện ra… 1 sự thật không thể chấp nhận, 1 kẽ hở nhỏ đã phá hỏng tất cả kế hoạch. Tôi cảm thấy nực cười cho bản thân mình…

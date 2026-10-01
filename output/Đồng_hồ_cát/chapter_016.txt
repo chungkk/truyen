@@ -1,0 +1,20 @@
+Chapter 16
+========================================
+
+Lại một tuần nữa Phong cúp học để ở nhà dưỡng thương. Phần thưởng cho việc này là hàng tá bài tập về sinh lý hay văn hoá. Sự mất tích của Hân đã khiến ngôi trường PTNK vốn bình yên nay trở nên xôn xao khác lạ. Hàng loạt những giả thiết được đặt ra nhằm lấp đầy đi sự tò mò của các cô cậu 15-16 tuổi. Có nhiều “thuyết âm mưu” được sáng tác bởi những thiên tài thích tọc mạch chuyện của người khác như Hân cùng Phạn đưa nhau đi trốn, hay đã gia nhập binh đoàn điện máy xanh, hoặc đi xa buôn bán thùng…
+
+Tuy nghỉ học nhưng nhờ những thông tin được cung cấp bởi Liên, Phong nhanh chóng nắm được tình hình. Hắn lập tức ra lệnh cho cấp dưới đàn áp luồng thông tin không chính thống, đồng thời lấp đầy đầu của những đứa khác bằng một sự kiện do hắn tự biên ra. Việc dùng quyền lực kiểu này, Phong không hay sử dụng nhưng để che mắt dư luận, lần này hắn buộc phải làm vậy. Những cơ quan chức năng nhỏ lẻ như quận, huyện có thẩm quyền để thụ lí vụ mất tích này đều được Phong bịt tai, khiến việc gia đình Hân nhờ vả đến cơ quan chức năng là vô ích. Những quyền lực về cả tài chính và địa vị đó chỉ đơn giản vì hắn là con của một ngài nào đấy, do đó những việc hắn đã làm là khá đơn giản.
+
+Ở nhà một tuần, nói là chỉ toàn dưỡng thương không thì cũng đếch phải, Phong đã có thêm thời gian để nghiên cứu sâu hơn về TC. Hắn dành phần lớn thời gian cho việc nâng cấp chương trình, đồng thời cố gắng sáng tạo ra những thuật toán mới giống như khi trước cuộc chạm trán Phạn – Hân. Nếu chỉ xét riêng về thời gian để dành cho TC trong cái tuần rảnh đấy thì Phong đã dành đến 70% chỉ để ngồi trước chiếc máy tính thịnh hành nhất hiện tại là chiếc Mac Pro 10.
+
+Trong đầu Phong, Vy cũng như một số ít thiên tài lập trình khác, Mac Pro 10 là chiếc máy tính duy nhất đủ khả năng gồng gánh hàng loạt chương trình chạy liên tục, bên cạnh Surface Book mang tên Fri13 chạy Window 20. Hắn thường viết code đến 12h – 1h sáng, với thời lượng làm việc trung bình khoảng 12 – 15 tiếng/ngày. Tất nhiên là ai làm việc cật lực thì sẽ được đền đáp, thanh cấp kĩ năng của Phong lại tăng được thêm một khúc nữa. Tuy quãng cách để đến với LV2 còn khá xa nhưng tốc độ tiến triển đã giúp hắn có thêm nhiều động lực.
+
+Cuối cùng thì cũng đến ngày Phong đủ khoẻ để đi học trở lại. Mới đến cổng trường, hàng loạt ánh nhìn tò mò hướng về phía hắn. Phong quên mất một điều rằng, bên cạnh sự mất tích của Hân, cùng thời gian đó hắn cũng không có mặt ở trường. Vì không nhớ đến vụ này nên Phong không ra lệnh cho cấp dưới xử lí.
+
+Các ánh nhìn soi mói khiến Phong khó chịu, nhưng không hề để lộ biểu cảm ra bên ngoài. Khi ngồi vào chỗ của mình, hắn để ý thấy trong những cặp mắt và những tiếng xì xầm thì có đôi mắt của Vy. Dù chỉ là khẽ thoáng qua, nhưng với sự nhanh nhạy được tôi luyện khi cày Liên Minh, Phong đoán được rằng có gì đó không đúng về thái độ của Vy giành cho hắn, đặc biệt là sau nụ hôn ấy. Bình thường thì hơi lạ, với mọi người thì Vy thường chỉ trao đổi bình thường hoặc có chút lạnh nhạt của cái chảnh mà thôi. Còn với Phong, cô nàng đặc biệt lạnh lùng và xa cách. Bởi thế nụ hôn ấy mới say đắm, mới đê mê đến thế.
+
+Sau lần ấy thì hình như Vy cũng lâu lâu liếc hắn, nhưng ánh mắt bớt đi sự sắc cạnh, băng giá. Sĩ diện của bản thân Phong không cho phép hắn vồ vập, nhưng trong lòng lại vui sướng, ruột gan hắn cứ múa cả lên. Dù sao cô cũng là con gái chủ tịch mà. Cái ánh nhìn thoáng qua ấy dường như ấn định một điều rằng, định mệnh đã sắp đặt cho một sự song hành. Bóng dáng đứa nào đó tiến lại gần. Ra là thằng Thành, cái đứa mà hắn đã giúp để khỏi phải rơi đầu, tiến lại vỗ vai.
+
+– Đi đâu mà nghỉ học lâu vậy mày ?
+
+Một cơ hội không thể tốt hơn để Phong giải quyết dấu chấm hỏi về hắn của lớp 10A1. Từ đó lợi dụng khả năng lan toả thông tin của đám con gái lắm chuyện để làm im lặng chuyện này. Nhưng đồng thời cái lí do mà hắn đưa ra cũng phải hết sức hiển nhiên, nhằm tránh làm mất hình tượng bản thân.

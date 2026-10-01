@@ -1,0 +1,56 @@
+Chapter 45
+========================================
+
+Tuần lễ thi kiểm tra chất lượng đầu năm nhanh chóng diễn ra với các môn Toán, Lí, Hóa, Anh, Văn, Sinh, và dĩ nhiên là bằng hình thức trắc nghiệm khách quan.
+
+Tôi, Luân khùng, Tuấn rách cầm đầu ba môn Toán, Lí và Hóa rồi nên đề thi có 45 phút, chúng tôi chỉ cần nửa tiếng là giải trọn toàn bộ. Việc còn lại chỉ là thằng nào bấm máy tính nhanh hơn với tô tròn đáp án nhanh hơn mà thôi. Xui xẻo làm sao cho Tuấn rách khi hôm thi môn Lí nó để quên bút chì, phải cắn răng cầm cái ngòi bút chì thay kim nhỏ xíu để làm bài.
+
+Nhưng đám Khang mập, Dũng xoắn, Chiến, Xung và Quý thì lại khốn khổ vật lộn với hầu như tất cả các môn. Và một số đứa trong lớp cũng vậy, thế cho nên sau môn Sinh đầu tiên không lấy làm gì khá khẩm lắm, cả bọn mới họp lại để hi vọng cùng tìm ra phương án giải quyết. Ba cây chụm lại nên hòn núi cao, quả nhiên các phương án tìm ra cực kì thần diệu, vừa tồn tại cả lĩnh vực tâm lí học, xác xuất thống kê, lại còn có cả truy tìm vận mệnh.
+
+Đại khái những bí quyết làm bài trắc nghiệm được nêu ra như sau:
+
+Thứ nhất, nãy giờ chưa có đáp án B phải không? Chọn B cho nó cân!
+
+Thứ hai, đáp án được 3 câu A liên tục rồi à? Không thể nào câu thứ 4 lại là A được nữa, chọn C ngay!
+
+Thứ ba, mấy môn nào học bài thuộc lòng, câu nào dài nhất thì “auto” đúng!
+
+Đặc biệt cẩn thận với mấy câu “Tất cả đều đúng” hoặc “Tất cả đều sai”, nếu đề là khẳng định thì hãy chọn phủ định. Vì phủ định của phủ định là khẳng định, đã hiểu rồi chứ?
+
+Nếu không thể áp dụng được các trường hợp trên? Đừng lo, đến lúc này còn phải xem vận mệnh tạo hóa của bạn như nào.
+
+Thứ nhất, chọn ngày tháng năm sinh, không thì chọn ngày thi hôm này, lấy đó chia 4, dư bao nhiêu thì lại chia tiếp, ra thứ tự đáp án thì thôi.
+
+Thứ hai, phải có máy tính tệ nhất là Fx – 500, không thì Fx – 570 nha. Bạn đã có trên tay chiếc máy tính thần kì này chưa? Có rồi à, tốt. Bước tiếp theo, xài hàm Random của máy để chọn đáp án, nhập các biến số là 4 nha.
+
+Thứ ba, thật thành khẩn viết A – B – C – D vào 4 mảnh giấy rồi tung lên trời, để cho các bậc thần tiên trên chín tầng mây nhìn xuống mà quyết định vận hạn của chúng ta.
+
+Càng họp đến đâu chúng tôi càng cảm thấy đầu óc sáng ra đến đây, hệt như vừa có ai đó bước lại gần mà vén bức màn mây mù, từ đó ánh mặt trời chân lí chói qua tim.
+
+Tôi đem áp dụng bí kíp trắc nghiệm ngay vô môn Anh Văn và nín re một phép không dám khoe khoang với Tiểu Mai về cách mình làm bài.
+
+– Anh sao rồi, làm bài được không? – Tiểu Mai hỏi sau khi kết thúc bài thi Anh Văn.
+
+– Ơ hơ, ba cái đồ yêu, of course I can do it baby, very very very easy! – Tôi xổ hết vốn liếng tiếng Anh của mình ra một tràng, và cũng chỉ được có nhiêu đó.
+
+– Ừ hử, năm nào thi xong ông cũng nổ vậy hết, để coi phát điểm ra thì thế nào! – Nàng lừ mắt nhìn tôi.
+
+– Dĩ nhiên điểm cao, em cứ lo bò trắng răng colgate! – Tôi vỗ ngực tự tin vào bí kíp của mình.
+
+– Rồi ôn bài Văn cho ngày mai chưa đó?
+
+Nghe tôi đoan chắc như thế thì Tiểu Mai cũng yên tâm phần nào, nàng chuyển đề tài.
+
+– Có gì để học đâu mà ôn, ai muốn viết gì viết mà!
+
+– Thì cũng phải nghĩ xem mình sẽ viết gì trước chứ, vào đó anh mới bắt đầu nghĩ à? Chỉ có mười lăm phút thôi nha!
+
+– Văn thì anh dốt lắm, có cố mấy cũng vậy thôi!
+
+Nào ngờ nàng phản đối ngay, ánh mắt nhìn tôi cương nghị như lấp đầy hi vọng bên trong:
+
+– Anh rồi sẽ giỏi văn, em không nhìn sai người đâu!
+
+Lúc đó, tôi cũng không biết Tiểu Mai dựa vào đâu mà dự đoán rằng một ngày nào đó tôi sẽ viết văn rất hay. Chỉ biết chính những lời của nàng lúc này đã khiến tôi thêm trung can nghĩa đảm, dẫn tới bài thi Văn của ngày hôm sau được cô Tuyết Nhiệt Đới đánh giá khá cao.
+
+Nhưng được đánh giá rất cao, lại chính là bài của nàng.
