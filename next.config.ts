@@ -1,9 +1,10 @@
 import type { NextConfig } from "next";
+import path from "path";
 
 const nextConfig: NextConfig = {
   // Fix Turbopack workspace root detection (project moved from /web/ to root)
   turbopack: {
-    root: ".",
+    root: path.resolve("."),
   },
 
   // Include generated chapter JSON files in Vercel's serverless bundle
