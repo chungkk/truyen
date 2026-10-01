@@ -13,7 +13,7 @@ export async function GET(
     return NextResponse.json({ error: 'Invalid chapter number' }, { status: 400 });
   }
 
-  const data = getChapterContent(decodedSlug, chapterNum);
+  const data = await getChapterContent(decodedSlug, chapterNum);
   if (!data) {
     return NextResponse.json({ error: 'Chapter not found' }, { status: 404 });
   }

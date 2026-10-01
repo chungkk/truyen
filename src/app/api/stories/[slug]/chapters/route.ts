@@ -7,7 +7,7 @@ export async function GET(
 ) {
   const { slug } = await params;
   const decodedSlug = decodeURIComponent(slug);
-  const chapters = getChapterList(decodedSlug);
+  const chapters = await getChapterList(decodedSlug);
 
   if (chapters.length === 0) {
     return NextResponse.json({ error: 'Story not found' }, { status: 404 });
