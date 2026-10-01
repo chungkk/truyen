@@ -48,6 +48,41 @@ export function getStoryBySlug(slug: string): StoryMeta | null {
   return _stories.find((s) => s.slug === slug) ?? null;
 }
 
+// ── Search ────────────────────────────────────────────────────────────────────
+
+/**
+ * Lowercase and strip Vietnamese diacritics so "co giao" matches "Cô giáo".
+ * NFD splits base letters from combining marks; đ/Đ have no decomposition
+ * so they are mapped by hand.
+ */
+export function normalizeVi(text: string): string {
+  return text
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/đ/g, "d")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+// Precomputed once at module load; stories.json is static.
+const _searchIndex = new Map<string, string>(
+  _stories.map((s) => [s.slug, normalizeVi(`${s.title} ${s.author}`)])
+);
+
+/**
+ * Filter stories by title/author. Accent-insensitive, so both "cô giáo"
+ * and "co giao" match. All whitespace-separated words must appear.
+ */
+export function searchStories(query: string, from: StoryMeta[] = _stories): StoryMeta[] {
+  const words = normalizeVi(query).split(" ").filter(Boolean);
+  if (words.length === 0) return from;
+  return from.filter((s) => {
+    const hay = _searchIndex.get(s.slug) ?? "";
+    return words.every((w) => hay.includes(w));
+  });
+}
+
 // ── Chapter helpers ───────────────────────────────────────────────────────────
 
 /**

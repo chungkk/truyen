@@ -7,6 +7,7 @@ import {
   getAllCategories,
   getGenresWithCount,
   getAuthorsWithCount,
+  searchStories,
 } from "@/lib/data";
 import SearchAndFilter from "@/components/SearchAndFilter";
 import Pagination from "@/components/Pagination";
@@ -25,7 +26,7 @@ export default async function HomePage({
   }>;
 }) {
   const params = await searchParams;
-  const query = params.q?.toLowerCase() || "";
+  const query = params.q?.trim() || "";
   const genreFilter = params.genre || "";
   const authorFilter = params.author || "";
   const categoryFilter = params.category || "";
@@ -41,11 +42,7 @@ export default async function HomePage({
   let filtered = allStories;
 
   if (query) {
-    filtered = filtered.filter(
-      (s) =>
-        s.title.toLowerCase().includes(query) ||
-        s.author.toLowerCase().includes(query)
-    );
+    filtered = searchStories(query, filtered);
   }
   if (genreFilter) {
     filtered = filtered.filter((s) => s.genres.includes(genreFilter));

@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import { getAllStories } from '@/lib/data';
+import { getAllStories, searchStories } from '@/lib/data';
 
 export async function GET(req: Request) {
   const { searchParams } = new URL(req.url);
@@ -11,10 +11,7 @@ export async function GET(req: Request) {
   let stories = getAllStories();
 
   if (q) {
-    const lower = q.toLowerCase();
-    stories = stories.filter(
-      s => s.title.toLowerCase().includes(lower) || s.author.toLowerCase().includes(lower)
-    );
+    stories = searchStories(q, stories);
   }
 
   if (genre) {
