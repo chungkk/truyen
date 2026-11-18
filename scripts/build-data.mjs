@@ -67,7 +67,12 @@ for (const dir of storyDirs) {
   stories.push({ ...meta, num_chapters: numChapters, slug });
 }
 
-stories.sort((a, b) => a.title.localeCompare(b.title, "vi"));
+// Stories with "pinned": true in metadata.json go first on the homepage.
+stories.sort(
+  (a, b) =>
+    (b.pinned ? 1 : 0) - (a.pinned ? 1 : 0) ||
+    a.title.localeCompare(b.title, "vi")
+);
 
 fs.writeFileSync(
   path.join(DATA_DIR, "stories.json"),
