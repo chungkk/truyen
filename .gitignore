@@ -36,4 +36,5 @@ next-env.d.ts
 # mobile
 mobile/node_modules
 mobile/.expo
+mobile/android/.gradle/
 mobile_src/node_modules
