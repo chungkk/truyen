@@ -9,7 +9,7 @@ export async function GET(
   const decodedSlug = decodeURIComponent(slug);
   const chapterNum = parseInt(chapter, 10);
 
-  if (isNaN(chapterNum)) {
+  if (!/^\d+$/.test(chapter) || Number.isNaN(chapterNum) || chapterNum < 1) {
     return NextResponse.json({ error: 'Invalid chapter number' }, { status: 400 });
   }
 
@@ -22,6 +22,7 @@ export async function GET(
     headers: {
       'Access-Control-Allow-Origin': '*',
       'Access-Control-Allow-Methods': 'GET',
+      'Cache-Control': 'public, s-maxage=3600, stale-while-revalidate=86400',
     },
   });
 }

@@ -1,10 +1,31 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Navbar from "@/components/Navbar";
+import { getSiteUrl } from "@/lib/site";
 import "./site.css";
 
+const siteUrl = getSiteUrl();
+
 export const metadata: Metadata = {
-  title: "Truyện Online - Kho Truyện Hay Miễn Phí",
-  description: "Đọc truyện online miễn phí, cập nhật liên tục mỗi ngày. Truyện hay, truyện mới nhất.",
+  metadataBase: new URL(siteUrl),
+  title: {
+    default: "Truyện Online - Kho Truyện Hay Miễn Phí",
+    template: "%s | Truyện Online",
+  },
+  description:
+    "Đọc truyện online miễn phí, cập nhật liên tục mỗi ngày. Kho truyện hay, truyện mới nhất đầy đủ thể loại.",
+  openGraph: {
+    type: "website",
+    locale: "vi_VN",
+    siteName: "Truyện Online",
+    title: "Truyện Online - Kho Truyện Hay Miễn Phí",
+    description:
+      "Đọc truyện online miễn phí, cập nhật liên tục mỗi ngày. Kho truyện hay, truyện mới nhất đầy đủ thể loại.",
+  },
+  robots: {
+    index: true,
+    follow: true,
+  },
 };
 
 export default function RootLayout({
@@ -28,14 +49,7 @@ export default function RootLayout({
         </div>
 
         {/* NAVBAR */}
-        <div className="navbar1">
-          <Link href="/" title="Trang chủ">
-            <span className="item selected">Trang chủ</span>
-          </Link>
-          <Link href="/danh-muc" title="Danh mục">
-            <span className="item">Danh mục</span>
-          </Link>
-        </div>
+        <Navbar />
 
         {/* DISCLAIMER BOX */}
         <div style={{ background: "#fff", border: "1px solid #88beff", marginTop: "1px", marginBottom: "1px", padding: "6px 5px" }}>

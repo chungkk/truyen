@@ -53,18 +53,29 @@ for (const dir of storyDirs) {
 
   // num_chapters drives the chapter list in the app. Use the highest chapter
   // file present rather than the crawler's metadata, which can overcount.
-  // Some stories have gaps in the middle, so use max, not count.
-  const numChapters = fs
+  // Some stories have gaps in the middle, so record missing_chapters when any exist.
+  const chapterNums = fs
     .readdirSync(path.join(OUTPUT_DIR, slug))
     .map((f) => f.match(/^chapter_(\d+)\.txt$/))
     .filter(Boolean)
-    .reduce((max, m) => Math.max(max, parseInt(m[1], 10)), 0);
+    .map((m) => parseInt(m[1], 10));
+
+  const numChapters = chapterNums.reduce((max, n) => Math.max(max, n), 0);
+  const chapterSet = new Set(chapterNums);
+  const missingChapters = [];
+  for (let i = 1; i <= numChapters; i++) {
+    if (!chapterSet.has(i)) missingChapters.push(i);
+  }
 
   // Decode HTML entities in text fields from the crawler
   if (meta.title) meta.title = decodeHtmlEntities(meta.title);
   if (meta.author) meta.author = decodeHtmlEntities(meta.author);
 
-  stories.push({ ...meta, num_chapters: numChapters, slug });
+  const entry = { ...meta, num_chapters: numChapters, slug };
+  if (missingChapters.length > 0) {
+    entry.missing_chapters = missingChapters;
+  }
+  stories.push(entry);
 }
 
 // Stories with "pinned": true in metadata.json go first on the homepage.

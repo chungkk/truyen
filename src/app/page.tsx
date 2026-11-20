@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { Suspense } from "react";
 import {
@@ -7,6 +8,7 @@ import {
   getAllCategories,
   getGenresWithCount,
   getAuthorsWithCount,
+  getFirstChapterNumber,
   searchStories,
 } from "@/lib/data";
 import SearchAndFilter from "@/components/SearchAndFilter";
@@ -14,23 +16,63 @@ import Pagination from "@/components/Pagination";
 
 const STORIES_PER_PAGE = 20;
 
+type HomeSearchParams = {
+  q?: string;
+  genre?: string;
+  author?: string;
+  category?: string;
+  page?: string;
+};
+
+export async function generateMetadata({
+  searchParams,
+}: {
+  searchParams: Promise<HomeSearchParams>;
+}): Promise<Metadata> {
+  const params = await searchParams;
+  const query = params.q?.trim() || "";
+  const genre = params.genre || "";
+  const author = params.author || "";
+  const category = params.category || "";
+  const parsedPage = parseInt(params.page || "1", 10);
+  const page = Math.max(1, Number.isNaN(parsedPage) ? 1 : parsedPage);
+
+  const parts: string[] = [];
+  if (query) parts.push(`Tìm kiếm "${query}"`);
+  if (genre) parts.push(`Thể loại ${genre}`);
+  if (category) parts.push(`Danh mục ${category}`);
+  if (author) parts.push(`Tác giả ${author}`);
+  if (page > 1) parts.push(`Trang ${page}`);
+
+  if (parts.length === 0) {
+    return {
+      alternates: { canonical: "/" },
+    };
+  }
+
+  const title = parts.join(" - ");
+  const description = `Danh sách truyện ${parts.join(", ").toLowerCase()} đọc online miễn phí tại Truyện Online.`;
+
+  return {
+    title,
+    description,
+    // Avoid indexing infinite internal search query URLs
+    robots: query ? { index: false, follow: true } : { index: true, follow: true },
+  };
+}
+
 export default async function HomePage({
   searchParams,
 }: {
-  searchParams: Promise<{
-    q?: string;
-    genre?: string;
-    author?: string;
-    category?: string;
-    page?: string;
-  }>;
+  searchParams: Promise<HomeSearchParams>;
 }) {
   const params = await searchParams;
   const query = params.q?.trim() || "";
   const genreFilter = params.genre || "";
   const authorFilter = params.author || "";
   const categoryFilter = params.category || "";
-  const page = Math.max(1, parseInt(params.page || "1", 10));
+  const parsedPage = parseInt(params.page || "1", 10);
+  const page = Math.max(1, Number.isNaN(parsedPage) ? 1 : parsedPage);
 
   const allStories = getAllStories();
   const genres = getAllGenres();
@@ -103,13 +145,16 @@ export default async function HomePage({
           </Link>
         </div>
       ) : (
-        stories.map((story) => (
+        stories.map((story) => {
+          const firstChapter = getFirstChapterNumber(story);
+          const storyHref =
+            story.num_chapters > 0
+              ? `/truyen/${encodeURIComponent(story.slug)}/${firstChapter}`
+              : `/truyen/${encodeURIComponent(story.slug)}`;
+          return (
           <div key={story.slug}>
             <div className="noibat">
-              <Link
-                href={`/truyen/${encodeURIComponent(story.slug)}/1`}
-                title={story.title}
-              >
+              <Link href={storyHref} title={story.title}>
                 <strong>{story.title}</strong>
               </Link>
               {story.num_chapters > 0 && (
@@ -120,10 +165,7 @@ export default async function HomePage({
               )}
             </div>
             <div className="bai-viet-box">
-              <Link
-                href={`/truyen/${encodeURIComponent(story.slug)}/1`}
-                rel="nofollow"
-              >
+              <Link href={storyHref} rel="nofollow">
                 <span className="summary">
                   {story.author && (
                     <>
@@ -149,7 +191,8 @@ export default async function HomePage({
               </div>
             </div>
           </div>
-        ))
+          );
+        })
       )}
 
       {/* PAGINATION */}

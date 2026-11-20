@@ -1,6 +1,44 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getStoryBySlug, getChapterList } from "@/lib/data";
+import { getSiteUrl } from "@/lib/site";
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}): Promise<Metadata> {
+  const { slug } = await params;
+  const decodedSlug = decodeURIComponent(slug);
+  const story = getStoryBySlug(decodedSlug);
+  if (!story) return { title: "Không tìm thấy truyện" };
+
+  const genresText = story.genres.slice(0, 5).join(", ");
+  const description = [
+    `Đọc truyện ${story.title}`,
+    story.author ? `tác giả ${story.author}` : "",
+    story.num_chapters > 0 ? `(${story.num_chapters} chương)` : "",
+    story.status ? `- ${story.status}` : "",
+    genresText ? `. Thể loại: ${genresText}.` : ".",
+  ]
+    .filter(Boolean)
+    .join(" ");
+
+  const canonical = `/truyen/${encodeURIComponent(decodedSlug)}`;
+
+  return {
+    title: story.title,
+    description,
+    alternates: { canonical },
+    openGraph: {
+      type: "book",
+      title: story.title,
+      description,
+      url: canonical,
+    },
+  };
+}
 
 export default async function StoryPage({
   params,
@@ -13,9 +51,37 @@ export default async function StoryPage({
   if (!story) notFound();
 
   const chapters = getChapterList(decodedSlug);
+  const siteUrl = getSiteUrl();
+  const storyUrl = `${siteUrl}/truyen/${encodeURIComponent(decodedSlug)}`;
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Book",
+        name: story.title,
+        url: storyUrl,
+        ...(story.author ? { author: { "@type": "Person", name: story.author } } : {}),
+        ...(story.genres.length > 0 ? { genre: story.genres } : {}),
+        inLanguage: "vi",
+        numberOfPages: chapters.length,
+      },
+      {
+        "@type": "BreadcrumbList",
+        itemListElement: [
+          { "@type": "ListItem", position: 1, name: "Trang chủ", item: siteUrl },
+          { "@type": "ListItem", position: 2, name: story.title, item: storyUrl },
+        ],
+      },
+    ],
+  };
 
   return (
     <div>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       {/* BREADCRUMB */}
       <div className="bai-viet-box" style={{ marginBottom: "4px", fontSize: "12px" }}>
         <Link href="/">Trang chủ</Link>
@@ -25,7 +91,7 @@ export default async function StoryPage({
 
       {/* STORY INFO */}
       <div className="noibat">
-        <strong style={{ fontSize: "16px" }}>{story.title}</strong>
+        <h1 style={{ fontSize: "16px", fontWeight: "bold" }}>{story.title}</h1>
       </div>
 
       <div className="bai-viet-box">
@@ -81,13 +147,13 @@ export default async function StoryPage({
         {chapters.length > 0 && (
           <div style={{ marginTop: "8px" }}>
             <Link
-              href={`/truyen/${encodeURIComponent(decodedSlug)}/1`}
+              href={`/truyen/${encodeURIComponent(decodedSlug)}/${chapters[0].number}`}
               className="button"
             >
               📖 Đọc từ đầu
             </Link>
             <Link
-              href={`/truyen/${encodeURIComponent(decodedSlug)}/${chapters.length}`}
+              href={`/truyen/${encodeURIComponent(decodedSlug)}/${chapters[chapters.length - 1].number}`}
               className="button"
               style={{ background: "#118638", marginLeft: "4px" }}
             >
@@ -109,10 +175,10 @@ export default async function StoryPage({
               <Link
                 href={`/truyen/${encodeURIComponent(decodedSlug)}/${ch.number}`}
               >
-                <em style={{ color: "red", marginRight: "4px" }}>
-                  Chương {ch.number}:
+                <em style={{ color: "red" }}>
+                  Chương {ch.number}
                 </em>
-                {ch.title}
+                {ch.title !== `Chương ${ch.number}` && `: ${ch.title}`}
               </Link>
             </div>
           ))}

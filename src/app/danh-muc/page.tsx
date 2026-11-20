@@ -1,5 +1,15 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import { getAllCategories, getGenresWithCount } from "@/lib/data";
+
+export const metadata: Metadata = {
+  title: "Danh mục & Thể loại truyện",
+  description:
+    "Tổng hợp đầy đủ danh mục, phân loại và thể loại truyện hay đọc online miễn phí.",
+  alternates: {
+    canonical: "/danh-muc",
+  },
+};
 
 export default async function DanhMucPage() {
   const categories = getAllCategories();
